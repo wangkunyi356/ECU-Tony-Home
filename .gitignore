@@ -1,4 +1,4 @@
-﻿# ===== 系统文件 =====
+# ===== 系统文件 =====
 .DS_Store
 Thumbs.db
 Desktop.ini
@@ -7,6 +7,7 @@ ehthumbs.db
 # ===== 依赖 =====
 node_modules/
 jspm_packages/
+bower_components/
 .pnp/
 .pnp.js
 # 锁定文件建议提交以保证构建一致性，如需忽略请取消下行注释
@@ -23,6 +24,7 @@ out/
 .nuxt/
 .cache/
 .parcel-cache/
+.turbo/
 temp/
 tmp/
 
@@ -42,11 +44,11 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
+lerna-debug.log*
 
 # ===== 缓存 =====
 .eslintcache
 .stylelintcache
-.turbo/
 coverage/
 .nyc_output/
 
@@ -61,6 +63,8 @@ coverage/
 *.njsproj
 *.sln
 *.sw?
+.project
+.classpath
 
 # ===== 临时文件 =====
 *.tmp
@@ -70,6 +74,10 @@ coverage/
 *.pid
 *.seed
 *.pid.lock
+
+# ===== 其他 =====
+.vercel
+.netlify
 
 # ===== 网站资源优化缓存 =====
 # 图片压缩缓存等可按需忽略

@@ -860,6 +860,115 @@ button:focus-visible {
   border: 2px solid var(--black);
 }
 
+/* Scenery */
+.section-scenery {
+  background: var(--white);
+}
+
+.scenery-intro {
+  max-width: 720px;
+  margin: 0 0 20px;
+  display: grid;
+  gap: 6px;
+}
+
+.scenery-intro p {
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.7;
+  font-weight: 500;
+}
+
+.scenery-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+
+.scenery-card {
+  margin: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.scenery-frame {
+  position: relative;
+  background: var(--white);
+  border: var(--border) solid var(--black);
+  box-shadow: var(--shadow);
+  padding: 8px;
+  transform: rotate(-0.3deg);
+}
+
+.scenery-card:nth-child(2) .scenery-frame {
+  transform: rotate(0.5deg);
+  background: var(--yellow);
+}
+
+.scenery-card:nth-child(3) .scenery-frame {
+  transform: rotate(0.4deg);
+  background: var(--green);
+}
+
+.scenery-card:nth-child(4) .scenery-frame {
+  transform: rotate(-0.4deg);
+}
+
+.scenery-frame img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border: var(--border) solid var(--black);
+  display: block;
+  filter: contrast(1.03) saturate(1.02);
+}
+
+.scenery-sticker {
+  position: absolute;
+  right: -8px;
+  bottom: 14px;
+  background: var(--black);
+  color: var(--white);
+  font-family: "JetBrains Mono", monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  padding: 4px 8px;
+  border: var(--border) solid var(--black);
+  box-shadow: 3px 3px 0 var(--black);
+}
+
+.scenery-sticker.green {
+  background: var(--green);
+  color: var(--black);
+}
+
+.scenery-sticker.yellow {
+  background: var(--yellow);
+  color: var(--black);
+}
+
+.scenery-sticker.black {
+  background: var(--black);
+  color: var(--white);
+}
+
+.scenery-card figcaption {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--black);
+  color: var(--white);
+  font-family: "JetBrains Mono", monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  padding: 6px 10px;
+  border: var(--border) solid var(--black);
+  width: fit-content;
+}
+
 /* Perth */
 .section-perth {
   background: var(--green);
@@ -1214,6 +1323,10 @@ button:focus-visible {
   }
 
   .interests {
+    grid-template-columns: 1fr;
+  }
+
+  .scenery-grid {
     grid-template-columns: 1fr;
   }
 

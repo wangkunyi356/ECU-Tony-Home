@@ -6,8 +6,8 @@ export async function onRequest(context) {
   const kv = env.STATS_KV || env.KV;
   if (kv) return handleKv(request, kv);
 
-  const supa = getSupabaseEnv(env);
-  if (!supa) return jsonResponse({ error: 'Supabase not configured. Set SUPABASE_URL and SUPABASE_ANON_KEY in EdgeOne env' }, 500);
+  const supa = getSupabaseEnv(env) || getSupabaseEnv(typeof process !== 'undefined' ? process.env : {}) || getSupabaseEnv(globalThis);
+  if (!supa) return jsonResponse({ error: 'Supabase not configured. Set SUPABASE_URL and SUPABASE_ANON_KEY in EdgeOne env', debug: Object.keys(env || {}) }, 500);
 
   const ip = getClientIp(request);
   const dedupRes = await fetch(`${supa.url}/rest/v1/like_ips?ip=eq.${encodeURIComponent(ip)}&select=ip`, {
@@ -59,8 +59,9 @@ async function supaIncrement(supa, field) {
 }
 
 function getSupabaseEnv(env) {
+  if (!env) return null;
   const url = env.SUPABASE_URL || env.NEXT_PUBLIC_SUPABASE_URL;
-  const key = env.SUPABASE_ANON_KEY || env.NEXT_PUBLIC_SUPABASE_ANON_KEY || env.SUPABASE_KEY || env.SUPABASE_PUBLISHABLE_KEY || env.SUPABASE_PUBLISHABLE_DEFAULT_KEY || env.SUPABASE_SECRET_KEY;
+  const key = env.SUPABASE_ANON_KEY || env.NEXT_PUBLIC_SUPABASE_ANON_KEY || env.SUPABASE_KEY || env.SUPABASE_PUBLISHABLE_KEY || env.SUPABASE_PUBLISHABLE_DEFAULT_KEY || env.SUPABASE_SECRET_KEY || env.sb_publishable_default;
   if (!url || !key) return null;
   return { url: url.replace(/\/$/, ''), key };
 }

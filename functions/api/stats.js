@@ -11,8 +11,8 @@ export async function onRequest(context) {
     }
   }
 
-  const supa = getSupabaseEnv(env);
-  if (!supa) return jsonResponse({ views: 0, likes: 0 });
+  const supa = getSupabaseEnv(env) || getSupabaseEnv(typeof process !== 'undefined' ? process.env : {}) || getSupabaseEnv(globalThis);
+  if (!supa) return jsonResponse({ views: 0, likes: 0, debug: Object.keys(env || {}) });
 
   const res = await fetch(`${supa.url}/rest/v1/site_stats?id=eq.1&select=views,likes`, {
     headers: { apikey: supa.key, Authorization: `Bearer ${supa.key}` }
@@ -24,8 +24,9 @@ export async function onRequest(context) {
 }
 
 function getSupabaseEnv(env) {
+  if (!env) return null;
   const url = env.SUPABASE_URL || env.NEXT_PUBLIC_SUPABASE_URL;
-  const key = env.SUPABASE_ANON_KEY || env.NEXT_PUBLIC_SUPABASE_ANON_KEY || env.SUPABASE_KEY || env.SUPABASE_PUBLISHABLE_KEY || env.SUPABASE_PUBLISHABLE_DEFAULT_KEY || env.SUPABASE_SECRET_KEY;
+  const key = env.SUPABASE_ANON_KEY || env.NEXT_PUBLIC_SUPABASE_ANON_KEY || env.SUPABASE_KEY || env.SUPABASE_PUBLISHABLE_KEY || env.SUPABASE_PUBLISHABLE_DEFAULT_KEY || env.SUPABASE_SECRET_KEY || env.sb_publishable_default;
   if (!url || !key) return null;
   return { url: url.replace(/\/$/, ''), key };
 }

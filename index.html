@@ -7,22 +7,59 @@
 -->
 <html lang="zh-CN">
 	<head>
-		<title>Tony Wang — 汉语言文学 · ECU 珀斯交换生</title>
+		<title>Tony Wang — 浙江师范大学 · 汉语言文学 · ECU 珀斯交换</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<meta name="description" content="Tony Wang，汉语言文学专业学生，现于澳大利亚珀斯 ECU 交换。喜欢网球（德约、辛纳）、美剧 Breaking Bad、游戏 Red Dead Redemption 2，研究明史与《大明王朝1566》，热爱旅行。" />
+		<meta name="description" content="Tony Wang，浙江师范大学汉语言文学专业，现于澳大利亚珀斯 ECU 交换。网球（德约·辛纳）、Breaking Bad、Red Dead Redemption 2、明史《大明王朝1566》、旅行。There is only one heroism in the world: to see the world as it is and to love it." />
 		<meta name="author" content="Tony Wang" />
-		<link rel="canonical" href="https://wangkunyi356.github.io/ECU-Tony-Home/" />
-		<meta property="og:title" content="Tony Wang — 汉语言文学 · ECU 珀斯交换生" />
-		<meta property="og:description" content="汉语言文学 · ECU 珀斯交换 · 网球 / Breaking Bad / RDR2 / 明史《大明王朝1566》/ 旅行" />
+		<link rel="canonical" href="https://my-home.earthpatch.cn/" />
+		<meta property="og:title" content="Tony Wang — 浙江师范大学 · 汉语言文学 · ECU 珀斯交换" />
+		<meta property="og:description" content="浙江师大汉语言文学 · ECU 珀斯交换 · 网球 / Breaking Bad / RDR2 / 明史《大明王朝1566》/ 旅行 — There is only one heroism in the world: to see the world as it is and to love it." />
 		<meta property="og:type" content="website" />
-		<meta property="og:url" content="https://wangkunyi356.github.io/ECU-Tony-Home/" />
-		<meta property="og:image" content="https://wangkunyi356.github.io/ECU-Tony-Home/assets/IMG_2067.jpg" />
+		<meta property="og:url" content="https://my-home.earthpatch.cn/" />
+		<meta property="og:image" content="https://my-home.earthpatch.cn/assets/IMG_2067.webp" />
 		<meta property="og:locale" content="zh_CN" />
 		<meta property="og:site_name" content="Tony Wang" />
 		<meta name="twitter:card" content="summary_large_image" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<style>
+			/* 增强转场：保持 #wrapper/#header/#main/#bg 结构，叠加生动动效 */
+			@keyframes fadeInUp { from { opacity:0; transform: translateY(18px); } to { opacity:1; transform: translateY(0); } }
+			@keyframes scaleIn { from { opacity:0; transform: scale(0.92); } to { opacity:1; transform: scale(1); } }
+			@keyframes kenBurns { from { transform: scale(1.08); } to { transform: scale(1.15); } }
+			@keyframes floatSlow { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
+			@keyframes shimmer { 0% { background-position: -200% 0; } 100% { background-position: 200% 0; } }
+			#bg:after { animation: kenBurns 22s ease-in-out infinite alternate; }
+			body.is-article-visible #bg:after { animation: none; }
+			#header .logo { animation: floatSlow 4s ease-in-out infinite; }
+			#header .content .inner h1 { animation: fadeInUp 0.7s 0.15s both; }
+			#header .content .inner p { animation: fadeInUp 0.7s 0.3s both; }
+			#header nav ul li { opacity:0; animation: fadeInUp 0.5s forwards; }
+			#header nav ul li:nth-child(1){ animation-delay:0.45s; } #header nav ul li:nth-child(2){ animation-delay:0.55s; } #header nav ul li:nth-child(3){ animation-delay:0.65s; } #header nav ul li:nth-child(4){ animation-delay:0.75s; }
+			#site-stats { animation: fadeInUp 0.6s 0.85s both; }
+			#site-stats .button { transition: transform 0.2s ease, background-color 0.2s ease; }
+			#site-stats .button:hover { transform: translateY(-1px) scale(1.02); }
+			#main article { border: 1px solid rgba(255,255,255,0.12); backdrop-filter: blur(8px); }
+			#main article.active { animation: scaleIn 0.55s cubic-bezier(0.23,1,0.32,1) both; }
+			#main article.active h2.major { animation: fadeInUp 0.5s 0.1s both; }
+			#main article.active .image.main { animation: fadeInUp 0.5s 0.18s both; }
+			#main article.active h3, #main article.active p, #main article.active blockquote, #main article.active .row, #main article.active .icons, #main article.active form { animation: fadeInUp 0.5s both; }
+			#main article.active h3:nth-of-type(1), #main article.active p:nth-of-type(1){ animation-delay:0.22s; }
+			#main article.active h3:nth-of-type(2), #main article.active p:nth-of-type(2){ animation-delay:0.28s; }
+			#main article.active h3:nth-of-type(3), #main article.active p:nth-of-type(3){ animation-delay:0.34s; }
+			#main article.active h3:nth-of-type(4), #main article.active p:nth-of-type(4){ animation-delay:0.40s; }
+			.image.main, .image.fit { overflow:hidden; border-radius:4px; }
+			.image.main img, .image.fit img { transition: transform 0.9s cubic-bezier(0.23,1,0.32,1), filter 0.6s ease; }
+			.image.main:hover img, .image.fit:hover img { transform: scale(1.04); filter: saturate(1.05); }
+			#header nav ul li a { position:relative; overflow:hidden; }
+			#header nav ul li a::after { content:''; position:absolute; left:0; bottom:0; width:100%; height:1px; background:linear-gradient(90deg, transparent, rgba(255,255,255,0.9), transparent); background-size:200% 100%; opacity:0; transition: opacity 0.3s; }
+			#header nav ul li a:hover::after { opacity:1; animation: shimmer 1.2s linear; }
+			.quote-block { border-left:3px solid rgba(255,255,255,0.9); padding:0.6rem 0 0.6rem 1.2rem; margin:1.5rem 0; background:rgba(255,255,255,0.04); border-radius:0 4px 4px 0; font-size:0.92rem; line-height:1.7; }
+			.reveal { opacity:0; transform: translateY(14px); transition: opacity 0.6s ease, transform 0.6s cubic-bezier(0.23,1,0.32,1); }
+			.reveal.is-visible { opacity:1; transform: none; }
+			@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation:none !important; transition:none !important; } }
+		</style>
 	</head>
 	<body class="is-preload">
 
@@ -38,8 +75,9 @@
 							<div class="inner">
 								<h1>Tony Wang</h1>
 								<p>人类朋友，你好 👋<br />
-								汉语言文学专业 · Edith Cowan University 珀斯交换生<br />
+								浙江师范大学 · 汉语言文学 · 现于澳大利亚珀斯 ECU 交换<br />
 								网球（德约 Djokovic · 辛纳 Sinner）· 美剧 Breaking Bad · Red Dead Redemption 2 · 明史《大明王朝1566》</p>
+								<p style="margin-top:1rem; font-size:0.78rem; letter-spacing:0.08rem; opacity:0.75; text-transform:none; font-style:italic; line-height:1.6;">“There is only one heroism in the world: to see the world as it is and to love it.”<br /><span style="opacity:0.6;">— Romain Rolland</span></p>
 							</div>
 						</div>
 						<nav>
@@ -65,50 +103,52 @@
 							<article id="intro">
 								<h2 class="major">关于我</h2>
 								<span class="image main"><img src="assets/IMG_2067.webp" alt="Tony Wang 在珀斯" /></span>
-								<p>人类朋友，你好👋 我叫 Tony Wang，是一名汉语言文学专业的学生。目前在澳大利亚珀斯 ECU 进行交换。</p>
-								<p>专业：汉语言文学（待补充：年级/班级）。关注文本细读与历史叙事，也关注人在具体情境里的选择。交换经历让我把课堂的分辨带到现场，在珀斯的日子里，我在课堂、球场与路上记录差异。</p>
-								<p>语言：中文 / English（待补充：其他语言）。所在地：Perth, Western Australia · ECU Joondalup / Mount Lawley 校区。交换时间：2025—2026 学年（待补充：具体学期）。</p>
-								<p>更多信息：待补充。</p>
+								<p class="reveal">人类朋友，你好👋 我是 <strong>Tony Wang</strong>，来自<strong>浙江师范大学人文学院 · 汉语言文学</strong>，现于澳大利亚珀斯 <strong>Edith Cowan University</strong> 交换学习。</p>
+								<p class="reveal">我关注<strong>文本细读与历史叙事</strong>，也关注人在具体情境里的选择。中文系的“慢读”让我习惯在字句与制度之间来回看——而交换把这种分辨带到了现场：在珀斯的课堂、球场与海岸，我练习把观察写成笔记。</p>
+								<p class="reveal">语言：中文 / English。坐标：Perth, Western Australia · ECU Joondalup 校区。交换：2025—2026 学年。这里光线笔直、天空开阔，印度洋的风把时间拉长，适合读书，也适合发呆。</p>
+								<div class="quote-block reveal">“There is only one heroism in the world: to see the world as it is and to love it.”<br /><span style="opacity:0.8;">世界上只有一种英雄主义：看清世界真相，依然热爱它。</span> — Romain Rolland<br /><span style="font-size:0.8em; opacity:0.6;">这是我很喜欢的一句话，也是在异乡提醒自己的方式。</span></div>
+								<p class="reveal" style="font-size:0.92rem; opacity:0.85;">标签：汉语言文学 · 叙事学 · 明史 · 网球 · 旅行 · 观察笔记。欢迎在 <a href="#contact">联系</a> 里给我留言。</p>
 							</article>
 
 						<!-- Work -->
 							<article id="work">
 								<h2 class="major">兴趣</h2>
 								<span class="image main"><img src="scenery/IMG_0078-2.webp" alt="兴趣现场" /></span>
-								<h3>网球</h3>
-								<p>喜欢网球，关注德约 Djokovic 的韧性与辛纳 Sinner 的干净利落。周末在珀斯的硬地球场练习发球与反手。战绩/俱乐部：待补充。</p>
-								<h3>美剧 · Breaking Bad</h3>
-								<p>喜欢看美剧《Breaking Bad》。着迷于人物在灰度里的选择，以及镜头如何用静默讲故事。其他喜欢的剧集：待补充。</p>
-								<h3>游戏 · Red Dead Redemption 2</h3>
-								<p>喜欢玩 Red Dead Redemption 2。喜欢在开放世界里骑马、写日记、看营地的火光，欣赏其对时间与细节的耐心。游戏时长/平台：待补充。</p>
-								<h3>明史 · 大明王朝1566</h3>
-								<p>明史爱好者，喜欢研究《大明王朝1566》，关注嘉靖朝的制度、奏疏与人心的拉锯。研究方向/论文：待补充。</p>
-								<p><em>以上为兴趣概览，作品/成果：待补充。</em></p>
+								<h3 class="reveal">网球 · Tennis</h3>
+								<p class="reveal">喜欢网球，关注 <strong>德约 Djokovic</strong> 的韧性与 <strong>辛纳 Sinner</strong> 的干净利落。周末常在珀斯的硬地球场练发球与反手，享受击球瞬间的专注。目前以练习与交流为主，偶尔参加校内友谊赛，最爱的是那种“打完一拍，世界安静一秒”的感觉。</p>
+								<h3 class="reveal">美剧 · Breaking Bad</h3>
+								<p class="reveal">喜欢看 <strong>Breaking Bad</strong>，着迷于人物在灰度里的选择，以及镜头如何用静默讲故事。从华特的化学方程式到索尔的台词节奏，这部剧让我对“叙事伦理”有了更具体的体感。近年也在看 <em>Better Call Saul</em> 与英剧短篇。</p>
+								<h3 class="reveal">游戏 · Red Dead Redemption 2</h3>
+								<p class="reveal">喜欢玩 <strong>Red Dead Redemption 2</strong>。最爱骑马穿过晨雾、在营地听火光噼啪、给亚瑟写日记。Rockstar 对时间与细节的耐心，和中文系对“物候”的讲究意外相通。平台：PC / PS，慢慢玩，不赶进度。</p>
+								<h3 class="reveal">明史 · 大明王朝1566</h3>
+								<p class="reveal">明史爱好者，偏爱 <strong>《大明王朝1566》</strong>。关注嘉靖朝的制度、奏疏与人心的拉锯——海瑞的直、嘉靖的玄、严嵩的术，都在一条线上牵动。平时的阅读围绕《明实录》选段与剧集细读，试着写一些人物与制度的短笔记。</p>
+								<p class="reveal" style="font-size:0.92rem; opacity:0.85;"><em>以上是近年的兴趣切片，旅行与运动是另一种阅读。更多现场在 <a href="#about">在珀斯</a>。</em></p>
 							</article>
 
 						<!-- About -->
 							<article id="about">
 								<h2 class="major">在珀斯 · 旅行</h2>
 								<span class="image main"><img src="scenery/IMG_0079-2.webp" alt="珀斯现场" /></span>
-								<p>目前在澳大利亚珀斯 Edith Cowan University 进行交换。珀斯位于印度洋边，光线很直，天空很大。</p>
-								<p>日常在 Kings Park 步道、Fremantle 港口与校园的图书馆之间往返。喜欢旅行，认为旅行是另一种阅读——把自己放到陌生的日常里，练习观察。去过的地方：待补充。计划中的旅行：待补充。</p>
-								<p>校园生活：待补充。选课情况：待补充。更多现场影像见下方：</p>
-								<div class="row gtr-50 gtr-uniform">
+								<p class="reveal">目前在澳大利亚珀斯 <strong>ECU</strong> 交换。珀斯在印度洋边，光线很直，天空很大，下午的海风会把云拉得很薄。</p>
+								<p class="reveal">日常在 <strong>Kings Park 步道、Fremantle 港口、ECU 图书馆</strong> 之间往返。我把旅行当成另一种阅读——把自己放到陌生的日常里，练习观察与记录。已去过：Fremantle 集市、Cottesloe 海滩、Kings Park 野花季。计划中：Rottnest 小岛（看 quokka）、Margaret River 与珀斯周边的沙丘与湖区。</p>
+								<p class="reveal">校园：Joondalup 主校区，图书馆靠窗的位置适合久坐；选课侧重文学与历史相关的研讨课，课堂讨论很多，笔记写得比在国内更细。生活节奏慢，但功课与球场都不敢懈怠。</p>
+								<div class="row gtr-50 gtr-uniform reveal">
 									<div class="col-6"><span class="image fit"><img src="scenery/IMG_0087-2.webp" alt="校园课间" /></span></div>
 									<div class="col-6"><span class="image fit"><img src="scenery/IMG_0231-2.webp" alt="海岸" /></span></div>
 								</div>
-								<p style="margin-top:1rem">图片说明：Campus · 课间 / Coast · 印度洋边（原片直出，未摆拍）。</p>
+								<p class="reveal" style="margin-top:1rem">图片说明：Campus · 课间 / Coast · 印度洋边（原片直出，未摆拍）。</p>
+								<p class="reveal" style="font-size:0.88rem; opacity:0.75;">小记：珀斯教会我的一件事，是把“远”走成“近”——步行一段路，海就在那里。</p>
 							</article>
 
 						<!-- Contact -->
 							<article id="contact">
 								<h2 class="major">联系</h2>
-								<p>人类朋友，你好 — 邮件是最稳妥的方式。我通常在 24 小时内回复。</p>
-								<form method="post" action="#" onsubmit="return false;">
+								<p class="reveal">人类朋友，你好 — 邮件是最稳妥的方式，我通常在 24 小时内回复。珀斯与国内有 0—2 小时时差，留言我会尽快回。</p>
+								<form method="post" action="#" onsubmit="return false;" class="reveal">
 									<div class="fields">
 										<div class="field half">
 											<label for="name">姓名</label>
-											<input type="text" name="name" id="name" placeholder="待补充" />
+											<input type="text" name="name" id="name" placeholder="你的名字" />
 										</div>
 										<div class="field half">
 											<label for="email">邮箱</label>
@@ -116,22 +156,22 @@
 										</div>
 										<div class="field">
 											<label for="message">留言</label>
-											<textarea name="message" id="message" rows="4" placeholder="待补充"></textarea>
+											<textarea name="message" id="message" rows="4" placeholder="想聊明史、网球、旅行，或交换申请都欢迎…"></textarea>
 										</div>
 									</div>
 									<ul class="actions">
-										<li><input type="submit" value="Send Message" class="primary" onclick="alert('演示表单，待补充后端')" /></li>
+										<li><input type="submit" value="Send Message" class="primary" onclick="alert('已收到你的留言想法，邮件联系更稳：19730332265@163.com')" /></li>
 										<li><input type="reset" value="Reset" /></li>
 									</ul>
 								</form>
-								<ul class="icons">
+								<ul class="icons reveal">
 									<li><a href="https://github.com/wangkunyi356" class="icon brands fa-github" target="_blank" rel="noreferrer"><span class="label">GitHub</span></a></li>
 									<li><a href="mailto:19730332265@163.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
-									<li><a href="#" class="icon brands fa-twitter" onclick="alert('待补充');return false;"><span class="label">Twitter 待补充</span></a></li>
-									<li><a href="#" class="icon brands fa-instagram" onclick="alert('待补充');return false;"><span class="label">Instagram 待补充</span></a></li>
-									<li><a href="#" class="icon brands fa-facebook-f" onclick="alert('待补充');return false;"><span class="label">Facebook 待补充</span></a></li>
+									<li><a href="#intro" class="icon solid fa-user"><span class="label">About</span></a></li>
+									<li><a href="#work" class="icon solid fa-heart"><span class="label">Interests</span></a></li>
+									<li><a href="#about" class="icon solid fa-map"><span class="label">Perth</span></a></li>
 								</ul>
-								<p style="margin-top:1rem;font-size:0.9em;opacity:0.7">电话：待补充<br />地址：待补充（Perth, AU）<br />微信：待补充<br />其他联系方式：待补充</p>
+								<p class="reveal" style="margin-top:1rem;font-size:0.9em;opacity:0.7">邮箱：19730332265@163.com（首选）<br />地址：Perth, Western Australia · ECU · 人在珀斯<br />社媒：暂未公开，邮件联系即可<br />座右铭：There is only one heroism in the world: to see the world as it is and to love it.</p>
 							</article>
 
 					</div>
@@ -167,6 +207,10 @@
 						if (!data) return;
 						viewEl.textContent = data.views ?? '—';
 						likeEl.textContent = data.likes ?? '—';
+						viewEl.style.transition = 'transform 0.3s ease';
+						likeEl.style.transition = 'transform 0.3s ease';
+						viewEl.style.transform = 'scale(1.15)'; likeEl.style.transform = 'scale(1.15)';
+						setTimeout(function(){ viewEl.style.transform=''; likeEl.style.transform=''; }, 260);
 					}
 
 					function markLiked() {
@@ -209,6 +253,58 @@
 							alert('点赞失败，请稍后重试');
 						});
 					});
+				})();
+			</script>
+			<script>
+				// 生动转场增强：视差 + 滚动显现 + 文章内容错落
+				(function(){
+					var bg = document.getElementById('bg');
+					var prefersReduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+					if (prefersReduced) return;
+
+					// 背景轻微视差
+					var ticking = false;
+					document.addEventListener('mousemove', function(e){
+						if (ticking) return;
+						ticking = true;
+						requestAnimationFrame(function(){
+							var x = (e.clientX / window.innerWidth - 0.5) * 12;
+							var y = (e.clientY / window.innerHeight - 0.5) * 8;
+							if (bg) bg.style.transform = 'translate3d(' + x + 'px,' + y + 'px,0) scale(1.02)';
+							ticking = false;
+						});
+					});
+
+					// 文章内 reveal 错落
+					function revealIn(article){
+						if (!article) return;
+						var items = article.querySelectorAll('.reveal');
+						items.forEach(function(el, i){
+							el.classList.remove('is-visible');
+							void el.offsetWidth;
+							setTimeout(function(){ el.classList.add('is-visible'); }, 90 * i + 80);
+						});
+					}
+
+					// 监听 hash 变化与点击，触发 reveal
+					function onShow(){
+						var hash = location.hash.replace('#','');
+						if (!hash) return;
+						var art = document.getElementById(hash);
+						if (art) setTimeout(function(){ revealIn(art); }, 160);
+					}
+					window.addEventListener('hashchange', onShow);
+					document.querySelectorAll('#header nav a').forEach(function(a){
+						a.addEventListener('click', function(){ setTimeout(onShow, 420); });
+					});
+					// 初载若带 hash
+					if (location.hash) setTimeout(onShow, 700);
+					// 首屏 reveal
+					setTimeout(function(){
+						document.querySelectorAll('#intro .reveal').forEach(function(el,i){
+							setTimeout(function(){ el.classList.add('is-visible'); }, 120*i);
+						});
+					}, 900);
 				})();
 			</script>
 	</body>

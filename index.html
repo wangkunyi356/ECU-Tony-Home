@@ -50,6 +50,12 @@
 								<li><a href="#contact">联系</a></li>
 							</ul>
 						</nav>
+						<div id="site-stats" style="margin-top:1.4rem; font-size:0.85rem; letter-spacing:0.08rem; opacity:0.85; text-align:center;">
+							<span class="icon solid fa-eye"></span> <span id="viewCount">—</span> 浏览
+							<span style="margin:0 0.7rem; opacity:0.35;">|</span>
+							<span class="icon solid fa-heart"></span> <span id="likeCount">—</span> 点赞
+							<a href="#" id="likeBtn" class="button small" style="margin-left:0.8rem; font-size:0.7rem; padding:0 0.9rem; height:2em; line-height:2em; vertical-align:middle;">点赞</a>
+						</div>
 					</header>
 
 				<!-- Main -->
@@ -149,6 +155,61 @@
 			<script>
 				// year
 				document.getElementById('year').textContent = new Date().getFullYear();
+			</script>
+			<script>
+				(function() {
+					var viewEl = document.getElementById('viewCount');
+					var likeEl = document.getElementById('likeCount');
+					var btn = document.getElementById('likeBtn');
+					if (!viewEl || !likeEl || !btn) return;
+
+					function render(data) {
+						if (!data) return;
+						viewEl.textContent = data.views ?? '—';
+						likeEl.textContent = data.likes ?? '—';
+					}
+
+					function markLiked() {
+						btn.textContent = '已点赞';
+						btn.classList.add('disabled');
+						btn.style.pointerEvents = 'none';
+						btn.style.opacity = '0.6';
+					}
+
+					if (localStorage.getItem('liked')) markLiked();
+
+					fetch('/api/stats').then(function(r){ return r.json(); }).then(render).catch(function(){});
+
+					if (!sessionStorage.getItem('viewed')) {
+						fetch('/api/view', { method: 'POST' }).then(function(r){ return r.json(); }).then(function(d){
+							render(d);
+							sessionStorage.setItem('viewed', '1');
+						}).catch(function(){});
+					}
+
+					btn.addEventListener('click', function(e){
+						e.preventDefault();
+						if (localStorage.getItem('liked')) { markLiked(); return; }
+						btn.textContent = '...';
+						fetch('/api/like', { method: 'POST' }).then(function(r){
+							if (r.status === 429) throw new Error('liked');
+							if (!r.ok) throw new Error('fail');
+							return r.json();
+						}).then(function(d){
+							render(d);
+							localStorage.setItem('liked', '1');
+							markLiked();
+						}).catch(function(err){
+							if (err.message === 'liked') {
+								localStorage.setItem('liked', '1');
+								markLiked();
+								return;
+							}
+							btn.textContent = '点赞';
+							alert('点赞失败，请稍后重试');
+						});
+					});
+				})();
 			</script>
 	</body>
 </html>

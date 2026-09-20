@@ -52,7 +52,7 @@ async function supaIncrement(supa, field) {
 
 function getSupabaseEnv(env) {
   const url = env.SUPABASE_URL || env.NEXT_PUBLIC_SUPABASE_URL;
-  const key = env.SUPABASE_ANON_KEY || env.NEXT_PUBLIC_SUPABASE_ANON_KEY || env.SUPABASE_KEY;
+  const key = env.SUPABASE_ANON_KEY || env.NEXT_PUBLIC_SUPABASE_ANON_KEY || env.SUPABASE_KEY || env.SUPABASE_PUBLISHABLE_KEY || env.SUPABASE_PUBLISHABLE_DEFAULT_KEY || env.SUPABASE_SECRET_KEY;
   if (!url || !key) return null;
   return { url: url.replace(/\/$/, ''), key };
 }

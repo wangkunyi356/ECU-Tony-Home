@@ -1,110 +1,10 @@
 {
   "date": "2026-10-02",
-  "updated_at": "2026-10-03 00:06:44",
-  "count": 45,
+  "updated_at": "2026-10-03 00:07:50",
+  "count": 38,
   "brief": "今日全球时政围绕三条主线：迪拜航空驾驶舱袭击事件持续发酵，多家通讯社跟进航空安全问责；美国9月非农就业大幅放缓、美联储10月大概率跳过加息，全球债市随之剧烈波动；G7宣布释放1亿桶柴油和原油储备，欧洲同步放行战略柴油库存，能源政治再成焦点。法国校园抗议蔓延、美欧债券风险走高，风险情绪主导了今天的国际新闻版面。\n\nTop5：\n1. 迪拜航空1073航班驾驶舱袭击案：机长击退袭击者迫降，印总理亲自致谢，航空安保漏洞引追问 — https://apnews.com （AP现场报道，多家转载）\n2. 美国9月非农就业急剧放缓，失业率升至4.2%，美联储被押注跳过10月加息 — https://www.reuters.com\n3. G7宣布四个月内释放1亿桶柴油和原油储备，欧洲放行战略库存 — https://www.reuters.com\n4. 法国校园抗议蔓延两周，年轻人大规模走上街头，政府承压 — https://www.bbc.com/news\n5. 全球债市剧烈波动冲击股市，法国国债风险升至欧债危机水平 — https://apnews.com",
   "takeaways": [],
   "items": [
-    {
-      "title": "How effective altruism conquered the world",
-      "url": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
-      "source": "The Economist",
-      "time": "Thu, 01 Oct 2026 09:37:47 +0000",
-      "heat": "",
-      "summary": "And how the 21st century’s most important social movement might yet end it",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "Democracy is stronger than it looks",
-      "url": "https://www.economist.com/international/2026/09/29/democracy-is-stronger-than-it-looks",
-      "source": "The Economist",
-      "time": "Tue, 29 Sep 2026 20:07:11 +0000",
-      "heat": "",
-      "summary": "Open societies have weathered murderous leftists and fascist radicals before",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "America’s and China’s leaders indulge in pageantry as crises mount",
-      "url": "https://www.economist.com/international/2026/09/25/americas-and-chinas-leaders-indulge-in-pageantry-as-crises-mount",
-      "source": "The Economist",
-      "time": "Fri, 25 Sep 2026 20:47:05 +0000",
-      "heat": "",
-      "summary": "Donald Trump and Xi Jinping squandered a chance to tackle the world’s gravest threats",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "中国出台房贷贴息政策",
-      "url": "https://www.ftchinese.com/story/001111025",
-      "source": "FT中文网",
-      "time": "Tue, 29 Sep 2026 16:00:00 GMT",
-      "heat": "",
-      "summary": "中国政府要为首次购房者提供支持，并下调了一项央行放贷利率，这些是政策制定者为提振经济增长而采取的最新举措。",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "特朗普召集AI行业领袖开会讨论安全担忧",
-      "url": "https://www.ftchinese.com/story/001111023",
-      "source": "FT中文网",
-      "time": "Tue, 29 Sep 2026 16:00:00 GMT",
-      "heat": "",
-      "summary": "Anthropic的阿莫代伊等AI行业领袖力主达成一项覆盖全行业的协议，以放缓前沿模型的开发速度，但白宫迄今无视要求加强监管的呼声。",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "谁在回购市场大举借款？",
-      "url": "https://www.ftchinese.com/story/001111022",
-      "source": "FT中文网",
-      "time": "Tue, 29 Sep 2026 16:00:00 GMT",
-      "heat": "",
-      "summary": "全球回购市场的总规模已达到22万亿美元。谁在使用回购市场？最大的贷款方和借款方分别是谁？是什么推动了该市场在过去十年的大幅增长？",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "Jets rule out RB Hall, WR Mitchell, TE Taylor, LG Parham vs. Bears - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2pRRW8zdlRxTHd5Q0c1YUxFcWhWcC1tX1d5VG5hTlZfUTFyM3dYVnJkWWpha3N5OXgyOWJCdGltVDNfUVRkWVU5Um0zOVNmYnBhdXFjblBYdXRWTTVZeEwzV2ZYdkt0N1k1Skk4a1MwVkRoWE5iY2pHRjR2Tnpza1VnLXNqcU1yX1QyN2p5VlVDVENoQTF1OGVaLTZESmNGR1hoX0FR?oc=5",
-      "source": "ESPN (Google News fallback)",
-      "time": "Fri, 02 Oct 2026 15:15:00 GMT",
-      "heat": "",
-      "summary": "Jets rule out RB Hall, WR Mitchell, TE Taylor, LG Parham vs. Bears ESPN",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "Commanders QB Jayden Daniels (elbow) ruled out vs. Colts - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2VSQU5EcVdjVzdaVm5JcGRNZ1hMWGp1YVFqU0xmTWxKUGNkUHpMR1J5ZUdfck1mdWlTeXA3SmlEMWlSLUc5VnRaOUhhX3c2NmN4WF95MkJ0RGh4TGxya0NPRElTa2l6RHFhSVh2VTZONldvS1M0OW1nSmJST0FOZWJMZllTZ3lUVUo2WHZFTDFiYWZDM29qVUJB?oc=5",
-      "source": "ESPN (Google News fallback)",
-      "time": "Fri, 02 Oct 2026 13:48:00 GMT",
-      "heat": "",
-      "summary": "Commanders QB Jayden Daniels (elbow) ruled out vs. Colts ESPN",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "Robot umpires flip 54% of challenged calls as Reds lead way - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQVFKamlRbXBFSWx6WUZhUy1Dd3lyaTE4enAxN1gxU2hiczRzY0tOVTF5Yl90b0tiV1ctdkxOSXF1X1FndC1CSU1mME5tNUJfSXJjU1g4cURlanJ0RWNVZHFtZVRCS1p3bDVBR21XOVBFWDdfZFlIa1huSFV2ZGppdl9sMU9vSWdrT3JwRklWUURxcHlEVUExNGNGYVN0QQ?oc=5",
-      "source": "ESPN (Google News fallback)",
-      "time": "Fri, 02 Oct 2026 13:18:00 GMT",
-      "heat": "",
-      "summary": "Robot umpires flip 54% of challenged calls as Reds lead way ESPN",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "Trail Blazers fire new announcer over past inappropriate posts - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeEFtZ0V3NW1sTFRhWmdLRGp0QlpuSHgzZk9LdGc5dFFienp4eS1aRTBmdUF6emhtMHROMkNCUjE5QXRkN1FYZWxwempTLWZiNUZDc1Y3WnRtcmJITHcxa1FraW9TYTFoU1RYeW1JVDZ0cHNlbThhYTNia3RaUzI2SGFvRWVweEZuaE9BNGhtMkZSM2wyWUg4TXY2LW5sUQ?oc=5",
-      "source": "ESPN (Google News fallback)",
-      "time": "Fri, 02 Oct 2026 12:46:00 GMT",
-      "heat": "",
-      "summary": "Trail Blazers fire new announcer over past inappropriate posts ESPN",
-      "insight": "",
-      "section": ""
-    },
     {
       "title": "Europe agrees to release stocked diesel oil, Trump says",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZE83bzNwWEpKSHFON2U3NTdNNzNCSTRpV3lSR1VvU2Q4c0owSmgxclF2X2U1M1ZtbVpDRTRYX1dHNkg2cm9JZWtxc3puRllFSVRLSWNYQ3NGMjdJTkRMSnJiaTgxWl82LUhiR2dhUkUyczcxNUs3cGFLSU5FTFlsUWlJNVZHWU9uRW5KU2VnQUFib2ZtQ1l0ZVpSTWEwVUE1XzhDbTNn?oc=5",
@@ -332,6 +232,36 @@
       "time": "Fri, 02 Oct 2026 05:53:51 GMT",
       "heat": "",
       "summary": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates.",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "How effective altruism conquered the world",
+      "url": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
+      "source": "The Economist",
+      "time": "Thu, 01 Oct 2026 09:37:47 +0000",
+      "heat": "",
+      "summary": "And how the 21st century’s most important social movement might yet end it",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Democracy is stronger than it looks",
+      "url": "https://www.economist.com/international/2026/09/29/democracy-is-stronger-than-it-looks",
+      "source": "The Economist",
+      "time": "Tue, 29 Sep 2026 20:07:11 +0000",
+      "heat": "",
+      "summary": "Open societies have weathered murderous leftists and fascist radicals before",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "America’s and China’s leaders indulge in pageantry as crises mount",
+      "url": "https://www.economist.com/international/2026/09/25/americas-and-chinas-leaders-indulge-in-pageantry-as-crises-mount",
+      "source": "The Economist",
+      "time": "Fri, 25 Sep 2026 20:47:05 +0000",
+      "heat": "",
+      "summary": "Donald Trump and Xi Jinping squandered a chance to tackle the world’s gravest threats",
       "insight": "",
       "section": ""
     },

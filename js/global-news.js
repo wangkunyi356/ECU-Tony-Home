@@ -2,7 +2,8 @@
 (function () {
   var FEEDS = [
     { json: 'data/global-politics.json', meta: 'world-meta', list: 'world-list', empty: '暂无时政新闻。' },
-    { json: 'data/economy.json', meta: 'economy-meta', list: 'economy-list', empty: '暂无经济新闻。' }
+    { json: 'data/economy.json', meta: 'economy-meta', list: 'economy-list', empty: '暂无经济新闻。' },
+    { json: 'data/sports.json', meta: 'sports-meta', list: 'sports-list', empty: '暂无体育新闻。' }
   ];
 
   function esc(s) {

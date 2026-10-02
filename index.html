@@ -61,6 +61,7 @@
 			@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation:none !important; transition:none !important; } }
 
 			#header nav ul li:nth-child(5){ animation-delay:0.85s; }
+			#header nav ul li:nth-child(6){ animation-delay:0.95s; } #header nav ul li:nth-child(7){ animation-delay:1.05s; }
 			#ai-takeaways { padding-left:1.2rem; }
 			#ai-takeaways li { margin:0 0 0.5rem; }
 			.ai-item { border:1px solid rgba(255,255,255,0.12); border-radius:4px; padding:1rem 1.2rem; margin:0 0 1rem; background:rgba(255,255,255,0.04); }
@@ -95,6 +96,8 @@
 								<li><a href="#about">在珀斯</a></li>
 								<li><a href="#contact">联系</a></li>
 							<li><a href="#ai">AI日报</a></li>
+							<li><a href="#world">全球时政</a></li>
+							<li><a href="#economy">经济新闻</a></li>
 							</ul>
 						</nav>
 						<div id="site-stats" style="margin-top:1.4rem; font-size:0.85rem; letter-spacing:0.08rem; opacity:0.85; text-align:center;">
@@ -191,6 +194,19 @@
 						<div id="ai-list"></div>
 					</article>
 
+					<article id="world">
+						<h2 class="major">全球时政</h2>
+						<p id="world-meta">正在加载全球时政新闻…</p>
+						<div id="world-list"></div>
+					</article>
+
+
+					<article id="economy">
+						<h2 class="major">经济新闻</h2>
+						<p id="economy-meta">正在加载经济新闻…</p>
+						<div id="economy-list"></div>
+					</article>
+
 					</div>
 
 				<!-- Footer -->
@@ -210,6 +226,7 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 			<script src="js/ai-daily.js"></script>
+			<script src="js/global-news.js"></script>
 			<script>
 				// year
 				document.getElementById('year').textContent = new Date().getFullYear();

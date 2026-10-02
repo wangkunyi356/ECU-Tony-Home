@@ -1,0 +1,682 @@
+{
+  "date": "2026-10-02",
+  "updated_at": "2026-10-02 22:04:26",
+  "count": 67,
+  "takeaways": [
+    "**今日最大新闻是 OpenAI Dots 与 Agent 安全双线爆发**：DevDay 的 Dots 常驻个人智能体（Ben's Bites + Mollick 双视角）定义了下一代入口，而 AI to ROI 与 HN 复现共同指向 Astra 因安全取消发布，能力越强、责任越大。",
+    "**第二重要动态是巨头重排座次**：Google Gemini 4 Argon 打性价比、AMD 80 亿美元吞 World Labs 挖李飞飞、NVIDIA 拉 100+ 家搞开源 Agent 安全平台，模型、芯片、世界模型三线同时加码。",
+    "**值得关注的趋势是基础设施与长程记忆**：Docling / BrowserAct 补数据供给，OneStreamer / PoS / APPL 补流式记忆与信念维护，论文热度（+107 到 +43）显示研究重心已从单点问答转向可持续的 Agent harness 优化。"
+  ],
+  "items": [
+    {
+      "title": "ChinAI #375: Critiquing Anthropic’s Variant of Pacing the Frontier",
+      "url": "https://chinai.substack.com/p/chinai-375-critiquing-anthropics",
+      "source": "ChinAI",
+      "time": "Mon, 21 Sep 2026 11:05:57 GMT",
+      "heat": "",
+      "summary": "Greetings from a world where… “the highway up to Heaven got a crook on the toll ” …As always, the searchable archive of all past issues is here . Please please subscribe here to support ChinAI under a Guardian /Wikipedia-style tipping model (everyone gets the same content but those who can pay suppo...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "ChinAI #374: China’s first AI-generated longform TV series",
+      "url": "https://chinai.substack.com/p/chinai-374-chinas-first-ai-generated",
+      "source": "ChinAI",
+      "time": "Mon, 14 Sep 2026 11:48:37 GMT",
+      "heat": "",
+      "summary": "Greetings from a world where… this could be the Hawkeyes year …As always, the searchable archive of all past issues is here . Please please subscribe here to support ChinAI under a Guardian /Wikipedia-style tipping model (everyone gets the same content but those who can pay support access for all AN...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "ChinAI #373: The OpenClaw Hype and Overestimating China’s Diffusion Advantage",
+      "url": "https://chinai.substack.com/p/chinai-373-the-openclaw-hype-and",
+      "source": "ChinAI",
+      "time": "Mon, 31 Aug 2026 11:29:24 GMT",
+      "heat": "",
+      "summary": "Greetings from a world where… amidst the dearth of late summer TV, one finds himself watching the 1979 British show Tinker Tailor Soldier Spy on Youtube …As always, the searchable archive of all past issues is here . Please please subscribe here to support ChinAI under a Guardian /Wikipedia-style ti...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
+      "url": "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+      "source": "Interconnects",
+      "time": "Tue, 22 Sep 2026 13:37:45 GMT",
+      "heat": "",
+      "summary": "This episode is with Jean-Stanislas “JS” Denain of Epoch AI, who leads their Insights Team and is one of the people I find myself debating the state and trajectory of AI with more and more. We’ve had follow-on discussions of many of my favorite recent posts online and/or in private, so I wanted to d...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "The current balance of power in open models",
+      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "source": "Interconnects",
+      "time": "Mon, 21 Sep 2026 11:56:56 GMT",
+      "heat": "",
+      "summary": "I was recently invited to brief a group of Congressional members and staff on the state of open-weight models in the lens of U.S.-China competition. I’m sharing my prepared remarks as a state of the union on open models that is accessible to a broader audience. Interconnects AI is a reader-supported...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Why I still haven’t bought into true RSI",
+      "url": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+      "source": "Interconnects",
+      "time": "Sat, 19 Sep 2026 15:42:20 GMT",
+      "heat": "",
+      "summary": "We’re in an era where a few organizations are using thousands of concurrent agents to improve their processes and output. These organizations happen to be just the frontier AI labs, in particular OpenAI and Anthropic. In the last few weeks, I’ve been pondering what it means for so many employees acr...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "OpenAI DevDay 2026",
+      "url": "https://www.bensbites.com/p/openai-devday-2026",
+      "source": "Ben's Bites",
+      "time": "Thu, 01 Oct 2026 13:30:36 GMT",
+      "heat": "",
+      "summary": "Hi folks, I’m in sf till Sunday. I wanna meet folks talk about ai with non-technical adoption builders doing fun shit founders working on dev tools/infra potential LPs (individuals) go to deli board reach out on twitter Ben’s Bites is brought to you by AWS Marketplace Most ML teams build data pipeli...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Sonnet 5.5 is worth a try",
+      "url": "https://www.bensbites.com/p/sonnet-55-is-worth-a-try",
+      "source": "Ben's Bites",
+      "time": "Tue, 29 Sep 2026 13:01:15 GMT",
+      "heat": "",
+      "summary": "Hi folks, I’ll be at OpenAI DevDay today. If you’re there, come say hi - I have pink shoes on. Sam says they've \" found a new thing \". I have the embargo of all the things they’re launching but I’m sworn to secrecy and I’d like to be invited back, so I wont divulge, but rumours are going around X an...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "50 years of tech devices",
+      "url": "https://www.bensbites.com/p/50-years-of-tech-devices",
+      "source": "Ben's Bites",
+      "time": "Fri, 25 Sep 2026 13:50:24 GMT",
+      "heat": "",
+      "summary": "Hello again :) I went to Legoland yesterday with the kids - very impressive to see all the cities they’ve built with lego. Who’s job is that?! Sorry I missed last week - I’m nearly done with my talk prep and the first bath of pages for a course/manual/something, its a little in-between formats let’s...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "The Dot and the Swarm",
+      "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+      "source": "One Useful Thing",
+      "time": "Thu, 01 Oct 2026 10:54:12 GMT",
+      "heat": "",
+      "summary": "I generally think I have done a good job anticipating the direction and pace of AI over the few years I have been writing this Substack, but I think I recently got something fairly large wrong. In the last year I have been posting about how I suspected that humans would have to approach working with...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "The Overhang",
+      "url": "https://www.oneusefulthing.org/p/the-overhang",
+      "source": "One Useful Thing",
+      "time": "Fri, 18 Sep 2026 17:54:32 GMT",
+      "heat": "",
+      "summary": "We are still on an exponential curve of AI development. I try to put out a Substack post every couple weeks or so, yet, as the pace speeds up, that sometimes feels too slow. In the weeks since my last post, we had the apparent cracking of one of the most famous problems in math by an AI (accompanied...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Agency and Agents",
+      "url": "https://www.oneusefulthing.org/p/agency-and-agents",
+      "source": "One Useful Thing",
+      "time": "Mon, 31 Aug 2026 00:24:35 GMT",
+      "heat": "",
+      "summary": "Agency is the initiative to act. Increasingly, it is going to determine what happens next with AI, and whether that is good or bad for us. But whose agency? Human agency, the willingness to push, experiment and act without waiting for instructions, seems increasingly important to getting value out o...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Memia #2026.39: Cheap signals🎭 safety harness🛡️🔒 discursive stratification🗞️ affective computing💧👁️ MAKERphone 2.0🔧📱 metabolic architecture🌿🏢 clippy with root access📎 look back with JOY🥲",
+      "url": "https://memia.substack.com/p/memia-202639-cheap-signals-safety",
+      "source": "Memia",
+      "time": "Wed, 30 Sep 2026 08:12:20 GMT",
+      "heat": "",
+      "summary": "Welcome to Memia #2026.39 … your regular weekly scan across what’s been happening out there at the frontier of AI, emerging tech and humanity’s accelerating future. As always, thanks for following along!🙏 Another week where the sheer volume of AI(-adjacent) PR news keeps increasing while the substan...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "🎭Cheap signals: the game theory of AI safety theatre",
+      "url": "https://memia.substack.com/p/cheap-signals-the-game-theory-of",
+      "source": "Memia",
+      "time": "Sun, 27 Sep 2026 03:37:55 GMT",
+      "heat": "",
+      "summary": "Image: The famous “Mexican standoff” scene from Quentin Tarantino’s Reservoir Dogs (Researched and co-written with GPT-6 Astra Max and Claude Opus 5.5, with appropriate irony.) September 2026 has been a disorienting month to follow AI. Dario Amodei argues the industry must \"pace the frontier\" . Form...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Memia #2026.38: Planetary health check🌍🔴⚠️ reverse alignment◀️🏛️ speaking with the mind🧠🗣️ jev⚡🎯 goal-free AI🧪🔬 QUOPS⚛️ preference cascades🌊 flexoelectricity⚡ data commons🌐📊 paper2agent📄🤝",
+      "url": "https://memia.substack.com/p/memia-202638-planetary-health-check",
+      "source": "Memia",
+      "time": "Wed, 23 Sep 2026 01:32:29 GMT",
+      "heat": "",
+      "summary": "Welcome to Memia #2026.38 … another weekly speedrun across what’s happening out at the frontier of AI, emerging tech and (post)humanity’s accelerating future. As always, thanks for being here!🙏 A step up in news quantity again this week… frontier model release cadence has now consistently shifted up...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "AI to ROI News & Analysis: October 2, 2026",
+      "url": "https://ai2roi.substack.com/p/ai-to-roi-news-and-analysis-october",
+      "source": "AI to ROI",
+      "time": "Fri, 02 Oct 2026 12:31:22 GMT",
+      "heat": "",
+      "summary": "Our Deep Dive into the Top AI News of the Week 🔓 OpenAI Security Woes Multiply Exponentially Causing the Cancellation of the Latest Release of Astra and Increasing Corporate Liabilities ⚡ Google Launches Gemini 4 Argon – Initially for Cyberdefense and Soon for Everyone Else…It Is a Price-Performance...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "MyAgent: Cisco’s Innovative Personal Agent for Its 90,000 Employees",
+      "url": "https://ai2roi.substack.com/p/myagent-ciscos-innovative-personal",
+      "source": "AI to ROI",
+      "time": "Tue, 29 Sep 2026 12:32:01 GMT",
+      "heat": "",
+      "summary": "Every Cisco Employee Gets an Agent to Make Their Work Better Cisco just gave a personal AI agent to every one of its roughly 90,000 employees. The Wall Street Journal called it one of the first examples of a widespread agent rollout inside a large company. Cisco’s agent platform is called MyAgent . ...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "AI to ROI News & Analysis: September 25, 2026",
+      "url": "https://ai2roi.substack.com/p/ai-to-roi-news-and-analysis-september-780",
+      "source": "AI to ROI",
+      "time": "Fri, 25 Sep 2026 12:31:05 GMT",
+      "heat": "",
+      "summary": "The Biggest AI News & Analysis This Week 💸 OpenAI Launches Multiple ChatGPT 6 Models Accompanied by Substantial Price Cuts 🧠 On the Same Day, Anthropic Launches Opus 5.5 Along with Big Price Cuts ⚡ TypeSafe Launches Jev – a Powerful Decision Model that’s 1/100 the Cost of ChatGPT and Claude 🤖 Meta’s...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "5 Proven Techniques for Token Compression and Prompt Optimization",
+      "url": "https://www.kdnuggets.com/5-proven-techniques-for-token-compression-and-prompt-optimization",
+      "source": "KDnuggets",
+      "time": "Fri, 02 Oct 2026 12:00:00 +0000",
+      "heat": "",
+      "summary": "Reduce costs, improve response quality, and build leaner AI applications with these prompt engineering strategies.",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "BrowserAct AI Web Scraper in 2026: Build Once, Run Repeatedly",
+      "url": "https://www.kdnuggets.com/2026/09/browseractai/browseract-ai-web-scraper-in-2026-build-once-run-repeatedly",
+      "source": "KDnuggets",
+      "time": "Thu, 01 Oct 2026 17:42:13 +0000",
+      "heat": "",
+      "summary": "Describe your data needs in plain language and turn websites into a continuous source of fresh data.",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "From Messy Documents to Structured Data with Docling",
+      "url": "https://www.kdnuggets.com/from-messy-documents-to-structured-data-with-docling",
+      "source": "KDnuggets",
+      "time": "Thu, 01 Oct 2026 16:00:00 +0000",
+      "heat": "",
+      "summary": "Docling takes documents in whatever inconsistent format they arrive in, and converts them into one unified, structured representation that both people and AI systems can work with reliably, rather than everyone downstream having to guess at what a wall of extracted text actually meant.",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL",
+      "url": "https://huggingface.co/papers/2609.37200",
+      "source": "HF Papers",
+      "time": "2026-10-02",
+      "heat": "+107",
+      "summary": "Multi-reward guided reinforcement learning (i.e., RL) offers a promising way to improve joint audio-video diffusion models along several complementary objectives, including modality-specific quality, cross-modal semantic alignment, and temporal synchronization. Its effectiveness, however, depends on two quantities that change during training: where reward-driven updates should act, and how competing rewards should be combined. Existing methods tend to rely on fixed routing and reward weights, failing to track evolving model functions. To address these limitations, we propose Adaptive Reward Routing to jointly adapt update locations and reward coordination during forward-process RL (i.e., DiffusionNFT) of joint audio-video diffusion models. Our method consists of two components. (i) Cross-Modal Influence-Guided Routing (Localizing Updates): We use bidirectional cross-attention responses as an efficient proxy for evolving cross-modal influence, dynamically reweighting token-aware losses and scaling gradients across cross-modal layers without additional model interventions. (ii) Preference-Preserving Modality-Aware Reweighting (Coordinating Rewards): We preserve predefined weights as preference priors and use branch-specific reward-gradient interactions as residual corrections after warm-up. This resolves evolving conflicts without letting dominant rewards suppress weak but essential objectives. Extensive experiments demonstrate consistent improvements in modality quality, semantic consistency, and audio-video synchronization over strong RL baselines. Ablations and mechanism analyses further validate the complementary benefits of adaptive update routing and reward coordination.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction",
+      "url": "https://huggingface.co/papers/2610.01762",
+      "source": "HF Papers",
+      "time": "2026-10-02",
+      "heat": "+86",
+      "summary": "Streaming video LLMs must retain evidence before its relevance to future tasks is known and respond when sufficient evidence becomes available. The challenge is to form reusable factual memory without compromising real-time perception. We introduce OneStreamer, which jointly learns query-independent evidence recording and task response through a shared proactive generation process. Its Proactive Hierarchical Caption Memory (PHCM) produces time-grounded local-detail captions and summaries of completed events. Streaming caption targets supervise the interpretation of observed video prefixes during training. At inference, model-generated records complement a recent visual window, providing reusable factual context without revisiting historical visual features. Proactive State Transition Learning (PSTL) reduces the dominance of repeated waiting states by preserving supervision at all output anchors and selecting representative state-change and state-persistence tokens. We further develop a streaming data synthesis pipeline that aligns output content and timing with available evidence. Combining the resulting streaming captions and QA with cleaned open-source data yields OneStreamer-1M, a broad-coverage streaming video interaction dataset with over one million records spanning diverse tasks. Our 4B model achieves the best results among the compared methods across all eight evaluated streaming video understanding benchmarks. Ablations show that retaining generated captions improves historical QA without degrading real-time perception. PSTL also outperforms dense state supervision while supervising only 27.5% of annotated state tokens. Together, these results support proactive generation as a shared learning interface connecting perception, memory formation, and timely response in streaming video interaction.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States",
+      "url": "https://huggingface.co/papers/2610.01415",
+      "source": "HF Papers",
+      "time": "2026-10-02",
+      "heat": "+55",
+      "summary": "Large language model (LLM) agents can now undertake increasingly complex tasks, but the way they organize interaction history into memory does not ensure a coherent understanding of the current world. We introduce PoS, an inference-time framework that constructs and continually maintains explicit belief states as the agent's decision context. Each belief combines an estimate of the current world state with unresolved task requirements, making explicit what the agent still needs to learn and accomplish. To keep this belief reliable and actionable, PoS validates its consistency and monitors task progress to detect Belief Trapping, where the agent continues to act without making meaningful progress toward the goal. Recovery is then tailored to both the trapping pattern and the type of unresolved task requirement. Experiments on four benchmarks spanning execution and diagnosis show that PoS achieves the highest overall performance on every benchmark with all three LLM backbones. Ablations demonstrate the importance of consistency validation and recovery, while context-scaling experiments show resilience to context growth. Together, these results support belief construction and continual maintenance as a foundation for long-horizon context management beyond history retention and compression.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "Agent Priors-guided Policy Learning",
+      "url": "https://huggingface.co/papers/2609.35690",
+      "source": "HF Papers",
+      "time": "2026-10-02",
+      "heat": "+47",
+      "summary": "Robots that learn from a few demonstrations often require two forms of generalization. Compositional generalization recombines skills to solve new tasks, and skill generalization lets the learned policy behind each skill work in new situations. The two depend on each other, yet information is lost between composition and the skills it calls. Where a skill works is determined by the structure its policy is trained with, while composition sees the skill only through a separate description, such as a name, an instruction, or a symbolic operator, that omits this structure. Our key idea is to use each policy's structural prior as part of the interface between composition and the skill. A structural prior states what a behavior depends on, for example that a grasp depends only on the gripper's pose relative to the object. Built into training, it shapes where the policy generalizes; stated in language, it tells composition where the policy applies. We instantiate this idea in Agent Priors-guided Policy Learning (APPL). A construction agent segments complete demonstrations into reusable skills, proposes several structural priors for each skill, and trains and verifies one policy per prior. A runtime agent then selects among these prior-specific policies and composes them toward new task goals using their interfaces. Across MetaWorld and long-horizon ManiSkill tasks, APPL improves out-of-distribution skill generalization and enables previously unseen skill compositions; ablating the interface information substantially reduces performance. These results support the use of training-time structural assumptions as a bridge between skill learning and skill composition.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "Hierarchical Continuous Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2610.02193",
+      "source": "HF Papers",
+      "time": "2026-10-02",
+      "heat": "+43",
+      "summary": "Discrete diffusion language models offer a compelling alternative to autoregressive generation for tasks demanding bidirectional reasoning and global constraint satisfaction. Yet they share a structural bottleneck: when decoding in parallel, each token is sampled independently from its marginal, severing the statistical dependencies among the tokens decoded together. Continuous diffusion language models avoid this by denoising a shared continuous state, but their denoiser sees only that state, so nothing ties it to a valid token configuration until it is finally decoded. To address this, we propose Hierarchical Continuous Diffusion Language Models (HC-DLM), which couple discrete token generation with a continuous latent trajectory in a single, principled denoising process, whose training objective is derived from a variational bound on the token likelihood. In contrast to recent methods that attach continuous context to a self-contained discrete chain, HC-DLM makes the latent the only persistent generative state: tokens are read out from it at every step and feed back as a scaffold for the next latent update. On structured reasoning (Sudoku), mathematical planning (Countdown) and language modeling (LM1B), HC-DLM improves over discrete and continuous diffusion baselines at matched model size, in puzzle accuracy on Sudoku and Countdown and in generative perplexity on LM1B. Project page: https://hc-dlm.github.io/.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "World Observer: Joint Actor-Observer Generation for Persistent World Modeling",
+      "url": "https://huggingface.co/papers/2610.02162",
+      "source": "HF Papers",
+      "time": "2026-10-02",
+      "heat": "+31",
+      "summary": "How can a world model continuously observe regions beyond the actor's current view? Video world models simulate how an environment evolves from an agent's actions, yet remain actor-centric. Once an object leaves the actor's view, they lose direct evidence of its evolution, often failing to preserve its state and dynamics upon re-entry. To address this, we introduce World Observer, which decouples observing from acting by jointly generating a perspective actor for the agent-centric view with one or more panoramic observers that watch selected world regions. This allows objects that leave the actor's view to remain visually evolving in an observer, so their updated states are reflected when they re-enter. We ground the actor and observers by warping from a shared panoramic source for explicit geometric correspondence, and introduce an Observer Sink of high-resolution perspective references to restore fine appearance upon re-entry. Since the observers are decoupled from the actor, they can be placed freely across the scene, extended to multiple locations for broader coverage, and driven by control signals to steer out-of-view evolution. To evaluate out-of-view evolution, we further introduce world-space metrics and a benchmark spanning real and synthetic scenes. World Observer substantially improves out-of-view dynamics while remaining competitive in visual fidelity, camera control, and 3D adherence.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "Sharpening Tax in Post-Training",
+      "url": "https://huggingface.co/papers/2610.01509",
+      "source": "HF Papers",
+      "time": "2026-10-02",
+      "heat": "+28",
+      "summary": "An emerging hypothesis about reinforcement learning (RL) post-training of large language models (LLMs) is that it merely sharpens existing behaviors of a base model, improving single-shot accuracy at the cost of solution coverage. Although this trade-off has been observed in math and coding tasks, it need not extend to agentic tasks, where multi-turn tool use and interaction may require capabilities newly acquired during post-training. Our surprising finding is that pre-trained LLMs, equipped with a light inference harness, can serve as capable agents. Despite far lower accuracy (pass@1), they often surpass their post-trained counterparts in solution coverage (pass@K) given a sufficient test-time budget. We further analyze the underlying mechanism and show that post-training pushes tasks toward two extremes, always solved or never solved, and thereby improves sampling efficiency and consistency at the cost of solution coverage. To measure this cost, we propose Sharpening Tax, a diagnostic metric that quantifies the loss in test-time scalability after post-training. Across 14 base/post-trained model pairs from four families and three agentic benchmarks (42 cases in total), the tax is prevalent in most settings, can be estimated from a few rollouts, and correlates well with other metrics. Finally, we present posterior-tempered group sampling (PTGS), a simple plug-and-play Bayesian sampler that adapts the sampling temperature per prompt to its estimated difficulty. Applied during RL training in two agentic environments, PTGS pays a smaller tax than the fixed-temperature baseline, solving more tasks under repeated sampling while also improving single-shot accuracy.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "ActiveSaddler: Automated Curriculum Learning for Agent Harness Optimization",
+      "url": "https://huggingface.co/papers/2610.00906",
+      "source": "HF Papers",
+      "time": "2026-10-02",
+      "heat": "+26",
+      "summary": "Automated harness optimization can substantially improve LLM agents by iteratively updating their prompts, tool interfaces, and control logic from execution feedback. However, existing methods primarily optimize how the harness is updated while largely fixing which training scenarios generate the feedback that drives those updates. As the harness evolves, the scenarios most useful for further optimization can change, suggesting that the training curriculum itself should adapt alongside the harness. We formulate this missing dimension of harness optimization as an automated curriculum learning problem and introduce ActiveSaddler. ActiveSaddler models the evolving curriculum as a non-stationary bandit with dynamically instantiated optimization targets. It abstracts recurring failures into reusable failure-pattern arms, estimates the potential learning progress from further targeting each pattern, and adaptively balances revisiting known weaknesses with exploring unseen scenarios for new ones. Optimization outcomes continually update both the set of discovered failure patterns and their priorities, allowing the curriculum to co-evolve with the harness. Experiments on GAIA2 and Terminal-Bench 2.0 show that ActiveSaddler consistently discovers stronger harnesses, improving test Pass@1 by 4.4 and 7.5 percentage points over the same harness optimizer using a scenario order fixed before optimization, respectively. Ablations further show that these gains depend on dynamically constructing optimization targets, estimating their evolving utility, and balancing continued optimization with new failure discovery. Together, these results establish automated curriculum learning as a new crucial optimization dimension for harness optimization.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "A Missing Piece for Trustworthy AI Reviewers: From Benchmarking Rhetorical Robustness to SciCore Review",
+      "url": "https://huggingface.co/papers/2609.39027",
+      "source": "HF Papers",
+      "time": "2026-10-02",
+      "heat": "+25",
+      "summary": "AI reviewers can assign different judgments to manuscripts that report the same science in different wording, potentially rewarding rhetorical optimization over scientific improvement. We formulate Rhetorical Robustness as the joint requirement of stability across content-preserving rewrites and discrimination across papers. We introduce RobustReview, a controlled full-manuscript benchmark with 1,260 manuscript versions, and evaluate 30 reviewer configurations. The benchmark reveals false robustness, where low rewrite sensitivity coincides with score collapse across papers, and shows that human alignment and rhetorical robustness rank reviewers differently. Moreover, the evaluated content-focused prompting protocol does not consistently improve robustness across backbones. Motivated by these findings, we introduce SciCore, a dual-branch reviewer that averages a full-manuscript judgment with a judgment based on an extracted, structured science core. This design combines manuscript-level assessment with a content-normalized view intended to reduce rhetorical sensitivity. In our primary GPT-5.5 comparison, SciCore achieves a leading joint stability-discrimination profile among the benchmarked reviewers while maintaining competitive human alignment. These results identify rhetorical robustness as a distinct evaluation target and demonstrate the potential of science-core review to improve it.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "AutoGUIWorld: Image Generators as Visual World Models for GUI Agent",
+      "url": "https://huggingface.co/papers/2610.01215",
+      "source": "HF Papers",
+      "time": "2026-10-02",
+      "heat": "+22",
+      "summary": "GUI agents require high-quality interaction trajectories to learn how software environments respond to actions, maintain state, and support multi-step workflows. However, the diversity of available trajectories is constrained by the applications, interface states, and workflows accessible in the underlying environments. Expanding this coverage requires deploying increasingly diverse and complex software, with specialized applications imposing additional installation, configuration, and runtime costs. We introduce AutoGUIWorld, a data generation framework that combines the visual priors of image generators with the task knowledge of a planner to synthesize GUI interaction trajectories without deploying or running the corresponding software environments. AutoGUIWorld samples initial GUI scenes from structured specifications of operating-system context, visual appearance, and interface state, and generates tasks conditioned on those scenes. A planner then specifies atomic actions and their intended visual consequences, while an image generator iteratively edits the current screenshot to produce subsequent observations. Action grounding and transition-level quality filtering yield 79,266 spatially annotated step-level training samples across Ubuntu, Windows, macOS, and Chrome. Fine-tuning Qwen3.5-35B-A3B on AutoGUIWorld trajectories improves the mean task score on OSWorld from 33.0% to 40.8% and the task success rate on ScienceBoard from 14.0% to 32.2%. These results show that generated trajectories improve GUI-agent performance on real desktop and scientific tasks.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "ROWBench: Do Video Models Render What the Program Specifies?",
+      "url": "https://huggingface.co/papers/2610.02205",
+      "source": "HF Papers",
+      "time": "2026-10-02",
+      "heat": "+21",
+      "summary": "Programmable world models separate executable dynamics from visual generation, offering a promising foundation for next-generation game engines. However, their visual adherence to explicit rules and interactions remains insufficiently evaluated. Existing benchmarks assess visual quality, controllability, and instruction or physical adherence, but rarely test fidelity to fine-grained, program-specified world events. We introduce PROWBench, comprising 170 programmatically constructed episodes and 600 proxy videos covering diverse scenes and interactions. PROWBench logs entity states and timestamped events, including those outside the camera's field of view, as replayable world records, from which it renders synchronized views and proxy representations. This enables generated videos to be checked against the observable consequences of program execution. An extensible framework constructs scenes, controls behaviors, and can render each camera view in different representations, such as coarse 3D, and bounding boxes. The benchmark covers first- and third-person perspectives, with synchronized multi-view observations available for a subset of episodes. Grounded in these records, PROWBench evaluates entity control, long-horizon memory, and, with two VLM-based metrics, Logic-Render Alignment and Interaction Success Rate, adherence to the prescribed timeline and the visual realization of timestamped engine-recorded events.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "Make Sparse Rewards Count: Density-Aware Reward Aggregation for Multi-Reward RL",
+      "url": "https://huggingface.co/papers/2610.00574",
+      "source": "HF Papers",
+      "time": "2026-10-02",
+      "heat": "+15",
+      "summary": "Multi-reward reinforcement learning trains large language models to satisfy multiple behavioral objectives simultaneously. Reward-wise normalization, as used in GDPO, preserves reward-specific relative information within rollout groups, but different objectives can still exhibit uneven learning progress. We study this behavior through advantage energy, the sum of a reward's squared advantages over a batch. Under idealized GDPO normalization, we show that this energy is proportional to active-group density: the fraction of rollout groups in which the reward provides nonzero relative advantages. This reveals a residual batch-level signal imbalance and provides a basis for calibrating reward contributions. Based on this relation, we propose Density-Aware Reward Aggregation (DARA). We derive an inverse-square-root density correction that gives greater weight to signals from less frequently active rewards. DARA computes its weights from each rollout batch, adapting to changes in reward activity throughout training without modifying the underlying policy optimization objective. Experiments on tool calling and mathematical reasoning show that DARA learns the targeted behaviors faster than GDPO, reaching high format compliance in up to 26% fewer training steps on tool calling and near-saturated length compliance in up to 65% fewer steps on mathematical reasoning, while remaining competitive in final performance. Our code is available at https://github.com/zhaihaotian/DARA.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "",
+      "url": "https://huggingface.co/papers/2609.38024",
+      "source": "HF Papers",
+      "time": "2026-10-02",
+      "heat": "+15",
+      "summary": "An agent skill is a reusable, actionable natural-language artifact that guides an agent to perform a task effectively under a given harness. Recent studies have explored the optimization of agent skills, contributing to a growing collection of publicly available skills spanning diverse tasks, domains, and harnesses. Despite millions of publicly shared skills, existing skill optimization methods largely overlook this accumulated knowledge, instead relying solely on expensive agent rollouts to iteratively refine skills for a target task. To address this, we propose Retrieval-Augmented Skill Optimization (RASO), a framework that leverages an external skill corpus as prior knowledge throughout skill optimization. RASO retrieves relevant knowledge from existing skills and adapts it to the target task and harness via Cross-Harness Adaptation, accounting for mismatches in both domain and harness. RASO comprises two complementary stages: Retrieval-Augmented Skill Initialization (RASI) constructs a knowledge-grounded initial skill without requiring agent rollouts, while Retrieval-Augmented Skill Update (RASU) iteratively refines the skill by retrieving external knowledge guided by execution feedback. Across four agent benchmarks and two models, extensive experiments show that RASO consistently outperforms baselines without retrieval-augmented skill initialization and updating.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "",
+      "url": "https://huggingface.co/papers/2609.32019",
+      "source": "HF Papers",
+      "time": "2026-10-02",
+      "heat": "+13",
+      "summary": "Decentralized multi-agent path finding (MAPF) with communication requires agents to reach individual goals without collisions under partial observability. Learnable policies trained on expert data provide an effective approach to this problem. However, when several coordinated joint actions are valid in the same context, independently sampling from per-agent distributions can recombine locally valid choices into incompatible joint actions. This failure can arise from the final sampling mechanism even when the per-agent action distributions are learned correctly. DMM (Decentralized Master-Mind) addresses this by replacing one-shot action sampling with discrete, iterative refinement of action intents across communication rounds, inspired by denoising in diffusion models. Agents initialize random action intents and refine them through local communication, coupling their choices before commitment. DMM is pretrained with imitation learning on expert MAPF solutions and further optimized with MICPO, a critic-free group-relative reinforcement-learning method designed for multi-agent, multi-round action refinement. DMM generally achieves higher success rates and lower solution costs than the evaluated learnable baselines. On 1,600 MovingAI tasks, DMM fine-tuned with MICPO solves 1,598, the highest coverage among the evaluated methods, while achieving solution costs close to those of the strongest baselines. DMM also scales to over one million simultaneously acting agents in obstacle-rich environments. These results show that round-level intent refinement can improve joint-action coordination while preserving decentralized execution.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "",
+      "url": "https://huggingface.co/papers/2609.39378",
+      "source": "HF Papers",
+      "time": "2026-10-02",
+      "heat": "+12",
+      "summary": "Real-world embodied tasks, from everyday activities to professional procedures, require agents to act under physical constraints while tracking evolving object and task states. Tool use sits at the heart of such tasks, as many everyday and professional activities are tool-mediated. Understanding them requires reasoning about affordances, hand-tool-object geometry, procedural progress, and causal effects on target objects. Yet despite strong performance on perception-oriented video tasks such as captioning and general video QA, current multimodal video models remain limited in this form of tool-centric embodied reasoning. Progress in this direction has been limited by the lack of real-world egocentric data and diagnostic benchmarks. To address this gap, we introduce EgoTools, the first comprehensive suite for egocentric tool-use understanding. It consists of two complementary components: EgoTools-Data, a large-scale corpus of 100 hours of tool-centric egocentric recordings with synchronized audio, dense captions, reasoning-heavy narrations, and supplementary 3D information; and EgoTools-Bench, a diagnostic benchmark of 1,000 QA pairs across four tracks that cover tool-use understanding from perception and geometry to procedure and causal reasoning. Experimental results show that current models still struggle to ground tool use in visual evidence: Gemini-3.1-Pro achieves 66.9% overall accuracy but only 51.7% on Perception & Grounding. Beyond evaluation, we validate EgoTools-Data as a training resource. On the full 1,000-question benchmark, full supervised fine-tuning improves Qwen3-VL-8B-Instruct from 50.0% to 60.9%, under strict source-video separation. Together, these results establish EgoTools as a unified resource for both training and diagnostic evaluation of real-world egocentric tool-use understanding.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "",
+      "url": "https://huggingface.co/papers/2609.37533",
+      "source": "HF Papers",
+      "time": "2026-10-02",
+      "heat": "+11",
+      "summary": "Masked diffusion models (MDMs) generate sequences by progressively unmasking several tokens per denoising step, but their reverse process is typically factorized over positions, limiting sample quality in the few-step regime where diffusion's speed advantage over autoregressive decoding matters most. A recent line of work introduces a continuous Gaussian latent, trained as a variational autoencoder, to capture correlations across positions, but such approaches are prone to posterior collapse, where the latent is silently ignored. We propose Enhanced Mixture-of-Experts (E-MoE), which builds the reverse process as a mixture of factorized distributions over a discrete shared latent given by the expert-routing decisions of a Mixture-of-Experts (MoE) backbone, without increasing active parameters over the factorized baseline. Across synthetic multi-modal benchmarks, binarized MNIST, and LM1B, E-MoE improves few-step generation over factorized baselines.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "",
+      "url": "https://huggingface.co/papers/2609.39375",
+      "source": "HF Papers",
+      "time": "2026-10-02",
+      "heat": "+11",
+      "summary": "A robot that observes people interacting with objects should be able to carry out later requests that refer back to those interactions. Such requests may specify a grasp target by the role it played in a past event rather than by its name or appearance. Moreover, the target may no longer be visible when the robot is asked to act. We present BeyondSCe, a zero-shot robotic grasping system for this event-referential setting. Given the event history and the current scene, the system identifies the requested object or part and localizes it for grasping. If the target is occluded, it combines an event prior recovered from the history with current scene geometry to select camera viewpoints likely to reveal the target. The system uses pretrained models without additional task-specific training. In real-robot experiments with a single wrist-mounted RGB-D camera, it achieves grasp success rates of 76% and 77% for initially visible and occluded targets, respectively, compared with 40% and 55% for the strongest baseline in each condition. On four additional scenes with heavy occlusion, it increases grasp success rates from 75% to 95% while reducing the mean number of views from 3.35 to 2.20, compared with an active-perception baseline given the target's ground-truth 3D bounding box.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "",
+      "url": "https://huggingface.co/papers/2609.38923",
+      "source": "HF Papers",
+      "time": "2026-10-02",
+      "heat": "+11",
+      "summary": "Working agents need to read diverse files, coordinate tools, and produce deliverables. Training such agents requires tasks built on many real files with verifiable results, but few pipelines exist to synthesize this kind of data. Existing pipelines either generate files with models, which lack realism and diversity, or build tasks on real files without task-specific verifiers, leaving result quality unchecked. We introduce GraphForge, an evidence-graph based framework that grounds both the task and its verification in real files. Starting from occupation-grounded seeds for controlled diversity, GraphForge assembles a workspace of real files for each seed and builds an evidence graph over their relations. Since the task statement and rubrics are both derived from this graph, task requirements are backed by the workspace files and each criterion is anchored to the files needed to verify it. An initial rollout further tests executability, and a revision agent repairs the task and rubrics against the original files before trajectories are collected. Fine-tuning Qwen3.6-27B on 2,169 GraphForge trajectories brings GDPVal to 1445.7 (+65.7) under OpenHands, and Workspace-Bench-Lite and SpreadsheetBench II to 63.7 (+7.7) and 24.0 (+13.7) under Claude Code. Rejection fine-tuning on the SFT model's own rollouts, with candidates selected by the evidence-anchored rubrics, yields further improvements on all three benchmarks, suggesting that the rubrics provide a useful selection signal. The data and models are available.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "",
+      "url": "https://huggingface.co/papers/2610.01016",
+      "source": "HF Papers",
+      "time": "2026-10-02",
+      "heat": "+10",
+      "summary": "Diffusion language models (DLMs) offer a promising alternative to autoregressive (AR) language generation. Recent advances in continuous DLMs, which apply latent diffusion to continuous text embeddings, raise a practical question: which embedding makes the best latent space, i.e., the most diffusible? To answer this, we search through different embeddings and find that scaling the embedding model to stronger ones within the same family (T5 to T5Gemma-1 to T5Gemma-2) greatly improves generative performance. But the raw T5Gemma-2 embeddings are still not optimal. They are so discriminative that even the embeddings of plausible alternative words are separated, which makes the generation vulnerable to imperfect sampling. Consequently, continuous diffusion often fails to reach any of them and ends up at an invalid embedding instead. To address this, we distill T5Gemma-2 into a student encoder that learns the teacher's decoded probabilities as soft labels. Learning from such soft labels makes the student pull the alternative embeddings closer while maintaining the encoding-decoding mechanism. The distilled embeddings form a more connected and diffusible latent space, improving over the vanilla T5Gemma-2 embeddings. As a result, our medium-sized DLM achieves Gen. PPL 17.8 (against real-text PPL 15.4) at real-text entropy on OpenWebText, outperforming GPT-2-M on Gen. PPL.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "",
+      "url": "https://huggingface.co/papers/2610.01939",
+      "source": "HF Papers",
+      "time": "2026-10-02",
+      "heat": "+5",
+      "summary": "Vision language model (VLM) agents can control robots through visual feedback and action primitives, but repeated model invocations and redundant observations incur substantial token overhead. We introduce PyRUA-Lean, an interactive code-execution framework that couples feedback-driven primitive composition with selective observation: the agent composes classical robot primitives and learned vision-language-action (VLA) policies into Python cells that perform conditional checks and local retries, returning only explicitly requested images and state feedback for replanning. Across 700 simulated task instances from LIBERO-PRO, RoboTwin 2.0, and RoboCasa365, we compare PyRUA-Lean with a tool-calling baseline using the same GPT-6 Astra planner and underlying robot primitives. Under equal LLM-call budgets, PyRUA-Lean increases overall success from 63.1% to 71.7%. On instances solved by both agents, it uses 49% fewer LLM calls and 65% fewer input tokens.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "How to train AI models using physics simulators",
+      "url": "https://www.arenaphysica.com/publications/fem-edge-elements",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    },
+    {
+      "title": "How to Almost Fry Your AI Agent (and Your Mac Mini)",
+      "url": "https://thoughts.jock.pl/p/almost-fried-ai-agent-mac-mini-mistakes-2026",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    },
+    {
+      "title": "AI Is Writing Your Tests, yet Nothing Is Getting Tested",
+      "url": "https://testkube.wistia.com/live/events/uswa35zy9l",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    },
+    {
+      "title": "New Audible feature let's you talk to AI versions of book characters",
+      "url": "https://www.audible.com/about/newsroom/the-next-chapter-in-listening-new-ways-to-interact-with-stories-on-audible",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    },
+    {
+      "title": "Hugging Face breach artifacts, re-run: a US frontier AI blocked 11 of 14",
+      "url": "https://github.com/smilemino/unchore-defend",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    },
+    {
+      "title": "Why Isn't AI Adoption Showing Up in Your P&L?",
+      "url": "https://itrevolution.com/articles/why-isnt-ai-adoption-showing-up-in-your-pl/",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    },
+    {
+      "title": "Cure Your AI Psychosis",
+      "url": "https://aipsychosis.rehab/",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "2 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    },
+    {
+      "title": "Eric Sadin: 'AI reeks of death'",
+      "url": "https://english.elpais.com/culture/2026-10-01/eric-sadin-ai-reeks-of-death.html",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "2 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    },
+    {
+      "title": "What China's Vibe-Coding Capital Can Tell Us About the A.I. Boom",
+      "url": "https://www.newyorker.com/news/the-lede/what-chinas-vibe-coding-capital-can-tell-us-about-the-ai-boom",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "3 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    },
+    {
+      "title": "Startup Corbenic AI launches Galahad to secure AI memory and cut energy",
+      "url": "https://app.dealroom.co/news/feed/belgian-startup-corbenic-ai-launches-galahad-to-secure-ai-memory-and-cut-energy-use-by-93",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "3 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    },
+    {
+      "title": "TSMC Mulls Multibillion-Dollar Texas Campus for More AI Chips",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-mulls-multibillion-dollar-texas-102454782.html",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "2 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    },
+    {
+      "title": "WSP WordPress MCP – Connect AI Agents to WordPress",
+      "url": "https://github.com/bilalnaseer/wsp-wordpress-mcp",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    },
+    {
+      "title": "Who's Ahead in the Global AI Talent Race?",
+      "url": "https://carnegieendowment.org/features/whos-ahead-in-the-global-ai-talent-race",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "5 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    },
+    {
+      "title": "Most recent AI-assisted coder makes first AI-assisted coder run again",
+      "url": "https://github.com/jeffshrager/ExecutableArchaeology/blob/main/HeuristicCoder/HeuristicCoder_guide.md",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    },
+    {
+      "title": "Saudi Arabian EV company Ceer unveils its first vehicles",
+      "url": "https://vision2030.ai/analysis/ceer-exobot-first-vehicles-september-2026/",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    },
+    {
+      "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
+      "url": "https://www.kapa.ai/blog/company-knowledge-bench",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    },
+    {
+      "title": "GamesByAI – 528 browser games made with AI, and which tools made them",
+      "url": "https://gamesbyai.win/stats/",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    },
+    {
+      "title": "TickTick knows what you planned. Vulpie knows what you did",
+      "url": "https://medium.com/@vulpie.ai.support/ticktick-knows-what-you-planned-vulpie-knows-what-you-actually-did-be1c18678bcc",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    },
+    {
+      "title": "Nvidia/OpenShell: Safe, private runtime for autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    },
+    {
+      "title": "The Looming Closure of China's AI Frontier",
+      "url": "https://www.aei.org/foreign-and-defense-policy/the-looming-closure-of-chinas-ai-frontier/",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    },
+    {
+      "title": "Slowly, then all at once: AI agents that know how a company works",
+      "url": "https://www.nijho.lt/post/mindroom-at-ionq/",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    },
+    {
+      "title": "Show HN: Hotel Lobby AI Video Generator – Two Photos to Rap Duet",
+      "url": "https://hotellobbygenerator.net/",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    },
+    {
+      "title": "Boston Dynamics Robot Hands",
+      "url": "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "2 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    },
+    {
+      "title": "Show HN: Spens sandboxed, observable coding agents",
+      "url": "https://spens.refwd.ai/",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    },
+    {
+      "title": "Nvidia DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+      "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "2 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    },
+    {
+      "title": "Future of PM-Tools",
+      "url": "https://news.ycombinator.com/item?id=49933226",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": "hackernews_ai"
+    }
+  ]
+}

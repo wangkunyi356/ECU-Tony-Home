@@ -12,6 +12,11 @@
     });
   }
 
+  function linkify(s) {
+    return esc(s).replace(/(https?:\/\/[^\s<]+)/g,
+      '<a href="$1" target="_blank" rel="noopener">$1</a>');
+  }
+
   function render(feed) {
     var meta = document.getElementById(feed.meta);
     var list = document.getElementById(feed.list);
@@ -22,8 +27,14 @@
         var items = d.items || [];
         meta.textContent = (d.date || '') + ' · 共' + (d.count || items.length) + '条' +
           (d.updated_at ? ' · 更新于' + d.updated_at : '');
-        if (!items.length) { list.innerHTML = '<p>' + feed.empty + '</p>'; return; }
-        list.innerHTML = items.map(function (it) {
+        var brief = '';
+        if (d.brief) {
+          brief = '<div class="ai-brief">' + d.brief.split(/\n+/).map(function (p) {
+            return '<p>' + linkify(p) + '</p>';
+          }).join('') + '</div>';
+        }
+        if (!items.length) { list.innerHTML = brief + '<p>' + feed.empty + '</p>'; return; }
+        list.innerHTML = brief + items.map(function (it) {
           var h = '<div class="ai-item">';
           h += '<a class="ai-title" href="' + esc(it.url) + '" target="_blank" rel="noopener">' +
             esc(it.title) + '</a>';

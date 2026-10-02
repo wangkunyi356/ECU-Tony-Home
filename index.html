@@ -59,6 +59,14 @@
 			.reveal { opacity:0; transform: translateY(14px); transition: opacity 0.6s ease, transform 0.6s cubic-bezier(0.23,1,0.32,1); }
 			.reveal.is-visible { opacity:1; transform: none; }
 			@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation:none !important; transition:none !important; } }
+
+			#header nav ul li:nth-child(5){ animation-delay:0.85s; }
+			#ai-takeaways { padding-left:1.2rem; }
+			#ai-takeaways li { margin:0 0 0.5rem; }
+			.ai-item { border:1px solid rgba(255,255,255,0.12); border-radius:4px; padding:1rem 1.2rem; margin:0 0 1rem; background:rgba(255,255,255,0.04); }
+			.ai-item .ai-title { font-weight:600; }
+			.ai-item .ai-meta { opacity:0.65; font-size:0.8rem; letter-spacing:0.05rem; margin:0.3rem 0 0.5rem; }
+			.ai-item p { font-size:0.9rem; line-height:1.7; margin:0 0 0.4rem; }
 		</style>
 	</head>
 	<body class="is-preload">
@@ -86,6 +94,7 @@
 								<li><a href="#work">兴趣</a></li>
 								<li><a href="#about">在珀斯</a></li>
 								<li><a href="#contact">联系</a></li>
+							<li><a href="#ai">AI日报</a></li>
 							</ul>
 						</nav>
 						<div id="site-stats" style="margin-top:1.4rem; font-size:0.85rem; letter-spacing:0.08rem; opacity:0.85; text-align:center;">
@@ -174,6 +183,14 @@
 								<p class="reveal" style="margin-top:1rem;font-size:0.9em;opacity:0.7">邮箱：19730332265@163.com（首选）<br />地址：Perth, Western Australia · ECU · 人在珀斯<br />社媒：暂未公开，邮件联系即可<br />座右铭：There is only one heroism in the world: to see the world as it is and to love it.</p>
 							</article>
 
+					<article id="ai">
+						<h2 class="major">AI日报</h2>
+						<p id="ai-meta">正在加载今日 AI 资讯…</p>
+						<h3>今日要点</h3>
+						<ol id="ai-takeaways"></ol>
+						<div id="ai-list"></div>
+					</article>
+
 					</div>
 
 				<!-- Footer -->
@@ -192,6 +209,7 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script src="js/ai-daily.js"></script>
 			<script>
 				// year
 				document.getElementById('year').textContent = new Date().getFullYear();

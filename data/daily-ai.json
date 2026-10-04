@@ -1,40 +1,14 @@
 {
   "date": "2026-10-04",
-  "updated_at": "2026-10-04 12:17:53",
+  "updated_at": "2026-10-04 12:30:07",
   "count": 56,
   "brief": "",
-  "takeaways": [],
+  "takeaways": [
+    "DevDay + Sonnet 5.5，年末模型大战开幕，入口之争进入下半场。",
+    "研究端全面转向 agent 记忆与长程能力，记忆架构是下一个分水岭。",
+    "资本端 AI 交易狂热不减，港股募资创纪录与美股谨慎形成反差。"
+  ],
   "items": [
-    {
-      "title": "The Dot and the Swarm",
-      "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-      "source": "One Useful Thing",
-      "time": "Thu, 01 Oct 2026 10:54:12 GMT",
-      "heat": "",
-      "summary": "I generally think I have done a good job anticipating the direction and pace of AI over the few years I have been writing this Substack, but I think I recently got something fairly large wrong. In the last year I have been posting about how I suspected that humans would have to approach working with...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "The Overhang",
-      "url": "https://www.oneusefulthing.org/p/the-overhang",
-      "source": "One Useful Thing",
-      "time": "Fri, 18 Sep 2026 17:54:32 GMT",
-      "heat": "",
-      "summary": "We are still on an exponential curve of AI development. I try to put out a Substack post every couple weeks or so, yet, as the pace speeds up, that sometimes feels too slow. In the weeks since my last post, we had the apparent cracking of one of the most famous problems in math by an AI (accompanied...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "Agency and Agents",
-      "url": "https://www.oneusefulthing.org/p/agency-and-agents",
-      "source": "One Useful Thing",
-      "time": "Mon, 31 Aug 2026 00:24:35 GMT",
-      "heat": "",
-      "summary": "Agency is the initiative to act. Increasingly, it is going to determine what happens next with AI, and whether that is good or bad for us. But whose agency? Human agency, the willingness to push, experiment and act without waiting for instructions, seems increasingly important to getting value out o...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
     {
       "title": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
       "url": "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
@@ -62,36 +36,6 @@
       "time": "Sat, 19 Sep 2026 15:42:20 GMT",
       "heat": "",
       "summary": "We’re in an era where a few organizations are using thousands of concurrent agents to improve their processes and output. These organizations happen to be just the frontier AI labs, in particular OpenAI and Anthropic. In the last few weeks, I’ve been pondering what it means for so many employees acr...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "ChinAI #375: Critiquing Anthropic’s Variant of Pacing the Frontier",
-      "url": "https://chinai.substack.com/p/chinai-375-critiquing-anthropics",
-      "source": "ChinAI",
-      "time": "Mon, 21 Sep 2026 11:05:57 GMT",
-      "heat": "",
-      "summary": "Greetings from a world where… “the highway up to Heaven got a crook on the toll ” …As always, the searchable archive of all past issues is here . Please please subscribe here to support ChinAI under a Guardian /Wikipedia-style tipping model (everyone gets the same content but those who can pay suppo...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "ChinAI #374: China’s first AI-generated longform TV series",
-      "url": "https://chinai.substack.com/p/chinai-374-chinas-first-ai-generated",
-      "source": "ChinAI",
-      "time": "Mon, 14 Sep 2026 11:48:37 GMT",
-      "heat": "",
-      "summary": "Greetings from a world where… this could be the Hawkeyes year …As always, the searchable archive of all past issues is here . Please please subscribe here to support ChinAI under a Guardian /Wikipedia-style tipping model (everyone gets the same content but those who can pay support access for all AN...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "ChinAI #373: The OpenClaw Hype and Overestimating China’s Diffusion Advantage",
-      "url": "https://chinai.substack.com/p/chinai-373-the-openclaw-hype-and",
-      "source": "ChinAI",
-      "time": "Mon, 31 Aug 2026 11:29:24 GMT",
-      "heat": "",
-      "summary": "Greetings from a world where… amidst the dearth of late summer TV, one finds himself watching the 1979 British show Tinker Tailor Soldier Spy on Youtube …As always, the searchable archive of all past issues is here . Please please subscribe here to support ChinAI under a Guardian /Wikipedia-style ti...",
       "insight": "",
       "section": "newsletter_picks"
     },
@@ -126,6 +70,36 @@
       "section": "newsletter_picks"
     },
     {
+      "title": "The Dot and the Swarm",
+      "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+      "source": "One Useful Thing",
+      "time": "Thu, 01 Oct 2026 10:54:12 GMT",
+      "heat": "",
+      "summary": "I generally think I have done a good job anticipating the direction and pace of AI over the few years I have been writing this Substack, but I think I recently got something fairly large wrong. In the last year I have been posting about how I suspected that humans would have to approach working with...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "The Overhang",
+      "url": "https://www.oneusefulthing.org/p/the-overhang",
+      "source": "One Useful Thing",
+      "time": "Fri, 18 Sep 2026 17:54:32 GMT",
+      "heat": "",
+      "summary": "We are still on an exponential curve of AI development. I try to put out a Substack post every couple weeks or so, yet, as the pace speeds up, that sometimes feels too slow. In the weeks since my last post, we had the apparent cracking of one of the most famous problems in math by an AI (accompanied...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Agency and Agents",
+      "url": "https://www.oneusefulthing.org/p/agency-and-agents",
+      "source": "One Useful Thing",
+      "time": "Mon, 31 Aug 2026 00:24:35 GMT",
+      "heat": "",
+      "summary": "Agency is the initiative to act. Increasingly, it is going to determine what happens next with AI, and whether that is good or bad for us. But whose agency? Human agency, the willingness to push, experiment and act without waiting for instructions, seems increasingly important to getting value out o...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
       "title": "Memia #2026.39: Cheap signals🎭 safety harness🛡️🔒 discursive stratification🗞️ affective computing💧👁️ MAKERphone 2.0🔧📱 metabolic architecture🌿🏢 clippy with root access📎 look back with JOY🥲",
       "url": "https://memia.substack.com/p/memia-202639-cheap-signals-safety",
       "source": "Memia",
@@ -152,6 +126,36 @@
       "time": "Wed, 23 Sep 2026 01:32:29 GMT",
       "heat": "",
       "summary": "Welcome to Memia #2026.38 … another weekly speedrun across what’s happening out at the frontier of AI, emerging tech and (post)humanity’s accelerating future. As always, thanks for being here!🙏 A step up in news quantity again this week… frontier model release cadence has now consistently shifted up...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "ChinAI #375: Critiquing Anthropic’s Variant of Pacing the Frontier",
+      "url": "https://chinai.substack.com/p/chinai-375-critiquing-anthropics",
+      "source": "ChinAI",
+      "time": "Mon, 21 Sep 2026 11:05:57 GMT",
+      "heat": "",
+      "summary": "Greetings from a world where… “the highway up to Heaven got a crook on the toll ” …As always, the searchable archive of all past issues is here . Please please subscribe here to support ChinAI under a Guardian /Wikipedia-style tipping model (everyone gets the same content but those who can pay suppo...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "ChinAI #374: China’s first AI-generated longform TV series",
+      "url": "https://chinai.substack.com/p/chinai-374-chinas-first-ai-generated",
+      "source": "ChinAI",
+      "time": "Mon, 14 Sep 2026 11:48:37 GMT",
+      "heat": "",
+      "summary": "Greetings from a world where… this could be the Hawkeyes year …As always, the searchable archive of all past issues is here . Please please subscribe here to support ChinAI under a Guardian /Wikipedia-style tipping model (everyone gets the same content but those who can pay support access for all AN...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "ChinAI #373: The OpenClaw Hype and Overestimating China’s Diffusion Advantage",
+      "url": "https://chinai.substack.com/p/chinai-373-the-openclaw-hype-and",
+      "source": "ChinAI",
+      "time": "Mon, 31 Aug 2026 11:29:24 GMT",
+      "heat": "",
+      "summary": "Greetings from a world where… amidst the dearth of late summer TV, one finds himself watching the 1979 British show Tinker Tailor Soldier Spy on Youtube …As always, the searchable archive of all past issues is here . Please please subscribe here to support ChinAI under a Guardian /Wikipedia-style ti...",
       "insight": "",
       "section": "newsletter_picks"
     },

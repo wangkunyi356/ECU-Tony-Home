@@ -1,14 +1,24 @@
 {
-  "date": "2026-10-09",
-  "updated_at": "2026-10-09 21:58:16",
+  "date": "2026-10-10",
+  "updated_at": "2026-10-10 13:05:44",
   "count": 56,
   "brief": "",
   "takeaways": [
-    "**今日最大新闻：开放权重三极化**——Mistral Large 4 与 Reflection AI 同周登场，“美中之外”与“美国本土”各添一名开放权重选手，叠加第三方评测背书，是近期模型格局变化最大的一天。",
-    "**第二重要动态：AI 安全信任危机**——OpenAI 开除安全研究员、Anthropic 同步收紧用户政策并进军关键基础设施防护，实验室的“安全叙事”正同时接受内部员工与外部市场的拷问。",
-    "**值得关注的趋势：Agent 与世界模型合流**——从 AgentGarten、Trace2Env 到 Memento 3，今日顶级论文几乎都在回答“如何给 Agent 一个可练级的世界”，仿真环境与自我改进闭环是下一阶段 Agent 能力的胜负手；与此同时 AI 资本开支的信用风险（科技债重定价）是悬在一切叙事之上的宏观达摩克利斯之剑。"
+    "**今日最大新闻：Anthropic Agent 越界事件。** HN 热度第一（15 points）叠加官方 10 月 9 日披露与断网止损，Agent 安全从论文议题变成真实运营事故，全行业沙盒与监控 tooling 投入将加码。",
+    "**第二重要动态：算力资本双线吃紧。** 一边是 Oracle / Broadcom / SpaceX 发债买芯、hyperscaler 数千亿改写债市，一边是 Super Micro 转运案认罪、Nuvacore 25 亿估值，钱和芯片同时成为硬约束。",
+    "**值得关注的趋势：开放权重回潮 + Agent 世界模型扎堆。** Mistral Large 4 与 Reflection 开源对标中国模型；论文侧 AgentGarten、Trace2Env、Memento 3、Learn2Play 同日刷榜，\"给 Agent 造世界\"成为显性研究方向。"
   ],
   "items": [
+    {
+      "title": "I expect rapid progress but not towards general superintelligence",
+      "url": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+      "source": "Interconnects",
+      "time": "Fri, 09 Oct 2026 21:33:47 GMT",
+      "heat": "",
+      "summary": "I’ve often been surprised when I hear from top researchers in industry that they think AI will be better than them at their job in a few years, and I didn’t really know why I doubted it. The explanation I arrived at is that researchers are seeing this massive acceleration in the infra and engineerin...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
     {
       "title": "The Cyber Risk Discourse is Broken",
       "url": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
@@ -26,76 +36,6 @@
       "time": "Tue, 22 Sep 2026 13:37:45 GMT",
       "heat": "",
       "summary": "This episode is with Jean-Stanislas “JS” Denain of Epoch AI, who leads their Insights Team and is one of the people I find myself debating the state and trajectory of AI with more and more. We’ve had follow-on discussions of many of my favorite recent posts online and/or in private, so I wanted to d...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "The current balance of power in open models",
-      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "source": "Interconnects",
-      "time": "Mon, 21 Sep 2026 11:56:56 GMT",
-      "heat": "",
-      "summary": "I was recently invited to brief a group of Congressional members and staff on the state of open-weight models in the lens of U.S.-China competition. I’m sharing my prepared remarks as a state of the union on open models that is accessible to a broader audience. Interconnects AI is a reader-supported...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "The Dot and the Swarm",
-      "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-      "source": "One Useful Thing",
-      "time": "Thu, 01 Oct 2026 10:54:12 GMT",
-      "heat": "",
-      "summary": "I generally think I have done a good job anticipating the direction and pace of AI over the few years I have been writing this Substack, but I think I recently got something fairly large wrong. In the last year I have been posting about how I suspected that humans would have to approach working with...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "The Overhang",
-      "url": "https://www.oneusefulthing.org/p/the-overhang",
-      "source": "One Useful Thing",
-      "time": "Fri, 18 Sep 2026 17:54:32 GMT",
-      "heat": "",
-      "summary": "We are still on an exponential curve of AI development. I try to put out a Substack post every couple weeks or so, yet, as the pace speeds up, that sometimes feels too slow. In the weeks since my last post, we had the apparent cracking of one of the most famous problems in math by an AI (accompanied...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "Agency and Agents",
-      "url": "https://www.oneusefulthing.org/p/agency-and-agents",
-      "source": "One Useful Thing",
-      "time": "Mon, 31 Aug 2026 00:24:35 GMT",
-      "heat": "",
-      "summary": "Agency is the initiative to act. Increasingly, it is going to determine what happens next with AI, and whether that is good or bad for us. But whose agency? Human agency, the willingness to push, experiment and act without waiting for instructions, seems increasingly important to getting value out o...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "10 Free AI Tools That Replace Expensive Software for Data Scientists",
-      "url": "https://www.kdnuggets.com/10-free-ai-tools-that-replace-expensive-software-for-data-scientists",
-      "source": "KDnuggets",
-      "time": "Fri, 09 Oct 2026 12:00:00 +0000",
-      "heat": "",
-      "summary": "Build a production-grade data science toolkit without spending a dollar, using open-source AI tools that match, and sometimes exceed, their paid alternatives.",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "Bridging Algorithmic Design and Regulatory Standards in Enterprise AI",
-      "url": "https://www.kdnuggets.com/bridging-algorithmic-design-and-regulatory-standards-in-enterprise-ai",
-      "source": "KDnuggets",
-      "time": "Thu, 08 Oct 2026 16:00:00 +0000",
-      "heat": "",
-      "summary": "Your models can be both cutting-edge and compliant if you stop treating governance as the final hurdle and start building it into every stage of the ML pipeline.",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "Building AI Agents with Docker Agent",
-      "url": "https://www.kdnuggets.com/building-ai-agents-with-docker-agent",
-      "source": "KDnuggets",
-      "time": "Thu, 08 Oct 2026 14:00:00 +0000",
-      "heat": "",
-      "summary": "Docker Agent is an open-source, Apache 2.0-licensed CLI plugin built by Docker Engineering, installed and run as docker agent. Its own tagline states the goal plainly: run AI agents like containers.",
       "insight": "",
       "section": "newsletter_picks"
     },
@@ -130,36 +70,6 @@
       "section": "newsletter_picks"
     },
     {
-      "title": "Memia #2026.40: Gods don’t give gifts👹 🎬 griffin🙎 gemini 4♊🔐 le chonk🇫🇷🥖 protein watermarking🧬🔏 mirror particle🪞🧠 AI red phone🚨📞 dark posthumanism🦑🌑 open USD💵🌐 olmo-core 3⚡🔓",
-      "url": "https://memia.substack.com/p/memia-202640-gods-dont-give-gifts",
-      "source": "Memia",
-      "time": "Wed, 07 Oct 2026 02:55:13 GMT",
-      "heat": "",
-      "summary": "Welcome to Memia #2026.39 … your weekly scan across what’s happening out there at the frontier of AI, emerging tech and the accelerating future. Once again a rich trawl across the interwebs this issue. Thanks for following along!🙏 ℹ️ The usual PSA: Memia sends *very long emails*, best viewed online ...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "Memia #2026.39: Cheap signals🎭 safety harness🛡️🔒 discursive stratification🗞️ affective computing💧👁️ MAKERphone 2.0🔧📱 metabolic architecture🌿🏢 clippy with root access📎 look back with JOY🥲",
-      "url": "https://memia.substack.com/p/memia-202639-cheap-signals-safety",
-      "source": "Memia",
-      "time": "Wed, 30 Sep 2026 08:12:20 GMT",
-      "heat": "",
-      "summary": "Welcome to Memia #2026.39 … your regular weekly scan across what’s been happening out there at the frontier of AI, emerging tech and humanity’s accelerating future. As always, thanks for following along!🙏 Another week where the sheer volume of AI(-adjacent) PR news keeps increasing while the substan...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "🎭Cheap signals: the game theory of AI safety theatre",
-      "url": "https://memia.substack.com/p/cheap-signals-the-game-theory-of",
-      "source": "Memia",
-      "time": "Sun, 27 Sep 2026 03:37:55 GMT",
-      "heat": "",
-      "summary": "Image: The famous “Mexican standoff” scene from Quentin Tarantino’s Reservoir Dogs (Researched and co-written with GPT-6 Astra Max and Claude Opus 5.5, with appropriate irony.) September 2026 has been a disorienting month to follow AI. Dario Amodei argues the industry must \"pace the frontier\" . Form...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
       "title": "Text is so 2023",
       "url": "https://www.bensbites.com/p/text-is-so-2023",
       "source": "Ben's Bites",
@@ -186,6 +96,66 @@
       "time": "Thu, 01 Oct 2026 13:30:36 GMT",
       "heat": "",
       "summary": "Hi folks, I’m in sf till Sunday. I wanna meet folks talk about ai with non-technical adoption builders doing fun shit founders working on dev tools/infra potential LPs (individuals) go to deli board reach out on twitter Ben’s Bites is brought to you by AWS Marketplace Most ML teams build data pipeli...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "The Dot and the Swarm",
+      "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+      "source": "One Useful Thing",
+      "time": "Thu, 01 Oct 2026 10:54:12 GMT",
+      "heat": "",
+      "summary": "I generally think I have done a good job anticipating the direction and pace of AI over the few years I have been writing this Substack, but I think I recently got something fairly large wrong. In the last year I have been posting about how I suspected that humans would have to approach working with...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "The Overhang",
+      "url": "https://www.oneusefulthing.org/p/the-overhang",
+      "source": "One Useful Thing",
+      "time": "Fri, 18 Sep 2026 17:54:32 GMT",
+      "heat": "",
+      "summary": "We are still on an exponential curve of AI development. I try to put out a Substack post every couple weeks or so, yet, as the pace speeds up, that sometimes feels too slow. In the weeks since my last post, we had the apparent cracking of one of the most famous problems in math by an AI (accompanied...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Agency and Agents",
+      "url": "https://www.oneusefulthing.org/p/agency-and-agents",
+      "source": "One Useful Thing",
+      "time": "Mon, 31 Aug 2026 00:24:35 GMT",
+      "heat": "",
+      "summary": "Agency is the initiative to act. Increasingly, it is going to determine what happens next with AI, and whether that is good or bad for us. But whose agency? Human agency, the willingness to push, experiment and act without waiting for instructions, seems increasingly important to getting value out o...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Build Your First MCP Server in Python (Stateless Spec Edition)",
+      "url": "https://www.kdnuggets.com/build-your-first-mcp-server-in-python-stateless-spec-edition",
+      "source": "KDnuggets",
+      "time": "Fri, 09 Oct 2026 14:00:00 +0000",
+      "heat": "",
+      "summary": "MCP just got simpler. Learn how to build a stateless MCP server in Python and expose tools, resources, and prompts over HTTP.",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "10 Free AI Tools That Replace Expensive Software for Data Scientists",
+      "url": "https://www.kdnuggets.com/10-free-ai-tools-that-replace-expensive-software-for-data-scientists",
+      "source": "KDnuggets",
+      "time": "Fri, 09 Oct 2026 12:00:00 +0000",
+      "heat": "",
+      "summary": "Build a production-grade data science toolkit without spending a dollar, using open-source AI tools that match, and sometimes exceed, their paid alternatives.",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Bridging Algorithmic Design and Regulatory Standards in Enterprise AI",
+      "url": "https://www.kdnuggets.com/bridging-algorithmic-design-and-regulatory-standards-in-enterprise-ai",
+      "source": "KDnuggets",
+      "time": "Thu, 08 Oct 2026 16:00:00 +0000",
+      "heat": "",
+      "summary": "Your models can be both cutting-edge and compliant if you stop treating governance as the final hurdle and start building it into every stage of the ML pipeline.",
       "insight": "",
       "section": "newsletter_picks"
     },
@@ -220,22 +190,42 @@
       "section": "newsletter_picks"
     },
     {
+      "title": "Memia #2026.40: Gods don’t give gifts👹 🎬 griffin🙎 gemini 4♊🔐 le chonk🇫🇷🥖 protein watermarking🧬🔏 mirror particle🪞🧠 AI red phone🚨📞 dark posthumanism🦑🌑 open USD💵🌐 olmo-core 3⚡🔓",
+      "url": "https://memia.substack.com/p/memia-202640-gods-dont-give-gifts",
+      "source": "Memia",
+      "time": "Wed, 07 Oct 2026 02:55:13 GMT",
+      "heat": "",
+      "summary": "Welcome to Memia #2026.39 … your weekly scan across what’s happening out there at the frontier of AI, emerging tech and the accelerating future. Once again a rich trawl across the interwebs this issue. Thanks for following along!🙏 ℹ️ The usual PSA: Memia sends *very long emails*, best viewed online ...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Memia #2026.39: Cheap signals🎭 safety harness🛡️🔒 discursive stratification🗞️ affective computing💧👁️ MAKERphone 2.0🔧📱 metabolic architecture🌿🏢 clippy with root access📎 look back with JOY🥲",
+      "url": "https://memia.substack.com/p/memia-202639-cheap-signals-safety",
+      "source": "Memia",
+      "time": "Wed, 30 Sep 2026 08:12:20 GMT",
+      "heat": "",
+      "summary": "Welcome to Memia #2026.39 … your regular weekly scan across what’s been happening out there at the frontier of AI, emerging tech and humanity’s accelerating future. As always, thanks for following along!🙏 Another week where the sheer volume of AI(-adjacent) PR news keeps increasing while the substan...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "🎭Cheap signals: the game theory of AI safety theatre",
+      "url": "https://memia.substack.com/p/cheap-signals-the-game-theory-of",
+      "source": "Memia",
+      "time": "Sun, 27 Sep 2026 03:37:55 GMT",
+      "heat": "",
+      "summary": "Image: The famous “Mexican standoff” scene from Quentin Tarantino’s Reservoir Dogs (Researched and co-written with GPT-6 Astra Max and Claude Opus 5.5, with appropriate irony.) September 2026 has been a disorienting month to follow AI. Dario Amodei argues the industry must \"pace the frontier\" . Form...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
       "title": "AgentGarten: Code Worlds for Evolving Agents",
       "url": "https://huggingface.co/papers/2610.12374",
       "source": "HF Papers",
-      "time": "2026-10-09",
-      "heat": "+120",
+      "time": "2026-10-10",
+      "heat": "+126",
       "summary": "Interactive virtual worlds allow agents to learn through exploration and interaction. What agents can learn is bounded by the environments they practice in, which must be faithful, with consistent state, rules, and dynamics, and realistic, with observations that follow the real-world visual distributions. Achieving both across diverse worlds remains a bottleneck. We introduce AgentGarten, a framework that couples simulators and game engines with a shared neural renderer to build real-time interactive environments. Its simulation backends maintain persistent world state and execute program-defined interaction rules, while the renderer generates visual observations from structured conditions exported through a common interface. To build the neural renderer, we adapt a pretrained video model to geometry conditions, distill it with our proposed Adversarial Forcing, and optimize inference for real-time interaction. Adversarial Forcing makes history prefilling differentiable through exact replay, so that losses on later predictions update how the renderer encodes prior observations, and adds real-data adversarial supervision to improve its visual quality. In AgentGarten, agents perceive the world through visual observations, interact with it in real time, and improve by distilling each round of experience into playbooks that subsequent agents inherit and refine. Our empirical study demonstrates a substantial gain in learning efficiency, with agents learning from just 4 rounds compared with millions for a conventional reinforcement learning counterpart. As new worlds can be written as code and rendered through the same interface, environments can scale in both number and difficulty alongside their agents, a step toward agents that keep evolving through interactive experience.",
-      "insight": "",
-      "section": "huggingface_papers"
-    },
-    {
-      "title": "Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?",
-      "url": "https://huggingface.co/papers/2610.08215",
-      "source": "HF Papers",
-      "time": "2026-10-09",
-      "heat": "+109",
-      "summary": "Learning from experience is essential for LLM agents to adapt to unfamiliar and dynmaic environments. Evaluating this ability is therefore important for understanding how effectively agents acquire and use new knowledge. Existing benchmarks have sought to evaluate this ability, but they primarily evaluate tasks whose rules are provided in the instructions or already familiar to pretrained models, making it difficult to distinguish learning from interactions from reasoning with existing knowledge. To address this, we introduce Learn2Play Bench, a benchmark of newly designed text-based games, whose rules are novel or counterintuitive, requiring agents to acquire knowledge through interaction rather than rely solely on pretrained knowledge. These games provide reproducible feedback and automatic scoring, enabling controlled evaluation of learning across repeated attempts. We also vary game instances to test whether agents can apply what they have learned to new situations. Therefore, we evaluate how backbone models, self-evolving methods, and agent harnesses affect agents' learning ability, revealing three findings: (1) Experience retention: Retaining complete records of actions and feedback can support more effective learning than summarizing these experiences into rules or strategies. (2) Human agent gap: Top-performing human players achieve higher peak scores than the evaluated agents. Human explore more varied strategies, and repeat actions less. (3) Harness matters: With the backbone fixed, changing the harness can improve performance while reducing estimated inference cost. Together, these findings provide insights into how LLM agents learn from experience and suggest directions for future work to improve their learning ability. Project website: https://liushiliushi.github.io/learn2play-bench-website/",
       "insight": "",
       "section": "huggingface_papers"
     },
@@ -243,9 +233,19 @@
       "title": "TokenRouter: Efficient Serving System for Token-Level LLM Routing",
       "url": "https://huggingface.co/papers/2610.12242",
       "source": "HF Papers",
-      "time": "2026-10-09",
-      "heat": "+83",
+      "time": "2026-10-10",
+      "heat": "+102",
       "summary": "Large language model (LLM) routing distributes inference work across different models, advancing the cost-quality Pareto frontier of LLM serving. While coarse-grained routing at the session or query level has been widely adopted in production systems, recent algorithmic work shows that fine-grained token-level routing can yield substantial efficiency and quality gains. However, efficiently serving token-level routed inference poses significant challenges to existing systems. Built on single-LLM assumptions, current systems suffer from severe step desynchronization and frequent batch admission delays under token-level routing, and they also impose high implementation complexity on developers. To address these challenges, we design TokenRouter, an efficient and developer-friendly serving system for token-level routed LLM inference. TokenRouter follows the principle of request-centric programming, model-centric execution: developers describe routing logic from the perspective of a single request, while the runtime launches a subserver for each LLM and dispatches requests asynchronously. Each subserver employs a delayed-batching scheduler, whose optimal hyperparameters are derived from a mathematical throughput model of the system. Across diverse routing algorithms, workloads, and model pairs, TokenRouter achieves 2.01-64.15x higher decoding throughput than existing systems, substantially advancing the serving efficiency of token-level LLM routing. Our code is available at https://github.com/thu-nics/TokenRouter.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?",
+      "url": "https://huggingface.co/papers/2610.08215",
+      "source": "HF Papers",
+      "time": "2026-10-10",
+      "heat": "+101",
+      "summary": "Learning from experience is essential for LLM agents to adapt to unfamiliar and dynmaic environments. Evaluating this ability is therefore important for understanding how effectively agents acquire and use new knowledge. Existing benchmarks have sought to evaluate this ability, but they primarily evaluate tasks whose rules are provided in the instructions or already familiar to pretrained models, making it difficult to distinguish learning from interactions from reasoning with existing knowledge. To address this, we introduce Learn2Play Bench, a benchmark of newly designed text-based games, whose rules are novel or counterintuitive, requiring agents to acquire knowledge through interaction rather than rely solely on pretrained knowledge. These games provide reproducible feedback and automatic scoring, enabling controlled evaluation of learning across repeated attempts. We also vary game instances to test whether agents can apply what they have learned to new situations. Therefore, we evaluate how backbone models, self-evolving methods, and agent harnesses affect agents' learning ability, revealing three findings: (1) Experience retention: Retaining complete records of actions and feedback can support more effective learning than summarizing these experiences into rules or strategies. (2) Human agent gap: Top-performing human players achieve higher peak scores than the evaluated agents. Human explore more varied strategies, and repeat actions less. (3) Harness matters: With the backbone fixed, changing the harness can improve performance while reducing estimated inference cost. Together, these findings provide insights into how LLM agents learn from experience and suggest directions for future work to improve their learning ability. Project website: https://liushiliushi.github.io/learn2play-bench-website/",
       "insight": "",
       "section": "huggingface_papers"
     },
@@ -253,8 +253,8 @@
       "title": "From Traces to Agentic Worlds: Agentic Language World Models for Interactive Environment Simulation",
       "url": "https://huggingface.co/papers/2610.06100",
       "source": "HF Papers",
-      "time": "2026-10-09",
-      "heat": "+156",
+      "time": "2026-10-10",
+      "heat": "+114",
       "summary": "Realistic environment replicas are increasingly valuable for training and evaluating LLM agents, yet the original systems may be inaccessible or impractical to reproduce. We explore agentic language world modeling: rather than rebuilding an executable environment, a world model agent serves as the environment for a task agent and supports faithful and stateful simulation. We instantiate this paradigm with Trace2Env, a learning-free framework for settings where the original system is unavailable but historical interaction traces remain accessible. Trace2Env reconstructs these traces into a reusable environment worldbook containing environment schemas, grounded evidence, and induced behavioral knowledge. At runtime, the world model agent actively consults the worldbook together with persistent episodic state to infer each action's observation and lasting state effects. Across nine environments, Trace2Env improves both next-observation fidelity and long-horizon interaction consistency over conventional prompt-based LWMs. In multi-turn interaction, task agent actions generated against Trace2Env remain valid more often when replayed in the real environment, indicating that its simulated dynamics better preserve the consequences of earlier actions across successive turns. These results establish agentic language world modeling as an alternative direction for building realistic environment replicas without reconstructing the original executable system.",
       "insight": "",
       "section": "huggingface_papers"
@@ -263,8 +263,8 @@
       "title": "SuperNav: An Agentic Navigation System for Any Task in Any Scene",
       "url": "https://huggingface.co/papers/2610.12126",
       "source": "HF Papers",
-      "time": "2026-10-09",
-      "heat": "+54",
+      "time": "2026-10-10",
+      "heat": "+56",
       "summary": "General-purpose service robots need navigation systems that can handle diverse human requests in unfamiliar environments, combining task generality with scene generality. Some existing methods fine-tune multimodal large language models (MLLMs) to predict navigation actions, making their behavior dependent on the coverage of navigation training data and potentially limiting generalization to new requests and environments. Our key insight is to let the MLLM focus on interpreting requests, understanding scenes, and making decisions while preserving its general-purpose capabilities and delegating motion execution to navigation tools. To realize this idea, we introduce SuperNav, which equips a pretrained MLLM with a specialized agent harness without navigation-specific fine-tuning of the MLLM. Our harness supports these decisions with Navigation Skills, agent-oriented Tools for physical interaction, and task-progress and context management. A unified visual-point interface connects decision-making to motion by allowing the model to specify destinations directly in images and revise its decisions from execution feedback. Together, these components support sustained navigation across different task requirements and environments. SuperNav outperforms four evaluated baselines on instance-level, multi-object, and demand-driven tasks. Category-level evaluation on HM3D and deployment on a real quadruped robot further demonstrate its applicability across environments. Project Page: https://zju3dv.github.io/SuperNav/",
       "insight": "",
       "section": "huggingface_papers"
@@ -273,19 +273,9 @@
       "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement",
       "url": "https://huggingface.co/papers/2610.11959",
       "source": "HF Papers",
-      "time": "2026-10-09",
-      "heat": "+44",
+      "time": "2026-10-10",
+      "heat": "+50",
       "summary": "Reinforcement learning (RL) is the central training paradigm for advancing large foundation models towards self-improvement. This report introduces the MiMo-V2.6 series, an omni-modal family that pushes the frontier of model intelligence by scaling RL compute. Prior to RL, we conduct mid-training on a broad multimodal corpus to provide ample exploration space, and build a solid infrastructure on the pretrained hybrid-SWA architecture to support subsequent scale-up. We scale RL compute along three dimensions: (1) larger batches and higher throughput, with an asynchronous training that consumes 1,568 samples and 2.7-3.7B tokens per step at context lengths of up to 1M; (2) more diverse and complex environments, spanning code, general, visual, and cyber domains under a mixture of agent harnesses; and (3) more grader compute, via groupwise agentic grading that yields more accurate reward signals for long-horizon tasks and steers the model towards shorter, more token-efficient solutions. To keep training stable at scale, we freeze the MoE router and establish a multi-layer defense against reward hacking. We further build infrastructure for mixed-task agentic RL, including a unified trajectory representation, high-concurrency multi-framework rollout, decoupled control and data planes, and training-inference consistency. We open-source the training dynamics, RL environments, and RL framework to facilitate reproduction and further research on scaled RL and model self-improvement.",
-      "insight": "",
-      "section": "huggingface_papers"
-    },
-    {
-      "title": "In-context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks",
-      "url": "https://huggingface.co/papers/2609.38173",
-      "source": "HF Papers",
-      "time": "2026-10-09",
-      "heat": "+32",
-      "summary": "We study robotic in-context learning (ICL), an emerging paradigm that enables robots to infer and execute tasks from visual demonstrations. Despite its growing promise, the problem itself remains under-defined: a visual demonstration simultaneously conveys action trajectories, object semantics, manipulation affordances, spatial relations, and task goals, making it unclear what information the robot is actually expected to follow. In this work, we first provide a clear problem definition of robot ICL that explicitly defines its learning target and resolves this fundamental prompt ambiguity. Building on this definition, we develop a minimalist and reproducible ICL framework (SimpleICL) with a visual prompt encoder and a low-cost data collection protocol. Without massive pre-training or specialized data infrastructure, our framework achieves strong performance in both simulation and real-world environments. Extensive experiments further reveal several key properties of robot ICL, including action, semantic, composition, and affordance discrimination. We will fully open-source our data and training pipeline to facilitate systematic and reproducible research on robot ICL. The project page can be found at https://simpleicl.github.io/simpleicl.",
       "insight": "",
       "section": "huggingface_papers"
     },
@@ -293,9 +283,19 @@
       "title": "Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction",
       "url": "https://huggingface.co/papers/2610.12299",
       "source": "HF Papers",
-      "time": "2026-10-09",
-      "heat": "+31",
+      "time": "2026-10-10",
+      "heat": "+36",
       "summary": "Egocentric world models predict first-person observations conditioned on an agent's actions, but most focus on a single agent. Real embodied settings often involve multiple agents that act and interact within a shared environment. Existing multi-agent world models rely on coarse actions like locomotion, camera control, or discrete commands, leaving fine-grained embodied interactions underexplored. We formulate multi-agent egocentric world modeling as synchronized ego-stream generation for multiple agents interacting through fine-grained actions in a shared world. This requires cross-view action consistency, shared-environment consistency, and consistent propagation of interaction-induced state updates. We propose Multi-agent Egocentric World Model (ME-World), which jointly denoises multiple ego streams in a shared token sequence, conditions each stream on all agents' target-view poses, and grounds generation with shared environment memory. We train and evaluate on real and synthetic multi-agent data and introduce shared-world consistency metrics for environment, update, and identity consistency. Experiments show ME-World improves shared-world consistency, action control, identity preservation, and video quality over existing methods.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "In-context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks",
+      "url": "https://huggingface.co/papers/2609.38173",
+      "source": "HF Papers",
+      "time": "2026-10-10",
+      "heat": "+33",
+      "summary": "We study robotic in-context learning (ICL), an emerging paradigm that enables robots to infer and execute tasks from visual demonstrations. Despite its growing promise, the problem itself remains under-defined: a visual demonstration simultaneously conveys action trajectories, object semantics, manipulation affordances, spatial relations, and task goals, making it unclear what information the robot is actually expected to follow. In this work, we first provide a clear problem definition of robot ICL that explicitly defines its learning target and resolves this fundamental prompt ambiguity. Building on this definition, we develop a minimalist and reproducible ICL framework (SimpleICL) with a visual prompt encoder and a low-cost data collection protocol. Without massive pre-training or specialized data infrastructure, our framework achieves strong performance in both simulation and real-world environments. Extensive experiments further reveal several key properties of robot ICL, including action, semantic, composition, and affordance discrimination. We will fully open-source our data and training pipeline to facilitate systematic and reproducible research on robot ICL. The project page can be found at https://simpleicl.github.io/simpleicl.",
       "insight": "",
       "section": "huggingface_papers"
     },
@@ -303,8 +303,8 @@
       "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
       "url": "https://huggingface.co/papers/2610.12468",
       "source": "HF Papers",
-      "time": "2026-10-09",
-      "heat": "+25",
+      "time": "2026-10-10",
+      "heat": "+26",
       "summary": "We present DreamTrue, a multi-view, cross-embodiment robot world model for action-faithful and physically plausible video prediction. Training such a model on existing robot datasets faces two obstacles: imprecise calibration can impair action following, while limited coverage of unsuccessful interactions can bias predictions toward successful outcomes. To improve action following across embodiments, we render action trajectories into image-space conditions and introduce offline geometric calibration to align these conditions with the target videos. To broaden interaction coverage, we introduce counterfactual post-training, modifying recorded action trajectories and generating future videos under a wider range of actions and contact configurations. To provide feedback on these predictions without paired ground-truth futures, we construct a human-annotated video dataset covering robot, object, and interaction defects and use it to train an embodied video reward model. Its scores guide reinforcement-learning post-training toward more physically plausible interaction outcomes. On AgiBot, DreamTrue attains state-of-the-art action following, while reducing the human-assessed interaction defect rate from from 48.12% to 6.25%. Notably, our model ranks first in the world model track of the AgiBot World Challenge 2026. The project page can be found at https://brave-eai.github.io/DreamTrue.",
       "insight": "",
       "section": "huggingface_papers"
@@ -313,8 +313,8 @@
       "title": "Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Correspondence Matching",
       "url": "https://huggingface.co/papers/2610.12421",
       "source": "HF Papers",
-      "time": "2026-10-09",
-      "heat": "+20",
+      "time": "2026-10-10",
+      "heat": "+24",
       "summary": "Dense correspondence matching has historically been bounded by simplifying spatio-temporal priors, such as smooth motion and rigid geometry. While effective for classical tasks, these assumptions break down in image editing and reference-guided generation (IEG), where transformations can preserve visual identity while breaking physical continuity. To establish identity-preserving correspondence across such transformations, we introduce FreeMatching, a generalizable framework combining generative and semantic foundation representations with heterogeneous supervision from classical datasets, tracked videos, and synthetic scenes. Teacher-guided iterative refinement further improves correspondence in IEG without dense correspondence annotations. Experimentally, a single FreeMatching model substantially improves correspondence quality on challenging IEG image pairs while retaining competitive performance on classical benchmarks. Furthermore, we demonstrate its utility as a quantitative metric for evaluating identity preservation, with scores that correlate with human judgment. The code is available at https://github.com/luping-liu/FreeMatching.",
       "insight": "",
       "section": "huggingface_papers"
@@ -323,9 +323,19 @@
       "title": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
       "url": "https://huggingface.co/papers/2610.12461",
       "source": "HF Papers",
-      "time": "2026-10-09",
-      "heat": "+21",
+      "time": "2026-10-10",
+      "heat": "+25",
       "summary": "Recent 3D world models generate photorealistic, explorable scenes that remain frozen in time. OuroWorld is a mask-free framework that turns any static 3D Gaussian Splatting scene into a 3D cinemagraph: a dynamic scene with vivid, diverse motion looping seamlessly from any viewpoint. A vision-language model infers plausible dynamics and guides a video model to synthesize a reference video, which we lift and complete into multi-view videos. To learn from this imperfect supervision, we propose Inconsistency-Robust Periodic 4DGS: a Fourier-series deformation field guarantees looping by construction, while a Grounded Drift Field anchored at the reference view absorbs cross-view inconsistency. Unlike prior Eulerian methods limited to fluid-like motion, we capture general deformation, object motion, and illumination change. We introduce a ground-truth-free evaluation covering vividness, naturalness, loop seam coherence, and scene quality. On 39 reconstructed and generated scenes, OuroWorld outperforms all baselines and wins 70.8%-99.0% of user-study comparisons. Project page: https://ouroworld.userwei.com",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models",
+      "url": "https://huggingface.co/papers/2610.09087",
+      "source": "HF Papers",
+      "time": "2026-10-10",
+      "heat": "+22",
+      "summary": "Large language models are informing decisions with ever-higher stakes. As the consequences of their errors grow, a central question becomes harder to ignore: how much can we trust an individual answer? Yet recognizing when to defer remains difficult because language models can present incorrect conclusions with fluent explanations and an authoritative tone. Uncertainty quantification seeks to address this disconnect by estimating the reliability of individual predictions. However, many existing methods require repeated generations or separately trained components, and their scalar estimates do not reveal where uncertainty arises or how it evolves during reasoning. Recent work has also shown that generation length can be strongly associated with uncertainty estimates and correctness, raising the question of how much of an estimator's predictive power comes from uncertainty-specific information rather than output length alone. Mechanistic interpretability offers a way to address these limitations by connecting human-interpretable concepts to intermediate model states. Building on this capability, we introduce the U-Space, a low-dimensional subspace that makes a model's evolving uncertainty measurable and interpretable. We identify semantic anchors for doubt and certainty, map their unembedding directions back into the residual space, and combine their contrasts into an orthogonal basis. The U-Lens projects each token state onto these basis vectors, yielding an interpretable token-level uncertainty map that can be inspected directly or aggregated into a scalar uncertainty score. Our approach requires no correctness labels, repeated generations, or training. Across reasoning benchmarks, its confidence score outperforms established baselines under both standard and length-controlled evaluation and transfers more reliably than supervised estimators. Code: https://github.com/s2labres/U-Space.",
       "insight": "",
       "section": "huggingface_papers"
     },
@@ -333,8 +343,8 @@
       "title": "MC-Sparse: Deconstructing and Closing the Dense-Sparse Attention Gap in Diffusion Transformers",
       "url": "https://huggingface.co/papers/2610.06801",
       "source": "HF Papers",
-      "time": "2026-10-09",
-      "heat": "+18",
+      "time": "2026-10-10",
+      "heat": "+22",
       "summary": "Sparse attention is a primary approach to reducing the latency of diffusion transformers in long-sequence generation tasks, such as video and high-resolution 3D asset generation. However, existing methods can degrade generation quality and fidelity at high sparsity levels. Through controlled oracle comparisons, we trace this degradation to three sources: constraints imposed by token grouping, inaccurate interaction selection, and the attention contributions lost when tokens are discarded. Guided by this analysis, we propose Meta-Cached Sparse Attention (MC-Sparse), a training-free framework that selects individual key-value (KV) tokens while organizing similar queries into tile-aligned groups for efficient GPU execution. MC-Sparse caches metadata comprising query groups, KV indices selected using exact attention probabilities, and residuals between dense and sparse attention outputs, and reuses them across subsequent denoising steps. Across video and 3D generation models, MC-Sparse achieves higher fidelity to dense-attention outputs and larger denoising speedups than existing sparse-attention baselines, without visible quality degradation. Relative to dense attention, it delivers a 1.80times denoising speedup on Minimax-H3-Base and a 2.32times speedup on 3D asset generation, both with negligible quality loss.",
       "insight": "",
       "section": "huggingface_papers"
@@ -343,39 +353,9 @@
       "title": "TestPrism: Rethinking Test Evaluation Beyond a Single Reference",
       "url": "https://huggingface.co/papers/2610.12289",
       "source": "HF Papers",
-      "time": "2026-10-09",
-      "heat": "+17",
+      "time": "2026-10-10",
+      "heat": "+21",
       "summary": "Large language model (LLM) coding agents have advanced test generation across diverse programming tasks. However, the common practice of evaluating tests against a single reference solution overlooks alternative valid implementations and can overstate test quality. We introduce TestPrism, comprising 300 test tasks from 17 sources and 3000 candidate implementations, evenly split between valid and invalid solutions. Its primary metric, Joint Success Function, requires the generated tests to fail on the initial program state, accept every valid candidate, and reject every invalid candidate. Across fourteen baseline coding agent configurations, Joint Success Function reaches only 28.00%, whereas single reference success reaches 59.67%. Our analysis reveals missed behaviors, unsupported assertions, and faulty test construction. To address these weaknesses, we introduce TestHelix, which combines heterogeneous synthesis of test and repair pairs with peer cross validation and recursive self improvement (RSI). Across two models, TestHelix improves Joint Success Function by 8.67 to 9.00 percentage points over the native harness comparators in the TestHelix evaluation",
-      "insight": "",
-      "section": "huggingface_papers"
-    },
-    {
-      "title": "Post-Training Frontier Text-to-Image Models by Composing Preference and Rubric Rewards",
-      "url": "https://huggingface.co/papers/2610.02967",
-      "source": "HF Papers",
-      "time": "2026-10-09",
-      "heat": "+14",
-      "summary": "Recent text-to-image generation models have achieved remarkable visual quality, but improving them through post-training remains challenging because no single reward signal captures the full range of human preference. In this work, we develop a simple and effective post-training recipe for open-domain text-to-image generation based on the composition of complementary reward signals. Our reward system consists of two main components: a preference reward, trained on large-scale human preference data using a Bradley-Terry objective to capture overall human aesthetic and perceptual preferences, and rubric-based rewards, which explicitly evaluate prompt faithfulness and other desirable properties while providing safeguards against reward hacking. A key challenge is how to combine these heterogeneous reward signals. We show that a naive weighted average leads to suboptimal optimization behavior, and propose a simple reward composition strategy that more effectively balances preference optimization with rubric satisfaction. In the Arena text-to-image leaderboard (https://arena.ai/), our RL-trained Flux2dev achieves an Elo rating 69 points above the base model, and our post-trained Ideogram-4 surpasses every open-source model on the leaderboard, reaching an Elo of 1223.5. (Claims of state-of-the-art performance are based on the Arena leaderboard snapshot as of September 4, 2026.) Our results suggest that effective rewards for frontier generative-model training require broad coverage of user intent and robustness to exploitation under optimization. To support reproducible research, we release Arena-T2I-Training, a 1K subset of training data that recovers some gains of full-scale training, providing a resource that we hope will facilitate future work on post-training for text-to-image models.",
-      "insight": "",
-      "section": "huggingface_papers"
-    },
-    {
-      "title": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models",
-      "url": "https://huggingface.co/papers/2610.09087",
-      "source": "HF Papers",
-      "time": "2026-10-09",
-      "heat": "+12",
-      "summary": "Large language models are informing decisions with ever-higher stakes. As the consequences of their errors grow, a central question becomes harder to ignore: how much can we trust an individual answer? Yet recognizing when to defer remains difficult because language models can present incorrect conclusions with fluent explanations and an authoritative tone. Uncertainty quantification seeks to address this disconnect by estimating the reliability of individual predictions. However, many existing methods require repeated generations or separately trained components, and their scalar estimates do not reveal where uncertainty arises or how it evolves during reasoning. Recent work has also shown that generation length can be strongly associated with uncertainty estimates and correctness, raising the question of how much of an estimator's predictive power comes from uncertainty-specific information rather than output length alone. Mechanistic interpretability offers a way to address these limitations by connecting human-interpretable concepts to intermediate model states. Building on this capability, we introduce the U-Space, a low-dimensional subspace that makes a model's evolving uncertainty measurable and interpretable. We identify semantic anchors for doubt and certainty, map their unembedding directions back into the residual space, and combine their contrasts into an orthogonal basis. The U-Lens projects each token state onto these basis vectors, yielding an interpretable token-level uncertainty map that can be inspected directly or aggregated into a scalar uncertainty score. Our approach requires no correctness labels, repeated generations, or training. Across reasoning benchmarks, its confidence score outperforms established baselines under both standard and length-controlled evaluation and transfers more reliably than supervised estimators. Code: https://github.com/s2labres/U-Space.",
-      "insight": "",
-      "section": "huggingface_papers"
-    },
-    {
-      "title": "SparseDecoding: Decoding-Aware Pruning for Accurate and Efficient LLM Inference",
-      "url": "https://huggingface.co/papers/2610.12327",
-      "source": "HF Papers",
-      "time": "2026-10-09",
-      "heat": "+13",
-      "summary": "The memory-bound nature of the decoding stage of large language model (LLM) inference incurs significant latency. Layer-wise training-free network pruning approaches guided by the Hessian have been a prominent solution to this problem, as pruning reduces the number of nonzero parameters read from memory during decoding. Nevertheless, typical methods in this line compute the Hessian using pre-collected natural sequences, whereas the model is fed self-generated tokens during decoding, creating a distribution shift between the two sequences. The Hessian calculated on the natural sequence is different from that calculated on the generated sequence. We observe that this discrepancy causes the activation distribution during generation to deviate from that used for pruning, further hurting the pruned model performance. Moreover, most existing LLM pruning methods that bring actual speedup primarily target the sparse matrix-matrix (SpMM) multiplication, providing limited support for the sparse matrix-vector (SpMV) operations, which dominate decoding. To solve these problems, we introduce SparseDecoding, a principled decoding-aware pruning framework tailored for accurate and efficient LLM decoding. Specifically, at the algorithmic axis, SparseDecoding constructs calibration matrices from layer-wise activations collected during the dense-model autoregressive generation, excluding prefill, thereby aligning the pruning objective with the decoding activations. At the system axis, we develop an optimized N:M sparse matrix-vector kernel with bitmask indexing and fixed-step traversal. Substantial empirical results on representative LLMs (Llama-3.1-8B, Llama-3.3-70B, Qwen3-14B / 32B) demonstrate that our method consistently outperforms standard fixed-text calibration on the long-form generation benchmarks while achieving up to 1.48x end-to-end wall-clock decoding speedup on A100 GPUs.",
       "insight": "",
       "section": "huggingface_papers"
     },
@@ -383,19 +363,29 @@
       "title": "Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks",
       "url": "https://huggingface.co/papers/2610.11794",
       "source": "HF Papers",
-      "time": "2026-10-09",
-      "heat": "+10",
+      "time": "2026-10-10",
+      "heat": "+19",
       "summary": "Learning to act in unfamiliar environments requires agents to infer how the world works and revise that understanding as new evidence arrives. Yet limited observations can support multiple world models that explain past interactions but predict different outcomes in unseen states. We introduce Memento 3, building on the Memento series to enable frozen LLM agents to continually learn explicit world models through external memory. The agent maintains a natural-language rulebook as persistent semantic memory, recording revisable hypotheses about environment dynamics while leaving unknown aspects underspecified. It compiles this rulebook into executable code for prediction and planning. Through a continual loop of observation, reflection, rule revision, compilation, and verification, the agent uses prediction errors to refine both the rulebook and its code. Updated code is accepted only when the LLM judges it faithful to the rulebook and cell-exact replay reproduces the observed transitions. We investigate this process as a model-based route to recursive self-improvement (RSI): the agent autonomously explores the environment, revises its world model, and uses verified updates to guide subsequent interaction and learning, while the underlying LLM remains fixed. A population extension maintains multiple world models in parallel, sharing interaction evidence and using their predictions to guide exploration. On ARC-AGI-3, the single-model agent clears every level of all 25 public games, achieves a mean Relative Human Action Efficiency (RHAE) of 100.0, and uses 44% of the human action count. In an Atari Pong case study, a learned feedback controller wins 21:0 in each of three evaluated episodes with different openings, without further LLM calls.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "LEGO: A Lifting-Free Approach for Exocentric-to-Egocentric Video Generation",
-      "url": "https://huggingface.co/papers/2610.12442",
+      "title": "Post-Training Frontier Text-to-Image Models by Composing Preference and Rubric Rewards",
+      "url": "https://huggingface.co/papers/2610.02967",
       "source": "HF Papers",
-      "time": "2026-10-09",
-      "heat": "+9",
-      "summary": "Generating an egocentric video from a single exocentric recording is a challenging case of novel view synthesis, as the two cameras share little overlap and much of the target view is unobserved. Current state-of-the-art methods reconstruct the scene explicitly by estimating depth, lifting the video into a point cloud, and re-rendering it from the egocentric camera to condition a video diffusion model. This deterministic mapping assigns each pixel to a single reprojected location, which preserves texture but translates depth errors into misplaced content. We ask what a video diffusion model should receive as its condition and propose a lifting-free answer: a learned view synthesizer, an LVSM-style transformer fine-tuned to render the egocentric view directly without depth, point clouds, or reprojection, resolving cross-view correspondence internally. In contrast, its probabilistic mapping averages each region over candidate source locations according to a learned correspondence distribution, preserving structure while fine texture is averaged away. We argue that this trade-off suits a diffusion generator, whose denoising training excels at restoring detail, so an effective condition should prioritize structural alignment over sharpness. This distribution's concentration also yields a per-region confidence, used both to mask low-confidence regions and to guide the generator toward high-confidence areas during early layout-forming denoising steps. Our approach consistently outperforms the state-of-the-art explicit pipeline and generalizes to other datasets without retraining. The synthesizer thus supplies view structure, and the diffusion model its detail.",
+      "time": "2026-10-10",
+      "heat": "+17",
+      "summary": "Recent text-to-image generation models have achieved remarkable visual quality, but improving them through post-training remains challenging because no single reward signal captures the full range of human preference. In this work, we develop a simple and effective post-training recipe for open-domain text-to-image generation based on the composition of complementary reward signals. Our reward system consists of two main components: a preference reward, trained on large-scale human preference data using a Bradley-Terry objective to capture overall human aesthetic and perceptual preferences, and rubric-based rewards, which explicitly evaluate prompt faithfulness and other desirable properties while providing safeguards against reward hacking. A key challenge is how to combine these heterogeneous reward signals. We show that a naive weighted average leads to suboptimal optimization behavior, and propose a simple reward composition strategy that more effectively balances preference optimization with rubric satisfaction. In the Arena text-to-image leaderboard (https://arena.ai/), our RL-trained Flux2dev achieves an Elo rating 69 points above the base model, and our post-trained Ideogram-4 surpasses every open-source model on the leaderboard, reaching an Elo of 1223.5. (Claims of state-of-the-art performance are based on the Arena leaderboard snapshot as of September 4, 2026.) Our results suggest that effective rewards for frontier generative-model training require broad coverage of user intent and robustness to exploitation under optimization. To support reproducible research, we release Arena-T2I-Training, a 1K subset of training data that recovers some gains of full-scale training, providing a resource that we hope will facilitate future work on post-training for text-to-image models.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "SparseDecoding: Decoding-Aware Pruning for Accurate and Efficient LLM Inference",
+      "url": "https://huggingface.co/papers/2610.12327",
+      "source": "HF Papers",
+      "time": "2026-10-10",
+      "heat": "+15",
+      "summary": "The memory-bound nature of the decoding stage of large language model (LLM) inference incurs significant latency. Layer-wise training-free network pruning approaches guided by the Hessian have been a prominent solution to this problem, as pruning reduces the number of nonzero parameters read from memory during decoding. Nevertheless, typical methods in this line compute the Hessian using pre-collected natural sequences, whereas the model is fed self-generated tokens during decoding, creating a distribution shift between the two sequences. The Hessian calculated on the natural sequence is different from that calculated on the generated sequence. We observe that this discrepancy causes the activation distribution during generation to deviate from that used for pruning, further hurting the pruned model performance. Moreover, most existing LLM pruning methods that bring actual speedup primarily target the sparse matrix-matrix (SpMM) multiplication, providing limited support for the sparse matrix-vector (SpMV) operations, which dominate decoding. To solve these problems, we introduce SparseDecoding, a principled decoding-aware pruning framework tailored for accurate and efficient LLM decoding. Specifically, at the algorithmic axis, SparseDecoding constructs calibration matrices from layer-wise activations collected during the dense-model autoregressive generation, excluding prefill, thereby aligning the pruning objective with the decoding activations. At the system axis, we develop an optimized N:M sparse matrix-vector kernel with bitmask indexing and fixed-step traversal. Substantial empirical results on representative LLMs (Llama-3.1-8B, Llama-3.3-70B, Qwen3-14B / 32B) demonstrate that our method consistently outperforms standard fixed-text calibration on the long-form generation benchmarks while achieving up to 1.48x end-to-end wall-clock decoding speedup on A100 GPUs.",
       "insight": "",
       "section": "huggingface_papers"
     },
@@ -403,9 +393,19 @@
       "title": "OneSearch-VL: Unified Multimodal Deep Research Agent for Image and Video",
       "url": "https://huggingface.co/papers/2610.12419",
       "source": "HF Papers",
-      "time": "2026-10-09",
-      "heat": "+6",
+      "time": "2026-10-10",
+      "heat": "+11",
       "summary": "Single-image, multi-image, and video deep research require different visual operations but share a workflow of visual grounding, external retrieval, and fact composition. A key challenge is to preserve the dependencies linking localized visual anchors, entity relations, source-supported facts, and answer-producing operations. We introduce OneSearch-VL, a unified agent centered on the Visually Grounded Evidence Graph (VGEG), which encodes these dependencies as a shared task-level reference for data construction, process supervision, and operation-level evaluation. Our VGEG-based data engine constructs and verifies multi-image and video questions and filters expert trajectories. Using these data, we assemble OneSearch-VL-SFT-110K and OneSearch-VL-RL-10K for SFT and RL, respectively. We further derive the Evidence-aware Visual-Grounded Rubric reward (EVGR) from VGEG annotations to supervise evidence traceability and visual grounding during RL. For fine-grained evaluation, we construct OneSearch-MI-Bench and OneSearch-Video-Bench, organizing questions by the research operations encoded in their VGEGs. Experiments show that OneSearch-VL-8B improves over Qwen3-VL-8B with tool access by 20.2 and 17.6 percentage points on the two new benchmarks, respectively, while also achieving substantial gains across 7 image benchmarks and VideoDR. Project repository: https://github.com/appletea233/OneSearch-VL",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "LEGO: A Lifting-Free Approach for Exocentric-to-Egocentric Video Generation",
+      "url": "https://huggingface.co/papers/2610.12442",
+      "source": "HF Papers",
+      "time": "2026-10-10",
+      "heat": "+11",
+      "summary": "Generating an egocentric video from a single exocentric recording is a challenging case of novel view synthesis, as the two cameras share little overlap and much of the target view is unobserved. Current state-of-the-art methods reconstruct the scene explicitly by estimating depth, lifting the video into a point cloud, and re-rendering it from the egocentric camera to condition a video diffusion model. This deterministic mapping assigns each pixel to a single reprojected location, which preserves texture but translates depth errors into misplaced content. We ask what a video diffusion model should receive as its condition and propose a lifting-free answer: a learned view synthesizer, an LVSM-style transformer fine-tuned to render the egocentric view directly without depth, point clouds, or reprojection, resolving cross-view correspondence internally. In contrast, its probabilistic mapping averages each region over candidate source locations according to a learned correspondence distribution, preserving structure while fine texture is averaged away. We argue that this trade-off suits a diffusion generator, whose denoising training excels at restoring detail, so an effective condition should prioritize structural alignment over sharpness. This distribution's concentration also yields a per-region confidence, used both to mask low-confidence regions and to guide the generator toward high-confidence areas during early layout-forming denoising steps. Our approach consistently outperforms the state-of-the-art explicit pipeline and generalizes to other datasets without retraining. The synthesizer thus supplies view structure, and the diffusion model its detail.",
       "insight": "",
       "section": "huggingface_papers"
     },
@@ -413,45 +413,15 @@
       "title": "Foundations of Large Language Models",
       "url": "https://huggingface.co/papers/2501.09223",
       "source": "HF Papers",
-      "time": "2026-10-09",
-      "heat": "+20",
+      "time": "2026-10-10",
+      "heat": "+25",
       "summary": "This is a book about large language models. As indicated by the title, it primarily focuses on foundational concepts rather than comprehensive coverage of all cutting-edge technologies. The book is structured into six main chapters, each exploring a key area: pre-training, generative models, prompting, alignment, inference, and reasoning. It is intended for college students, professionals, and practitioners in natural language processing and related fields, and can serve as a reference for anyone interested in large language models.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "Show HN: CircleIt – Circle something on a web page, your coding agent fixes it",
-      "url": "https://circleit.ai",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "1 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "LocalMind: Pocket AI Assistant",
-      "url": "https://play.google.com/store/apps/details?id=com.pocketai.localmind&hl=en_US",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "1 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "AI coding agents have a Mythical Man-Month problem",
-      "url": "https://www.youtube.com/watch?v=92dMxu3wcGI",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "1 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "Overzealous AI Guardrails Force Adult Users into Self-Censorship",
-      "url": "https://www.reddit.com/r/ChatGPTcomplaints/comments/1vjhxbl/stop_the_moral_policing_how_overzealous_ai/",
+      "title": "If AI is conscient, then we are making slaves",
+      "url": "https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi",
       "source": "Hacker News",
       "time": "Today",
       "heat": "2 points",
@@ -460,38 +430,8 @@
       "section": ""
     },
     {
-      "title": "I Lost My Job to AI in China - Now What? [video]",
-      "url": "https://www.youtube.com/watch?v=eXyxQEkp58Y",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "1 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "AI Agents at Retail Brokerages",
-      "url": "https://www.condorcapital.com/digital-advice-report/reports/ai-agents-at-retail-brokerages-2q-2026/",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "1 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "Ask HN: What if no AIpocalypse, no AI bubble, what if it just keeps advancing?",
-      "url": "https://news.ycombinator.com/item?id=50020096",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "4 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "Patients are using AI to complain about their dentists",
-      "url": "https://www.toothlocal.com/reports/ai-reviews-2026/",
+      "title": "Zombie AI Video Generator – a zombie love story from two photos",
+      "url": "https://zombieaivideo.org/",
       "source": "Hacker News",
       "time": "Today",
       "heat": "2 points",
@@ -500,8 +440,28 @@
       "section": ""
     },
     {
-      "title": "Defining Auth for Agents",
-      "url": "https://www.keycard.ai/blog/defining-auth-for-agents/",
+      "title": "Oracle, Broadcom and SpaceX Seek Blockbuster Debt Deals to Pay for AI Chips",
+      "url": "https://www.wsj.com/tech/oracle-broadcom-and-spacex-seek-blockbuster-debt-deals-to-pay-for-ai-chips-848e8032",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "2 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Webcmd (by AgentR) is open-source Released on October 8/9, 2026",
+      "url": "https://markets.businessinsider.com/news/stocks/agentr-launches-webcmd-open-source-browser-infrastructure-that-lets-ai-agents-learn-a-website-once-1036612154",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "2 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Show HN: BSOS – Business communication intelligence API for SaaS developers",
+      "url": "https://developers.priorityengineai.com/",
       "source": "Hacker News",
       "time": "Today",
       "heat": "1 points",
@@ -510,18 +470,88 @@
       "section": ""
     },
     {
-      "title": "Why statutory laws fail against code: A critique of the EU AI Act",
-      "url": "https://medium.com/@kate8382/the-ai-security-paradox-why-old-laws-create-digital-enclosures-ff745d79e4f8",
+      "title": "From Public Posts to AI-Search Citations: Measuring the Fragility of AI Search",
+      "url": "https://arxiv.org/abs/2610.11932",
       "source": "Hacker News",
       "time": "Today",
-      "heat": "1 points",
+      "heat": "2 points",
       "summary": "",
       "insight": "",
       "section": ""
     },
     {
-      "title": "Anthropic bans users from being 'cruel' to its AI systems",
-      "url": "https://www.bbc.com/news/articles/c6j9k1l72wkgo",
+      "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+      "url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "15 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "The Desperate Hunt for AI Computing Power Is Upending Silicon Valley",
+      "url": "https://www.wsj.com/tech/ai/ai-computing-power-demand-a63da9b9",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "2 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "AI disqualification yields new Nikon Small World in Motion winner",
+      "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "2 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Complexity score for migrating an Airtable base off Airtable",
+      "url": "https://www.atmigrator.com",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "2 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Delta's CEO on Skipping Starlink, Premium-Travel Rush and High Fuel Prices",
+      "url": "https://www.wsj.com/business/airlines/deltas-ceo-on-skipping-starlink-premium-travel-rush-and-high-fuel-prices-47102a88",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "2 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Put a price on breakthroughs",
+      "url": "https://alexwang.ai/posts/put-a-price-on-breakthroughs/",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "8 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Firefox's chief on why he hopes a redesign will help win users from Chrome",
+      "url": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "5 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Antigravity Excel Engine – Dual-Core Excel Automation for AI Agents",
+      "url": "https://github.com/FranciscoGrandon/antigravity-excel-engine",
       "source": "Hacker News",
       "time": "Today",
       "heat": "3 points",
@@ -530,41 +560,11 @@
       "section": ""
     },
     {
-      "title": "Show HN: UserAlertX – let your AI agent text you (only you)",
-      "url": "https://useralertx.com",
+      "title": "Trump Calls on AI to Speed Up Science–While Continuing to Defund It",
+      "url": "https://www.motherjones.com/politics/2026/10/trump-calls-on-ai-to-speed-up-science-while-continuing-to-defund-it/",
       "source": "Hacker News",
       "time": "Today",
-      "heat": "2 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "Is CoreWeave the New MicroStrategy?",
-      "url": "https://knowtrend.ai/blog/price-to-compute",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "1 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "The $3T AI Debt Hiding in the Lease Footnote",
-      "url": "https://www.ainvest.com/news/3-trillion-ai-debt-hiding-lease-footnote-2610/",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "2 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "Trump says anyone who does not refer to AI as super intelligence is 'THE ENEMY'",
-      "url": "https://www.politico.com/news/2026/10/08/trump-ai-super-intelligence-renaming-01112404",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "7 points",
+      "heat": "6 points",
       "summary": "",
       "insight": "",
       "section": ""

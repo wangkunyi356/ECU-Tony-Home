@@ -1,74 +1,14 @@
 {
-  "date": "2026-10-19",
-  "updated_at": "2026-10-19 19:04:22",
+  "date": "2026-10-20",
+  "updated_at": "2026-10-20 14:08:35",
   "count": 56,
   "brief": "",
   "takeaways": [
-    "**今日最大新闻**：DeepSeek V4.1 Flash 1017 (Max) 新模型上线，以 131 点热度登顶 HN，延续其高性价比 Flash 路线，是今日社区关注度最高的 AI 动态。",
-    "**第二重要动态**：GPT-6-Astra 具身智能评测论文以 +111 票成为 HF 今日第一，在 12 个机器人基准上通过上下文学习取得空前成绩，但真实部署仍受演示成本与执行时间限制，标志着通用大模型驱动机器人进入新阶段。",
-    "**值得关注的趋势**：长程/具身 Agent 的可信评测成为热点——BizBench、Into the Unknown、PhysClosureBench 等基准一致揭示「AI 局部强、全局弱」的深层缺陷，且开源模型竞争（Meta Muse Spark Open、DeepSeek）与推理降本（DLite、Speculative Sampling）并行加速。"
+    "**今日最大新闻**：机器人\"集体学习\"范式（Fleet Experience / CEL）领跑 Hugging Face 论文热榜，96 台机器人协同将手机包装成功率从 79.2% 提到 98.3%，标志机器人规模化部署学习进入脱离人工纠错的新阶段。",
+    "**第二重要动态**：本周 AI 芯片财报季来临，市场对 AI 交易情绪紧绷——科技股下跌、油价上涨，AWS CFO 内部言论透露 2200 亿美元 AI 押注的财务压力，AI 资本开支的回报问题成为焦点。",
+    "**值得关注的趋势**：Agent 的\"harness 与记忆\"成为研究热点（HarnessPro、MemPilot、AdaExploreBench、Self-Evolving Coding Agents），研究重心正从单纯堆模型转向优化 agent 的工程架构与认知可靠性。"
   ],
   "items": [
-    {
-      "title": "The Dot and the Swarm",
-      "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-      "source": "One Useful Thing",
-      "time": "Thu, 01 Oct 2026 10:54:12 GMT",
-      "heat": "",
-      "summary": "I generally think I have done a good job anticipating the direction and pace of AI over the few years I have been writing this Substack, but I think I recently got something fairly large wrong. In the last year I have been posting about how I suspected that humans would have to approach working with...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "The Overhang",
-      "url": "https://www.oneusefulthing.org/p/the-overhang",
-      "source": "One Useful Thing",
-      "time": "Fri, 18 Sep 2026 17:54:32 GMT",
-      "heat": "",
-      "summary": "We are still on an exponential curve of AI development. I try to put out a Substack post every couple weeks or so, yet, as the pace speeds up, that sometimes feels too slow. In the weeks since my last post, we had the apparent cracking of one of the most famous problems in math by an AI (accompanied...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "Agency and Agents",
-      "url": "https://www.oneusefulthing.org/p/agency-and-agents",
-      "source": "One Useful Thing",
-      "time": "Mon, 31 Aug 2026 00:24:35 GMT",
-      "heat": "",
-      "summary": "Agency is the initiative to act. Increasingly, it is going to determine what happens next with AI, and whether that is good or bad for us. But whose agency? Human agency, the willingness to push, experiment and act without waiting for instructions, seems increasingly important to getting value out o...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "ChinAI #377: American Data Center Hegemony - the Center-Satellite Structure",
-      "url": "https://chinai.substack.com/p/chinai-377-us-dominance-of-the-center",
-      "source": "ChinAI",
-      "time": "Mon, 12 Oct 2026 11:18:35 GMT",
-      "heat": "",
-      "summary": "Greetings from a world where… this could be the Iowa football’s year …As always, the searchable archive of all past issues is here . Please please subscribe here to support ChinAI under a Guardian /Wikipedia-style tipping model (everyone gets the same content but those who can pay support access for...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "ChinAI #376: Around the Horn (27th episode)",
-      "url": "https://chinai.substack.com/p/chinai-376-around-the-horn-27th-episode",
-      "source": "ChinAI",
-      "time": "Mon, 05 Oct 2026 11:11:08 GMT",
-      "heat": "",
-      "summary": "Greetings from a world where… Slow Horses is back …As always, the searchable archive of all past issues is here . Please please subscribe here to support ChinAI under a Guardian /Wikipedia-style tipping model (everyone gets the same content but those who can pay support access for all AND compensati...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "ChinAI #375: Critiquing Anthropic’s Variant of Pacing the Frontier",
-      "url": "https://chinai.substack.com/p/chinai-375-critiquing-anthropics",
-      "source": "ChinAI",
-      "time": "Mon, 21 Sep 2026 11:05:57 GMT",
-      "heat": "",
-      "summary": "Greetings from a world where… “the highway up to Heaven got a crook on the toll ” …As always, the searchable archive of all past issues is here . Please please subscribe here to support ChinAI under a Guardian /Wikipedia-style tipping model (everyone gets the same content but those who can pay suppo...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
     {
       "title": "Prompt tips from Anthropic",
       "url": "https://www.bensbites.com/p/prompt-tips-from-anthropic",
@@ -100,6 +40,36 @@
       "section": "newsletter_picks"
     },
     {
+      "title": "The Dot and the Swarm",
+      "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+      "source": "One Useful Thing",
+      "time": "Thu, 01 Oct 2026 10:54:12 GMT",
+      "heat": "",
+      "summary": "I generally think I have done a good job anticipating the direction and pace of AI over the few years I have been writing this Substack, but I think I recently got something fairly large wrong. In the last year I have been posting about how I suspected that humans would have to approach working with...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "The Overhang",
+      "url": "https://www.oneusefulthing.org/p/the-overhang",
+      "source": "One Useful Thing",
+      "time": "Fri, 18 Sep 2026 17:54:32 GMT",
+      "heat": "",
+      "summary": "We are still on an exponential curve of AI development. I try to put out a Substack post every couple weeks or so, yet, as the pace speeds up, that sometimes feels too slow. In the weeks since my last post, we had the apparent cracking of one of the most famous problems in math by an AI (accompanied...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Agency and Agents",
+      "url": "https://www.oneusefulthing.org/p/agency-and-agents",
+      "source": "One Useful Thing",
+      "time": "Mon, 31 Aug 2026 00:24:35 GMT",
+      "heat": "",
+      "summary": "Agency is the initiative to act. Increasingly, it is going to determine what happens next with AI, and whether that is good or bad for us. But whose agency? Human agency, the willingness to push, experiment and act without waiting for instructions, seems increasingly important to getting value out o...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
       "title": "Meta shakes up the frontiers, open and closed",
       "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
       "source": "Interconnects",
@@ -126,6 +96,36 @@
       "time": "Tue, 06 Oct 2026 14:22:41 GMT",
       "heat": "",
       "summary": "I’ve had one too many discussions on the cyber risks of open models — where someone assumes that either banning open models happens in a silo (and bad actors will somehow actually be stopped) or that China is a threat and doesn’t care about AI safety — that I feel we’re going to end up making policy...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "ChinAI #378: China’s Two-day Weekend Defenders",
+      "url": "https://chinai.substack.com/p/chinai-378-chinas-two-day-weekend",
+      "source": "ChinAI",
+      "time": "Mon, 19 Oct 2026 11:31:56 GMT",
+      "heat": "",
+      "summary": "Greetings from a world where… “Even if I have to be a workhorse, I still want to be a happy workhorse” [做牛马也要做快乐的牛马] …As always, the searchable archive of all past issues is here . Please please subscribe here to support ChinAI under a Guardian /Wikipedia-style tipping model (everyone gets the same ...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "ChinAI #377: American Data Center Hegemony - the Center-Satellite Structure",
+      "url": "https://chinai.substack.com/p/chinai-377-us-dominance-of-the-center",
+      "source": "ChinAI",
+      "time": "Mon, 12 Oct 2026 11:18:35 GMT",
+      "heat": "",
+      "summary": "Greetings from a world where… this could be the Iowa football’s year …As always, the searchable archive of all past issues is here . Please please subscribe here to support ChinAI under a Guardian /Wikipedia-style tipping model (everyone gets the same content but those who can pay support access for...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "ChinAI #376: Around the Horn (27th episode)",
+      "url": "https://chinai.substack.com/p/chinai-376-around-the-horn-27th-episode",
+      "source": "ChinAI",
+      "time": "Mon, 05 Oct 2026 11:11:08 GMT",
+      "heat": "",
+      "summary": "Greetings from a world where… Slow Horses is back …As always, the searchable archive of all past issues is here . Please please subscribe here to support ChinAI under a Guardian /Wikipedia-style tipping model (everyone gets the same content but those who can pay support access for all AND compensati...",
       "insight": "",
       "section": "newsletter_picks"
     },
@@ -190,238 +190,238 @@
       "section": "newsletter_picks"
     },
     {
-      "title": "Agentic RAG vs. Naive RAG: When Your Retrieval System Should Think for Itself",
-      "url": "https://www.kdnuggets.com/agentic-rag-vs-naive-rag-when-your-retrieval-system-should-think-for-itself",
+      "title": "Claude Haiku 5.5: What’s New and How to Use It for Fast, Cheap AI Workflows",
+      "url": "https://www.kdnuggets.com/claude-haiku-5-5-whats-new-and-how-to-use-it-for-fast-cheap-ai-workflows",
       "source": "KDnuggets",
-      "time": "Fri, 16 Oct 2026 14:00:00 +0000",
+      "time": "Mon, 19 Oct 2026 16:00:00 +0000",
       "heat": "",
-      "summary": "From static retrieval pipelines to autonomous reasoning engines: a complete breakdown of how these two architectures work, where each falls short, and how to choose the right one for your use case.",
+      "summary": "Claude Haiku 5.5 cuts list prices by 90% and adds adaptive thinking and a 1M token context window. Learn what broke from Haiku 4.5, and build classification, extraction, and sub-agent workflows in Python using the new API.",
       "insight": "",
       "section": "newsletter_picks"
     },
     {
-      "title": "5 Best Resources to Learn About World Models in 2026",
-      "url": "https://www.kdnuggets.com/5-best-resources-to-learn-about-world-models-in-2026",
+      "title": "LangChain vs. LlamaIndex vs. Building From Scratch: Here’s What I Suggest",
+      "url": "https://www.kdnuggets.com/langchain-vs-llamaindex-vs-building-from-scratch-heres-what-i-suggest",
       "source": "KDnuggets",
-      "time": "Fri, 16 Oct 2026 12:00:00 +0000",
+      "time": "Mon, 19 Oct 2026 14:00:00 +0000",
       "heat": "",
-      "summary": "World models could be the next big shift in AI. Learn more right now.",
+      "summary": "Choosing the right framework for your large language model application comes down to one question: what are you actually optimizing for?",
       "insight": "",
       "section": "newsletter_picks"
     },
     {
-      "title": "Abacus AI Honest Review: Key Criticisms, Facts & What Users Should Know",
-      "url": "https://www.kdnuggets.com/2026/10/abacus/abacus-ai-review-criticisms-facts-what-users-should-know",
+      "title": "7 Checks to Run Before Trusting AI-Generated Code",
+      "url": "https://www.kdnuggets.com/7-checks-to-run-before-trusting-ai-generated-code",
       "source": "KDnuggets",
-      "time": "Thu, 15 Oct 2026 17:00:59 +0000",
+      "time": "Mon, 19 Oct 2026 12:00:43 +0000",
       "heat": "",
-      "summary": "This review highlights the main critiques of Abacus AI, its price, user reviews, reliability of workflows, and real-life use cases to assist you in evaluating its advantages and disadvantages.",
+      "summary": "AI makes writing code cheap. Verifying it is still your job.",
       "insight": "",
       "section": "newsletter_picks"
     },
     {
-      "title": "Has GPT-6-Astra Achieved Embodied Intelligence?",
-      "url": "https://huggingface.co/papers/2610.22471",
+      "title": "Learning from Fleet Experience: A Collective Learning Paradigm for Robots",
+      "url": "https://huggingface.co/papers/2610.25736",
       "source": "HF Papers",
-      "time": "2026-10-19",
-      "heat": "+111",
-      "summary": "GPT-6-Astra achieves high performance across diverse robotic tasks via in-context learning, yet real-world deployment reveals gaps in demonstration cost, execution time, and practical embodied intelligence.",
+      "time": "2026-10-20",
+      "heat": "+65",
+      "summary": "Experience generated during deployment offers an opportunity for robots to improve policy reliability through learning from their own executions. However, learning through human corrections requires teleoperators to monitor execution and intervene when policies fail, a demand that is difficult to meet as robot fleets grow. We introduce collective experience learning (CEL), a learning paradigm in which deployed robots share their execution experience to improve a common policy. We realize CEL through failure-guided experience retrieval fine-tuning (FERT), which uses failure contexts from robot executions to retrieve relevant trajectory segments from the fleet's shared successful experience and uses their actions as supervision for policy updates, without collecting additional expert demonstrations or corrective actions. A fault-tolerant asynchronous training system (FATS) coordinates experience collection, policy optimization and policy distribution despite local interruptions within the robot fleet. Across five real-world manipulation tasks, the resulting policies achieve success rates of 93.3-99.2%, evaluated over 120 trials per task on robots excluded from training data collection. With collection time per robot held fixed, larger fleets provide more experience and FERT generally achieves higher success rates across the evaluated sizes. On multi-stage phone packaging, learning with 96 robots increases success from 79.2% to 98.3%. These results support collective experience as a practical basis for scalable robot learning and a path towards improving policy reliability during deployment without collecting additional expert corrective actions.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents",
-      "url": "https://huggingface.co/papers/2610.18784",
+      "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+      "url": "https://huggingface.co/papers/2610.26860",
       "source": "HF Papers",
-      "time": "2026-10-19",
-      "heat": "+84",
-      "summary": "Long-horizon agents accumulate progress in persistent task state, yet repeatedly process interaction histories describing how that progress was achieved. This raises a natural question: can long-horizon context instead be organized around reusable progress rather than the history that produced it? In this paper, we introduce CarryOn, an object-oriented context runtime that organizes continuation around reusable task objects. Rather than treating compressed histories or reconstructed accounts of progress as the primary basis for continuation, CarryOn builds a context view from continuation carriers, complementary execution context, and a live tail of recent interactions. A core challenge is keeping this reusable basis valid after its surrounding history is retired: how can CarryOn update the basis without reconstructing the full representation at every fold? CarryOn maintains carrier records across folds, revising affected records against bound evidence and applicable environment checks while carrying forward unaffected records and jointly updating execution context. Experiments on OSWorld 2.0 and BrowseComp-Plus show improved gains of 5.8% and 7.0% while reducing total token usage by 51.9% and 22.9%, respectively. Project page: https://ethannju.github.io/carryon",
+      "time": "2026-10-20",
+      "heat": "+44",
+      "summary": "Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled study on 22 benchmarks shows that simply increasing the inference budget of the base model yields only modest gains. Such tasks demand grounded perception, external knowledge, and numerical measurements obtained through heterogeneous tools, whose outputs must be made interpretable to the model and retained across reasoning steps. We introduce OpenVLHarness, a multimodal reasoning harness organized around a capability layer and persistent multimodal memory. The capability layer combines task-level tool interfaces with evidence rendering, providing consistent access to heterogeneous backends and converting their outputs into model-readable observations. Persistent multimodal memory retains the corresponding images, structured data, and web references as addressable artifacts throughout each query. A coding interface executes generated programs over stored data, enabling computations that combine results from multiple tools. Together, these mechanisms support an iterative process of acquiring, inspecting, and composing multimodal evidence. Evaluated on 22 benchmarks with eight open and proprietary backbones, OpenVLHarness improves average scores by 9.7-12.6 points over matched no-tool baselines, including +11.2 with Qwen3-VL-8B, +9.7 with Kimi K3, and +9.9 with GPT-6 Astra. With GPT-6 Luna at medium reasoning effort, OpenVLHarness outperforms the base model, Codex, and Visual Sketchpad at maximum effort by 7.7-8.5 points while incurring at most 37% of their model-token cost.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "BizBench: Unveiling Hidden Challenges in Deploying Long-Horizon Agents for Real-World Business",
-      "url": "https://huggingface.co/papers/2610.20424",
+      "title": "MT Forcing: Towards Stable and Consistent Multi-Turn Image Editing with Autoregressive Diffusion",
+      "url": "https://huggingface.co/papers/2610.25404",
       "source": "HF Papers",
-      "time": "2026-10-19",
-      "heat": "+78",
-      "summary": "BizBench evaluates long-horizon business agents on intermediate execution validity using real-world payment procedures, revealing that frontier models frequently violate constraints despite achieving partial goal success.",
-      "insight": "",
-      "section": "huggingface_papers"
-    },
-    {
-      "title": "HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents",
-      "url": "https://huggingface.co/papers/2610.23479",
-      "source": "HF Papers",
-      "time": "2026-10-19",
-      "heat": "+74",
-      "summary": "Agents built on vision language models (VLMs) now compete with learned policies on robot manipulation leaderboards. We ask how far a coding agent can go when it controls a robot instead of a computer, and where it stops. Our system, HexaShell, keeps the harness thin: it only turns the agent's commands into robot motion. The agent drives a robot with two arms through one command line. It sees three RGB cameras and knows their calibration. After each failed attempt, the agent reads the log, finds the cause, and writes or fixes small programs called tools. In this way it keeps what it learns as code, as a coding agent does when it fixes a failing test. The tools may use only what the robot observes. They use triangulation to find where objects are, relative to each other and to the gripper. If two cameras see the same point, the point lies where the two camera rays meet. If a point lies on a known plane, such as the table or the top of a block, it lies where its ray meets that plane. When the head camera is not enough, the robot moves a wrist camera to get a second view. We build the tools on only ten layouts of one seed per task, then freeze them and test them on ten new layouts of the same seed. We use Codex with GPT-6-Astra at medium reasoning effort. On all 42 RoboDojo tasks, HexaShell reaches a success rate of 39.7% and a progress score of 48.0, averaged in the same way as the leaderboard. This is a new state of the art on RoboDojo. The limit is contact, not reasoning: pushing reaches 92.5% and memory tasks 65.0%, but tight insertion only 8.3%. When the agent fails, it usually sees the failure but cannot make the motion work. We open source the tools evolved so far at https://github.com/HexaFuture/HexaShell.",
-      "insight": "",
-      "section": "huggingface_papers"
-    },
-    {
-      "title": "Learning to Think and Explore in 3D World",
-      "url": "https://huggingface.co/papers/2610.21783",
-      "source": "HF Papers",
-      "time": "2026-10-19",
-      "heat": "+70",
-      "summary": "ACT3D trains vision-language models via reinforcement learning to actively explore 3D environments from single first-person views, improving answer accuracy through adaptive, question-conditioned navigation without direct exploration supervision.",
-      "insight": "",
-      "section": "huggingface_papers"
-    },
-    {
-      "title": "Into the Unknown: Benchmarking AI agents on open scientific research problems",
-      "url": "https://huggingface.co/papers/2610.19159",
-      "source": "HF Papers",
-      "time": "2026-10-19",
-      "heat": "+63",
-      "summary": "Researchers benchmarked AI agents on open scientific problems by having them draft follow-up papers from unpublished directions, finding that none met expert standards and most contained fabricated claims or contradictory evidence.",
-      "insight": "",
-      "section": "huggingface_papers"
-    },
-    {
-      "title": "BridgeWAM: Bridging Video and Action Experts via Latent Bridge Queries",
-      "url": "https://huggingface.co/papers/2610.14746",
-      "source": "HF Papers",
-      "time": "2026-10-19",
+      "time": "2026-10-20",
       "heat": "+22",
-      "summary": "World Action Models (WAMs) commonly couple video and action experts through dense, layer-wise Mixture-of-Transformers (MoT) attention, exposing action prediction to irrelevant visual features while enforcing matched expert depths. This coupling hinders selective visual-feature use and introduces redundant computation. We introduce Bridge-of-Experts (BoE), instantiated as BridgeWAM, which aggregates visual, language, and proprioceptive priors through 32 Latent Bridge Queries (LBQs) into a shared, limited latent space. Joint video-action supervision lets action gradients guide the Video Expert toward representations better suited for action prediction, while the Action Expert learns to selectively retrieve task-relevant information through cross-attention. Decoupling expert depths and reusing LBQs during action denoising yield a 5.06B model with a 30-layer Video Expert and a two-layer Action Expert, achieving 98.25% success on LIBERO and 72.24% pooled success on LIBERO-Plus, demonstrating effective task execution and strong generalization with an ultralight action head. Ablations support joint representation adaptation and unified LBQ conditioning. Relative to Fast-WAM, BridgeWAM reduces single-sample inference FLOPs by 28.72% in simulation profiling and real-robot latency to 77.1 ms (a 2.47-fold speedup). Qualitative experimental results further indicate preferential attention to target objects and task destinations across perturbations.",
+      "summary": "Multi-turn image editing aims to modify an image according to a sequence of instructions, enabling more effective interactive visual content creation for users. However, existing methods often exhibit noticeable drift after only a few editing turns, manifesting in two aspects: 1) unstable visual quality, with accumulating artifacts and degraded details; and 2) inconsistent image content, with unintended changes to preserved regions and prior edits. To address these challenges, we propose MT Forcing, a novel training paradigm for multi-turn image editing with unified multimodal models (UMMs) based on autoregressive diffusion. Specifically, we propose Single-Turn Distribution Matching Distillation (Single-Turn DMD), which supervises student self-rollouts with a teacher that applies cumulative edits to the source image in a single turn, providing visual-quality guidance without recursive error accumulation. Additionally, we introduce Teacher-Forcing Guidance, which supervises history-dependent transitions on reference trajectories during warmup and as a regularizer during distillation, encouraging cross-turn content consistency beyond what per-turn distribution matching alone can ensure. Extensive experiments demonstrate that our approach significantly improves the multi-turn image editing capabilities of UMMs, yielding more stable visual quality and stronger cross-turn consistency.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "OpenMobile-2: Building Versatile Mobile Agents with Scalable Environments and App-Native Tools",
-      "url": "https://huggingface.co/papers/2610.14157",
+      "title": "Self-Evolving Coding Agents via Harness-Policy Optimization",
+      "url": "https://huggingface.co/papers/2610.22791",
       "source": "HF Papers",
-      "time": "2026-10-19",
-      "heat": "+22",
-      "summary": "OpenMobile-2 is an open mobile agent trained with diverse simulated apps, large-scale supervised and reinforcement learning data, and hybrid GUI-tool use, achieving strong benchmark results and real-device transfer.",
+      "time": "2026-10-20",
+      "heat": "+21",
+      "summary": "Large language model (LLM) agents have shown promising potential in coding tasks, and their performance is jointly determined by the policy model and the harness that mediates their interaction with the environment. Indeed, harness and policy are mutually reinforcing and evolving only one component is suboptimal---a harness tuned for one checkpoint may not target the failure modes of an updated policy, while policy learning remains limited to the trajectories elicited by a fixed harness. In light of this, we propose Self-HPO, a recursive self-improving framework for coding agents that alternates harness and policy optimization, using the evolving policy as its own harness proposer. Specifically, in each round, the current policy first analyzes its own failures and proposes new harness candidates (H-step). The policy is then updated through reinforcement learning (RL) under the selected harness (P-step), and hard tasks identified during training form the next harness search set, keeping harness optimization targeted to the policy's evolving failure modes. Across three coding benchmarks, Self-HPO consistently outperforms harness-only and policy-only baselines, improving Qwen3.5-35B-A3B's average resolve rate from 57.8% to 64.8%, with gains generalizing to out-of-distribution settings. Further analysis shows that both optimized components retain gains even when paired with their base counterparts, while their joint gain exceeds the sum of their individual gains. Self-HPO also improves reliability (Pass@1) and expands the capability frontier (Pass@k) over the base agent. Additionally, we show that with a stronger external model (e.g., Opus 4.8) as the harness proposer, the same framework yields a further performance boost.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "Speculative Sampling in Interactive Video Generation",
-      "url": "https://huggingface.co/papers/2610.20556",
+      "title": "ScaleNav: Scalable Internet Video Pretraining for Language-Conditioned Local Navigation",
+      "url": "https://huggingface.co/papers/2610.25690",
       "source": "HF Papers",
-      "time": "2026-10-19",
-      "heat": "+23",
-      "summary": "Interactive video generation commonly relies on small bidirectional chunks to reduce response latency. Yet our preliminary experiments show that larger chunks improve video quality and better utilize GPU parallelism, allowing more latents to be sampled with only a modest increase in sampling time. Motivated by these observations, we propose Speculative Sampling, a strategy that combines the modeling power of large bidirectional windows with the low-latency interaction of small ones. It expands the modeling window by appending noise latents as padding and caches the resulting predictions for reuse when the condition remains unchanged. Predictions are delivered incrementally, while the uncommitted future remains replaceable. Our latency analysis shows that this removes the waiting-time lower bound imposed by chunk boundaries, shifting the optimization focus from reducing chunk size to accelerating per-chunk sampling. Bidirectional window size thus becomes a decision variable for jointly optimizing visual quality and sampling time, rather than a necessary constraint on low-latency interaction. This opens a path to serving large bidirectional models in interactive streaming systems without complex streaming post-training.",
+      "time": "2026-10-20",
+      "heat": "+20",
+      "summary": "ScaleNav learns goal-directed visual dynamics from internet egocentric videos to generate robot actions for language-conditioned local navigation, achieving high success rates in simulation and real-world deployment.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "From Research Goals to Scientific Closure: Evaluating Agents Through Evidence-Supported Physics Research",
-      "url": "https://huggingface.co/papers/2610.21767",
+      "title": "CoworkEnv: Synthesizing Training Environments for Long-Horizon Cowork Agents",
+      "url": "https://huggingface.co/papers/2610.24960",
       "source": "HF Papers",
-      "time": "2026-10-19",
-      "heat": "+18",
-      "summary": "AI agents evaluated on physics research tasks show strong local scientific results but frequently fail to fully resolve research questions due to incomplete evidence and unresolved applicability limits.",
-      "insight": "",
-      "section": "huggingface_papers"
-    },
-    {
-      "title": "Tree-Aware Posterior Distillation for Long-Horizon Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2610.23181",
-      "source": "HF Papers",
-      "time": "2026-10-19",
+      "time": "2026-10-20",
       "heat": "+17",
-      "summary": "Reinforcement learning with verifiable rewards has become a scalable post-training paradigm for large language models. However, training agents over long-horizon interactions presents two challenges: using only terminal rewards makes turn-level credit assignment sparse and high-variance, while sequential mini-batch updates on a fixed rollout batch introduce policy staleness as the current policy drifts from the behavior policy. Existing approaches obtain denser credit via learned critics, process reward models, or on-policy distillation, but they rely on a value network, step-level annotations, or a stronger external teacher that increase training complexity. Meanwhile, importance sampling and clipping mitigate policy drift, but they do not specify a finite target that stops sequential updates from overshooting. In this work, we introduce TreeOPSD, a critic-free, tree-aware posterior self-distillation framework for long-horizon agentic reinforcement learning. Treating each interaction turn as a tree node, TreeOPSD branches alternative continuations from shared prefixes and recursively backs up terminal rewards into implicit turn-level credit. It then maps each credit to a closed-form, bounded teacher distribution parameterized by the likelihood ratio relative to the frozen behavior policy. Minimizing the divergence between this teacher and the student policy recovers the policy-gradient direction as the tangent at the behavior policy while bounding updates toward a finite target across sequential mini-batches. Empirically, TreeOPSD improves agentic capabilities across several competitive benchmarks and model scales, especially for long-horizon tasks, e.g., raising the average accuracy of Qwen3-30B-A3B-Thinking-2507 by 4.97 points over GRPO on the Deep Research setting.",
+      "summary": "CoworkEnv synthesizes executable training environments for AI coworkers using workflow-guided task construction and programmatic validation, enabling supervised fine-tuning and reinforcement learning of compact PocketWorker models that improve multi-turn coordination and tool use.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "RAP: A Dataset for Paper-to-Poster Generation via Declarative Markup from Human-Crafted Exemplars",
-      "url": "https://huggingface.co/papers/2610.23230",
+      "title": "RoAR-VAE: Improving Latent Diffusability through Robust Prediction",
+      "url": "https://huggingface.co/papers/2610.26216",
       "source": "HF Papers",
-      "time": "2026-10-19",
+      "time": "2026-10-20",
+      "heat": "+15",
+      "summary": "An effective visual tokenizer must preserve image fidelity while producing latents that downstream diffusion models can learn efficiently. Prior work improves latent diffusability through semantic alignment or joint tokenizer--diffusion training. Revisiting REPA-E, a representative approach, we find that removing its diffusion objective and dedicated generative blocks while retaining semantic prediction from corrupted latents yields comparable downstream generation performance under a matched setting. This observation motivates a general principle of robust prediction: generation-relevant information should remain recoverable from corrupted latents. We instantiate this principle with two complementary objectives. RobustAlign predicts pretrained semantic features from corrupted latents to preserve high-level structure, while RobustRecon reconstructs the clean image to retain fine-grained spatial and appearance information. Together, they form Robust Alignment and Reconstruction VAE (RoAR-VAE). Our analysis suggests that robust prediction improves diffusability by making useful information more accessible in high-variance latent directions, which diffusion models tend to learn earlier. Empirically, RoAR-VAE improves average generation benchmark performance by 2.19 points over the strongest baseline tokenizer under the same training budget, while improving small-text reconstruction accuracy by 16.93 percentage points over FLUX.1-VAE. These results demonstrate that RoAR-VAE achieves a favorable balance between reconstruction fidelity and downstream generative learnability.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "OR-License: Evaluating LLM Agents as Real-World Operations Research Practitioners",
+      "url": "https://huggingface.co/papers/2610.24087",
+      "source": "HF Papers",
+      "time": "2026-10-20",
+      "heat": "+14",
+      "summary": "OR-License evaluates whether LLM agents can solve real-world operations research problems from original client materials, finding that while some achieve high objective quality, none match expert-level feasibility and deployment-adjusted quality.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "AnyGoal: On World Model Generalization Beyond Expert Rollouts",
+      "url": "https://huggingface.co/papers/2610.26844",
+      "source": "HF Papers",
+      "time": "2026-10-20",
+      "heat": "+12",
+      "summary": "The goal of a world model is to capture the dynamics of an environment. This has the great appeal that it allows agents to plan and simulate a course of actions with the help of a world model. For these uses to be reliable, however, the learned dynamics must behave well beyond the specific state-action combinations observed in expert rollouts. Despite this, the relationship between data coverage, dynamics generalization, and downstream planning performance remains underexplored. We study this relationship through the lens of compositional generalization: can a world model recombine familiar state and action factors into valid dynamics? To answer this, we introduce AnyGoal, a benchmark of goal-shifted task variants built from widely used world-model environments, together with an open-source library. Each task is designed to be within reach of a world model that has learned the underlying dynamics: individual state factors and actions remain within their training support, but their combinations are underrepresented in expert trajectories. Across multiple environments and world model families, we find that current models consistently exhibit failures under these recombinations. By examining dynamics and representation failures across model families, interaction regimes, and evaluation metrics, we study where current world models generalize and where challenges remain for goal-shifted prediction and planning. Together, this framework, benchmark, and analysis provide a basis for evaluating progress toward world models that generalize to new planning tasks.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "InfiniDream: Open-Ended Photorealistic 3D Worlds Through Procedural Generation",
+      "url": "https://huggingface.co/papers/2610.26853",
+      "source": "HF Papers",
+      "time": "2026-10-20",
       "heat": "+10",
-      "summary": "RAP introduces a large-scale dataset and benchmark for generating conference posters from papers as a visual coding task, providing verified paper-poster-markup triplets and both retrieval-based and trained generation methods.",
+      "summary": "Procedural generation plays a key role in synthetic data creation and game development, offering greater controllability, editability, and diversity than static mesh representations. However, VLM-based code generation often produces relatively simple 3D assets, while sophisticated photorealistic procedural systems require extensive manual development. Existing VLM-guided procedural methods remain largely constrained by predefined factories and APIs, limiting their ability to create novel asset types. We introduce InfiniDream, a VLM-driven framework for open-ended procedural 3D world generation. First, we propose Symbolically Constrained Asset Generation, which leverages existing procedural algorithms to create novel, photorealistic assets while preserving editability and seed-based diversity. Second, we develop an end-to-end text-to-world pipeline that combines semantic scene planning with Deterministic Frustum-Guided Grid Placement to construct large-scale 3D worlds with precise object placement, procedural population, and animation. Extensive evaluations on 100 object and 20 scene generation tasks demonstrate improvements across four perceptual metrics. Diversity analysis, ablation studies, and human preference evaluations further validate the effectiveness of our framework. Project page: https://yichuanh.github.io/infinidream-page/",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "Scaling Parameter-Efficient Fine-Tuning for Brain Encoding",
+      "url": "https://huggingface.co/papers/2610.26802",
+      "source": "HF Papers",
+      "time": "2026-10-20",
+      "heat": "+6",
+      "summary": "Parameter-efficient fine-tuning with low-rank adapters enables efficient adaptation of very large multimodal backbones for brain encoding, improving performance and interpretability while reducing computational cost.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "EgoXperience: Learning World-Grounded Egocentric Representations from Human Experience",
+      "url": "https://huggingface.co/papers/2610.26625",
+      "source": "HF Papers",
+      "time": "2026-10-20",
+      "heat": "+6",
+      "summary": "EgoXperience introduces a unified framework for joint reconstruction of camera motion, scene geometry, hands, and objects from egocentric video using automatically annotated large-scale data and a single-pass model.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
       "title": "",
-      "url": "https://huggingface.co/papers/2610.23787",
+      "url": "https://huggingface.co/papers/2610.26549",
       "source": "HF Papers",
-      "time": "2026-10-19",
-      "heat": "+10",
-      "summary": "Speculative decoding has become a mainstream technique for accelerating large language model (LLM) inference by using a lightweight draft model to generate candidate tokens that are subsequently verified by the target model. However, agentic workloads introduce long and continuously evolving contexts and frequent multi-turn interactions. Under such workloads, we observe that existing draft models suffer from up to an 80% degradation in acceptance length, while maintaining their historical KV cache introduces substantial system overhead. In this paper, we identify the growing historical context as a common source of both problems and introduce DLite, a history-free speculative decoding framework for agentic AI. DLite directly reuses contextual hidden states from the target model and performs local speculative prediction without explicitly maintaining the historical context, transforming an increasingly complex modeling problem into local simple prediction problem. A lightweight sequential head further restores intra-block causal dependencies with low overhead. To effectively train this heterogeneous history-free architecture, we introduce a tailored two-stage training strategy. Experiments on general-purpose, long-context and agentic workloads show that DLite achieves 2-6 acceptance length and outperforms the state-of-the-art speculative decoding method, DSpark, up to 70%.",
-      "insight": "",
-      "section": "huggingface_papers"
-    },
-    {
-      "title": "",
-      "url": "https://huggingface.co/papers/2610.22169",
-      "source": "HF Papers",
-      "time": "2026-10-19",
-      "heat": "+9",
-      "summary": "The vocabulary of a language model is its native semantics: the embedding and the unembedding fix the meaning of a state at the two ends of the residual stream. Between them, existing methods either reuse a fixed lens or treat the states as a point cloud, and neither reads a state the way the model does. We argue that every hidden state has a native reference frame, induced by the layers that read it next and adaptive to the context. Lexical reference frames approximate it by reading a state through the model's own remaining layers with a stated number of rounds of attention between positions and a typical attention output for the rest, without fitting to the model's output. No lens, with fixed directions per layer, can exceed the square root of the native frame's coherence, 0.30 and 0.35 at mid-depth of SmolLM3-3B and OLMo3-7B, whereas the first-order frame, LexFrame[1], reaches 0.97 and 0.97 and reads a state within 0.16 nats of the model's output. Its coefficients attribute predictions more faithfully than attribution patching, its lexical basis steers a prediction while sparing other tokens, and its confident readings would let an early exit skip 0.45 and 0.42 of the layers, where lenses skip almost none. In this way, lexical reference frames make every hidden state of the model readable, attributable and steerable.",
-      "insight": "",
-      "section": "huggingface_papers"
-    },
-    {
-      "title": "",
-      "url": "https://huggingface.co/papers/2610.23194",
-      "source": "HF Papers",
-      "time": "2026-10-19",
-      "heat": "+8",
-      "summary": "AI agents increasingly use files and software tools to produce professional deliverables. Such work draws on materials, decisions, and feedback accumulated across assignments. We introduce OfficeTown, a generative simulation framework for professional organizations in which tasks and their context arise from continuing organizational work. From a natural-language description of an organization's purpose and activities, OfficeTown initializes an organization whose members coordinate work, delegate bounded assignments to assistant agents, and review their deliverables. Artifacts, decisions, and unresolved matters persist and shape subsequent work, while responsibilities and permissions determine what each member can see and do. We curate work requests, their context, and review feedback into executable resources for evaluation and learning. We construct OfficeTown Bench with 406 tasks and 4,836 evaluation criteria from 23 simulated organizations across eight professional domains, incorporating domain-expert feedback. Frontier-model evaluations reveal substantial remaining headroom. Supervised fine-tuning and on-policy distillation on OfficeTown data substantially improve Qwen3.5-9B on external professional-work benchmarks, including GDPval. Supplementary evaluations show that the principal--assistant harness achieves higher scores than the single- and multi-agent baselines tested. These results highlight the value of organizational simulation in generating work-grounded data and environments for the continued development of generalist agents.",
-      "insight": "",
-      "section": "huggingface_papers"
-    },
-    {
-      "title": "",
-      "url": "https://huggingface.co/papers/2610.23542",
-      "source": "HF Papers",
-      "time": "2026-10-19",
-      "heat": "+8",
-      "summary": "A memory test for a video world model should say whether the scene was set, whether the asked change was carried out, and whether the last frame shows the result. Current tests fold these into one number, so a low score is easy to read as forgetting. When the change is not carried out, the hidden state transition cannot appear, so the test is not really a test of memory. We introduce MIST, an evaluation that separates the change from the memory it should leave behind. The model first sets the scene while the change stays hidden, and only later is asked to show it, with leakage before that point kept under control. This separation locates the bottleneck: the model sets the scene but does not carry out the instructed change. The same gap appears in general memory evaluations. On that basis we propose M3-Agent (Make the Missing Move), which recursively revises the details of the input instruction so that the model successfully carries out the requested instruction. Relative to the baseline, it more than triples the MIST reveal score. On the benchmarks, WRBench's score T rises by 26.1% and MBench-T's score U by 52.7%. The method meets the problem from the execution side: it shows what the frozen model can do once the move is stated, and it sets a stricter baseline.",
-      "insight": "",
-      "section": "huggingface_papers"
-    },
-    {
-      "title": "",
-      "url": "https://huggingface.co/papers/2610.23839",
-      "source": "HF Papers",
-      "time": "2026-10-19",
+      "time": "2026-10-20",
       "heat": "+5",
-      "summary": "DiscoveryRSI uses multi-agent evolutionary search and recursive learning to generate testable scientific hypotheses, improving quality through self-improvement and outperforming baseline agents on life-science benchmarks.",
+      "summary": "Human egocentric experience offers a rich foundation for learning how the world is organized and how it changes through interaction. Realizing this potential at scale requires turning growing volumes of recordings into learning resources that connect scene structure, object semantics, and interaction histories across viewpoints and time, while reducing dependence on costly manual annotation. We introduce HOLI-WORLD, an integrated ecosystem connecting experience capture, world representation, automated data construction, model learning, and independent evaluation. To sup- port learning at scale, HOLIWORLD-Foundry combines complementary static and dynamic perception to automatically construct world records that connect persistent scene structure and evolving object states with interaction histories and supporting observations. HOLIWORLD-Data organizes these records from approximately 100 self-collected scenes into grounded learning resources, including approximately 80K QA pairs used to train HOLIWORLD-VL-4B. Independent human annotations of heldout recordings form HOLIWORLD-Bench, supporting evaluation of both annotation quality and learned spatial and temporal understanding. Experiments on ScanNet, ScanNet++, Aria Digital Twin, and HOLIWORLD-Bench demonstrate strong performance in static perception and dynamic tracking, while training on HOLIWORLD-Data substantially improves HOLIWORLD-VL-4B's spatial and temporal reasoning on HOLI- WORLD-Bench and EgoDynamic4D. HOLIWORLD provides a practical foundation for expanding learning resources from the continuous flow of human experience and advancing machine understanding of the dynamic world.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
       "title": "",
-      "url": "https://huggingface.co/papers/2610.09872",
+      "url": "https://huggingface.co/papers/2610.26770",
       "source": "HF Papers",
-      "time": "2026-10-19",
-      "heat": "+4",
-      "summary": "Evaluating agents by outcomes alone can obscure the capabilities that produce them. This problem is especially pronounced in evolving environments, where outcomes reflect a closed-loop interaction between agent behavior and changing external conditions. We introduce LiveMACEBench, a process-aware benchmark that uses live financial markets as a naturally evolving testbed for persistent LLM agents. Five frontier LLMs operate along continuous trajectories under matched Tool Use, Persistent Memory, Rule Following, and Multi-Agent Collaboration configurations. We evaluate them through both realized outcomes and mechanism-specific diagnostics derived from complete decision traces. Across 30 days of live evaluation, we find a pronounced outcome-capability gap: realized returns often diverge from capability-specific measurements, and similar outcomes can arise from markedly different patterns of mechanism use. Trace-level diagnostics further expose distinct bottlenecks across capabilities, demonstrating that mechanism access, effective mechanism use, and downstream performance are not interchangeable measures of agent capability. LiveMACEBench makes this distinction measurable, turning live markets from a performance leaderboard into a diagnostic environment for agent capability",
-      "insight": "",
-      "section": "huggingface_papers"
-    },
-    {
-      "title": "",
-      "url": "https://huggingface.co/papers/2610.21459",
-      "source": "HF Papers",
-      "time": "2026-10-19",
+      "time": "2026-10-20",
       "heat": "+3",
-      "summary": "Unified multimodal models (UMMs) receive image-generation supervision that exposes them to visual information not fully documented in text. Can learning to generate images expand what pretrained models know? We introduce Knowledge Transfer Probing (KTP), a controlled protocol that supplies new knowledge through image-generation training and tests its accessibility through text-only question answering. Across seven knowledge categories and three UMMs, we observe direct but uneven transfer from visual supervision to language. Motivated by these observations, we successively introduce Textual Alignment and Interleaved Image--Text Alignment, which connect generation and answering through shared knowledge and interleaved responses, respectively. Guidance on selected entities can improve knowledge access on other entities without QA supervision, with additional gains from interleaved alignment. Further analysis shows that knowledge correctly reproduced in images is often more accessible through text, although substantial gaps remain between the two forms of access. These findings support visual generation as a source of knowledge beyond textual supervision, and motivate joint investigation of training data design and model architecture to make this knowledge more broadly accessible.",
+      "summary": "HarnessPro evolves AI agent harnesses without labels to boost task success and lower execution costs, yielding lightweight, balanced, and high-performance variants via trajectory diagnosis and weighted selection.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
       "title": "",
-      "url": "https://huggingface.co/papers/2610.23374",
+      "url": "https://huggingface.co/papers/2610.25950",
       "source": "HF Papers",
-      "time": "2026-10-19",
-      "heat": "+3",
-      "summary": "MOSS-Image is an open diffusion transformer that combines high-fidelity synthesis with intent-aware prompt enhancement to generate text-rich, layout-coherent images, achieving state-of-the-art open-weight results on long-form text and layout benchmarks.",
+      "time": "2026-10-20",
+      "heat": "+2",
+      "summary": "AdaExploreBench evaluates whether LLM agents can actively discover hidden environmental rules and adapt to unannounced changes, revealing that current models struggle to seek relevant evidence and detect stale knowledge.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "Show HN: AI decision model plays Mortal Kombat II",
-      "url": "https://github.com/aipdv/fightbench",
+      "title": "",
+      "url": "https://huggingface.co/papers/2609.22332",
+      "source": "HF Papers",
+      "time": "2026-10-20",
+      "heat": "+2",
+      "summary": "Generalizable robot manipulation requires predicting how a scene will evolve, identifying where interactions are feasible, and determining how to act. Action-labeled robot videos directly supervise control but are costly and limited in diversity, whereas egocentric human videos capture diverse interactions but lack robot actions and differ in embodiment and appearance. We introduce AffordanceWAM, an affordance-aware generative World Action Model that represents object-centric spatiotemporal affordance through Scalar Affordance and Affordance Heatmap, within the generated future World. This representation grounds visual prediction in task-relevantant objects and interaction regions for action generation, and provides shared interaction targets across human and robot videos. Built on a pretrained video diffusion Transformer, AffordanceWAM uses separately parameterized World and Action Experts, coupled through Masked Joint Self-Attention, to jointly predict future RGB observations, Scalar Affordance fields, Affordance Heatmaps, and continuous robot actions under a unified flow-matching objective. Human videos supervise all three future-World streams, whereas robot trajectories additionally provide action supervision, enabling transfer without human action labels or retargeting. Experiments on RoboCasa, CALVIN ABCrightarrowD, and real-world manipulation demonstrate consistent gains over RGB-only and robot-data-only baselines. Under fixed robot supervision, RoboCasa performance improves monotonically as affordance-annotated human video scales. These results support affordance as an effective interface for both vision-language-action learning and human-to-robot transfer.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "",
+      "url": "https://huggingface.co/papers/2610.25666",
+      "source": "HF Papers",
+      "time": "2026-10-20",
+      "heat": "+1",
+      "summary": "Streaming video world models generate the future chunk by chunk, conditioned on their own past and a stream of actions. Trained on short clips, they drift once a rollout exceeds the training horizon, as prediction errors re-enter the context and compound. A common remedy is to train the model on its own rollouts via distribution matching distillation (DMD). For action-conditioned world models, the teacher becomes a bottleneck: an external video model is agnostic to the actions, whereas the model's own pretrained network drifts in the same manner as the student. We observe that a long rollout need not match a teacher, provided it remains a realistic continuation of its own scene that follows the commanded actions. Realism and scene fidelity can be measured against real-data statistics, which remain valid at any horizon, while action following is preserved by the model's conditional generation loss. We propose Fréchet Forcing, which fine-tunes a world model together with its deployed multi-step sampler under three constraints. Generative anchoring applies the flow-matching loss after a self-generated history ending on real data. Context fidelity, a Fréchet distance (FD) on latent statistics of the free rollout centred on each clip's own ground truth, keeps every rollout faithful to its scene. Reality matching, an FD to real frames in a frozen perceptual space, keeps the generated frames realistic. Because all three targets are derived from short real clips without comparing a rollout against a long recorded future, training requires no teacher, no online critic and no long videos. Fine-tuning MiniWorld-1B, pretrained on 253-frame clips, for at most 36 GPU-hours on 381-frame clips yields rollouts that remain stable beyond 4,000 frames and continue to follow their actions in both robot manipulation and camera-controlled exploration.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "",
+      "url": "https://huggingface.co/papers/2610.06830",
+      "source": "HF Papers",
+      "time": "2026-10-20",
+      "heat": "Trending",
+      "summary": "Memory has become integral to the LLM agent ecosystem, supporting information retention and reuse across interactions. However, most existing agent memory systems construct memory in a query-agnostic manner, which can incur unnecessary preprocessing cost and discard details that later prove essential. Recent studies have begun shifting memory processing toward runtime adaptation, but typically specialize in particular operations or fixed processing schemes, leaving flexible control over performance, cost, and latency largely underexplored. To address this challenge, we present MemPilot, a flexible framework that orchestrates on-demand memory curation under different performance--cost--latency preferences. Specifically, we optimize a multi-step LLM policy via reinforcement learning to iteratively choose between retrieving from query-agnostic memory and delegating query-specific curation of raw multimodal history to heterogeneous LLMs and VLMs. The policy jointly controls evidence amount, curation instructions, model selection, and visual access, enabling fine-grained allocation of runtime computation. To optimize this policy under competing objectives, we adapt objective-wise advantage decoupling by separately estimating each objective's advantage before aggregation. Moreover, we introduce prefix-based marginal utility estimation for fine-grained credit assignment across multi-step rollouts. Experiments on five multimodal agent-memory benchmarks demonstrate favorable performance--cost--latency trade-offs across optimization preferences, with preference sweeps yielding broader frontiers than existing trade-off-aware baselines.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "",
+      "url": "https://huggingface.co/papers/2610.25090",
+      "source": "HF Papers",
+      "time": "2026-10-20",
+      "heat": "Trending",
+      "summary": "Video Reasoning Segmentation (VRS) requires a model to identify an implicitly described target and predict its pixel-level mask trajectory, while resolving the spatial relations and temporal events that determine the answer. Text-only Chain-of-Thought (CoT) can explain a target choice without making the underlying visual references explicit, leaving a video reference gap between linguistic inference and the evidence distributed across frames. We introduce Temporal Chain of Video Primitives (TCoVP), a spatiotemporally grounded form of Video CoT that organizes query-relevant observations into a chronological reasoning chain. Each primitive associates an entity reference with temporal support and timestamped spatial evidence, and the chain interleaves these references with language to guide reasoning about which entity is relevant, when the queried event holds, and where its evidence appears. The selected target primitives then provide box prompts and temporal support for video mask prediction. We construct TCoVP-SFT-15k and TCoVP-RL-13k to learn this representation through supervised fine-tuning and chain-aligned reinforcement learning. Extensive experiments across five VRS benchmarks and three model backbones demonstrate the strong performance of TCoVP, highlighting the effectiveness of organizing spatial and temporal evidence within the reasoning process. All models and code will be publicly released. Project page: https://victor-wjw.github.io/TCoVP/",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "",
+      "url": "https://huggingface.co/papers/2610.26081",
+      "source": "HF Papers",
+      "time": "2026-10-20",
+      "heat": "Trending",
+      "summary": "DeOverlay uses source-anchored flow matching and visibility-normalized temporal aggregation to remove video overlays while preserving scene structure, and introduces DVTE-Bench for standardized evaluation.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "Ask HN: How do you decide to cut scope when AI makes it so easy to add?",
+      "url": "https://news.ycombinator.com/item?id=50161914",
       "source": "Hacker News",
       "time": "Today",
       "heat": "1 points",
@@ -430,8 +430,8 @@
       "section": ""
     },
     {
-      "title": "Why you should not install unvetted AI agent skills",
-      "url": "https://aiskills402.com/blog/agent-skills-security-risks",
+      "title": "Textus – WYSIWYG Markdown editor with built-in AI writing tools",
+      "url": "https://textus.catvinci.com/",
       "source": "Hacker News",
       "time": "Today",
       "heat": "1 points",
@@ -440,8 +440,8 @@
       "section": ""
     },
     {
-      "title": "AI agents made my personal GitHub repo need a merge queue",
-      "url": "https://alatas.dev/blog/ai-agents-made-my-personal-github-repo-need-a-merge-queue.html",
+      "title": "Show HN: Visual heat map of AI news updated hourly",
+      "url": "https://ai-news.jagular.io",
       "source": "Hacker News",
       "time": "Today",
       "heat": "1 points",
@@ -450,8 +450,8 @@
       "section": ""
     },
     {
-      "title": "What if AI could control robots?",
-      "url": "https://www.hyperverse.sh",
+      "title": "I put my cell number on my startup's homepage",
+      "url": "https://news.ycombinator.com/item?id=50161537",
       "source": "Hacker News",
       "time": "Today",
       "heat": "1 points",
@@ -460,8 +460,8 @@
       "section": ""
     },
     {
-      "title": "Ask HN: Do you also feel that it's impossible to keep up with AI?",
-      "url": "https://news.ycombinator.com/item?id=50149373",
+      "title": "Superintelligence Strategy (2025)",
+      "url": "https://www.nationalsecurity.ai",
       "source": "Hacker News",
       "time": "Today",
       "heat": "2 points",
@@ -470,28 +470,8 @@
       "section": ""
     },
     {
-      "title": "In Europe's tech capital, Irish labor unions are booming amid AI-driven layoffs",
-      "url": "https://www.politico.eu/article/in-europe-tech-capital-ireland-irish-labor-unions-are-booming-amid-ai-layoffs/",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "5 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "Can you bake Maven into a neural network?",
-      "url": "https://blog.jetbrains.com/ai/2026/10/can-you-bake-maven-into-a-neural-network/",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "2 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "TurboScribe AI: Free Video to Text, Audio to Text – No Sign Up",
-      "url": "https://www.turboscribeai.net/",
+      "title": "SKY‑001 ] the First Engineering World Model",
+      "url": "https://skyfall.ai/sky-001",
       "source": "Hacker News",
       "time": "Today",
       "heat": "1 points",
@@ -500,48 +480,8 @@
       "section": ""
     },
     {
-      "title": "TamperAudit – Tamper-evident audit logs for AI agents (EU AI Act Article 12)",
-      "url": "https://tamperaudit.com",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "2 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "Zotac RTX 5090 graphics cards worth $470k disappear at Brazilian airport",
-      "url": "https://videocardz.com/newz/two-pallets-of-zotac-rtx-5090-graphics-cards-worth-470000-disappear-at-brazilian-airport",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "2 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-      "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "16 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "I made a combined snake-tron game using free AI",
-      "url": "https://steeltoe777.github.io/snakegame/",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "2 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "Air: A Python web framework designed for AI to write",
-      "url": "https://airwebframework.org/",
+      "title": "A Forgotten 1980 Reversible Computer, and the AI That Just Cut Quantum Costs 17x",
+      "url": "https://x.com/BrianRoemmele/article/2112202286441374119",
       "source": "Hacker News",
       "time": "Today",
       "heat": "1 points",
@@ -550,21 +490,81 @@
       "section": ""
     },
     {
-      "title": "DeepSeek V4.1 Flash 1017 (Max)",
-      "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+      "title": "Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces",
+      "url": "https://rouler.io/",
       "source": "Hacker News",
       "time": "Today",
-      "heat": "131 points",
+      "heat": "3 points",
       "summary": "",
       "insight": "",
       "section": ""
     },
     {
-      "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally",
-      "url": "https://github.com/strot-ai/Project-STROT",
+      "title": "AWS CFO joked about the financial toll of AI. An internal recording reveals why",
+      "url": "https://www.businessinsider.com/amazon-220-billion-ai-bet-data-centers-spending-challenges-2026-10",
       "source": "Hacker News",
       "time": "Today",
-      "heat": "23 points",
+      "heat": "6 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Should agent-memory benchmarks test stale information?",
+      "url": "https://agentmemories.ai/home",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Show HN: An Open Source Aircraft",
+      "url": "https://adampaigge.github.io/openplane/",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "2 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Exa 3.0",
+      "url": "https://exa.ai/blog/exa-3",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Textideo Director – an AI video creation tool for scenes, shots",
+      "url": "https://textideo.com/director",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Show HN: Search for AI-agents and usefulness score",
+      "url": "https://xtract-production-2efc.up.railway.app/",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Show HN: AppMaker – Build business apps with AI, visual editing and code",
+      "url": "https://appmaker.io/",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
       "summary": "",
       "insight": "",
       "section": ""

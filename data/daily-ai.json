@@ -1,8 +1,523 @@
 {
-  "date": "2026-10-31",
-  "updated_at": "2026-10-31 14:11:29",
-  "count": 0,
+  "date": "2026-11-02",
+  "updated_at": "2026-11-02 14:04:27",
+  "count": 51,
   "brief": "",
-  "takeaways": [],
-  "items": []
+  "takeaways": [
+    "**今日最大新闻**：ServiceNow 开源 Apriel Voice 27B，把语音理解、推理与工具调用放进同一个骨干，并以 1.91 秒平均延迟给出可用指标——语音 Agent 第一次有了可自托管的中等规模开源选项。",
+    "**第二重要动态**：RoboArchitect 证明\"不改权重、只自动改写 Agent 外壳\"就能把未见场景成功率从 9.7% 提到 43.3%，叠加 WorldBridge 的\"视频多、标注少\"配方，机器人泛化的成本结构正在被重写。",
+    "**值得关注的趋势**：今日 HF 热榜被\"编排与自我改进\"占据（R²Orch、CEPO、HALO、DLC），研究焦点从\"更大模型\"转向\"如何组织、评估与稳定地训练 Agent 系统\"，可运维性正取代参数规模成为主线。"
+  ],
+  "items": [
+    {
+      "title": "Was I wrong about open models & cyber risks?",
+      "url": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+      "source": "Interconnects",
+      "time": "Fri, 30 Oct 2026 17:36:56 GMT",
+      "heat": "",
+      "summary": "Last week coined the term “ Black October “ after an onslaught of critical vulnerability disclosures, including PHP2Shell and a long-standing GitLab bug, signified the moment when the cyber risks of AI models started to materialize. It seemed like the news cycle had stabilized a bit when I started w...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+      "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+      "source": "Interconnects",
+      "time": "Wed, 28 Oct 2026 12:58:39 GMT",
+      "heat": "",
+      "summary": "Hill-climbing is easy, knowing what to hill-climb is hard. Making scores go up is expensive , but we have a much clearer playbook for it than we do for creating meaningful benchmarks at the true frontier of AI today. Independent evaluation of language models is under-appreciated in how hard of a tas...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+      "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+      "source": "Interconnects",
+      "time": "Sun, 25 Oct 2026 11:49:00 GMT",
+      "heat": "",
+      "summary": "We — Nathan and Florian — wanted to discuss all the messy trade-offs of a busy week in AI and ask all the pressing questions like: Why did Kimi K3.1 Pro have a mixed reaction with such incredible benchmarks? Will it be adopted? Were we wrong about the risks of open-weight models and cybersecurity? W...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "ChinAI #379: “Chinese AI only makes trash TV?”",
+      "url": "https://chinai.substack.com/p/chinai-379-chinese-ai-can-only-make",
+      "source": "ChinAI",
+      "time": "Mon, 26 Oct 2026 11:06:35 GMT",
+      "heat": "",
+      "summary": "Greetings from a world where… alas, it is no longer the Hawkeyes football team’s year …As always, the searchable archive of all past issues is here . Please please subscribe here to support ChinAI under a Guardian /Wikipedia-style tipping model (everyone gets the same content but those who can pay s...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "ChinAI #378: China’s Two-day Weekend Defenders",
+      "url": "https://chinai.substack.com/p/chinai-378-chinas-two-day-weekend",
+      "source": "ChinAI",
+      "time": "Mon, 19 Oct 2026 11:31:56 GMT",
+      "heat": "",
+      "summary": "Greetings from a world where… “Even if I have to be a workhorse, I still want to be a happy workhorse” [做牛马也要做快乐的牛马] …As always, the searchable archive of all past issues is here . Please please subscribe here to support ChinAI under a Guardian /Wikipedia-style tipping model (everyone gets the same ...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "ChinAI #377: American Data Center Hegemony - the Center-Satellite Structure",
+      "url": "https://chinai.substack.com/p/chinai-377-us-dominance-of-the-center",
+      "source": "ChinAI",
+      "time": "Mon, 12 Oct 2026 11:18:35 GMT",
+      "heat": "",
+      "summary": "Greetings from a world where… this could be the Iowa football’s year …As always, the searchable archive of all past issues is here . Please please subscribe here to support ChinAI under a Guardian /Wikipedia-style tipping model (everyone gets the same content but those who can pay support access for...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "AI is overwhelming and I’m doing it wrong",
+      "url": "https://www.bensbites.com/p/ai-is-overwhelming-and-im-doing-it",
+      "source": "Ben's Bites",
+      "time": "Thu, 29 Oct 2026 14:03:54 GMT",
+      "heat": "",
+      "summary": "Let’s talk about this… Where do I even start? It seems like a lot of people are feeling this too. The constant barrage of new products, models, capabilities, threats, whatever is one thing. But seeing people with 20 personal agents for managing their social content or just life. What are we doing he...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Is Anthropic the best business in the world?",
+      "url": "https://www.bensbites.com/p/is-anthropic-the-best-business-in",
+      "source": "Ben's Bites",
+      "time": "Tue, 27 Oct 2026 14:19:32 GMT",
+      "heat": "",
+      "summary": "Hi folks, I’m still figuring things out, this newsletter, my videos, my style, everything is on the table. Today’s video is a bit of a behind the scenes of how I’m working through that and finding my style. It’s still a work in progress but lmk what you think. You can view the full session post here...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Claude’s personal agent",
+      "url": "https://www.bensbites.com/p/claudes-personal-agent",
+      "source": "Ben's Bites",
+      "time": "Thu, 22 Oct 2026 13:01:21 GMT",
+      "heat": "",
+      "summary": "Hi folks, I’ve been working on a way to get my X bookmarks grouped in the right places for the newsletter. If you didn’t know, Keshav , who’s been working with me for many years, is leaving us at the end of the year to dive further into the exciting world of AI. He used to do a lot of the work behin...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "30 Months on the Exponential (in Charts)",
+      "url": "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+      "source": "One Useful Thing",
+      "time": "Tue, 20 Oct 2026 15:57:59 GMT",
+      "heat": "",
+      "summary": "My second book on AI, Co-Existence, is out today (and you can get it here ), 30 months after the release of Co-Intelligence in early 2024. Looking back across the gap between these books is a good way to get a sense of AI progress. And, thanks to AI, I can describe this progress with some quite love...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "The Dot and the Swarm",
+      "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+      "source": "One Useful Thing",
+      "time": "Thu, 01 Oct 2026 10:54:12 GMT",
+      "heat": "",
+      "summary": "I generally think I have done a good job anticipating the direction and pace of AI over the few years I have been writing this Substack, but I think I recently got something fairly large wrong. In the last year I have been posting about how I suspected that humans would have to approach working with...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "The Overhang",
+      "url": "https://www.oneusefulthing.org/p/the-overhang",
+      "source": "One Useful Thing",
+      "time": "Fri, 18 Sep 2026 17:54:32 GMT",
+      "heat": "",
+      "summary": "We are still on an exponential curve of AI development. I try to put out a Substack post every couple weeks or so, yet, as the pace speeds up, that sometimes feels too slow. In the weeks since my last post, we had the apparent cracking of one of the most famous problems in math by an AI (accompanied...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Paul Duignan: The Psychology Of AI Overdrive",
+      "url": "https://memia.substack.com/p/paul-duignan-the-psychology-of-ai",
+      "source": "Memia",
+      "time": "Sun, 01 Nov 2026 19:40:41 GMT",
+      "heat": "",
+      "summary": "Kia ora and welcome to another irregular Memia podcast. This episode I talk with Dr Paul Duignan , a Te Whanganui-a-Tara Wellington-based clinical and strategy psychologist, outcomes theorist and author of Surfing AI: 30 New Concepts for Getting Your Head Around AI Shock . Paul splits his week betwe...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Memia #2026.43: Factory factory🏭🏭 PHPocalpyse🐘💥 bold but (in)sane📈🤖⚠️ micro social networks🟩 blygger🌳📜 hyperscale📈 tokenizer tax🗣️💰 lumina🌌✨ supercurrent⚛️⚡",
+      "url": "https://memia.substack.com/p/memia-202643-factory-factory-phpocalpyse",
+      "source": "Memia",
+      "time": "Wed, 28 Oct 2026 03:17:23 GMT",
+      "heat": "",
+      "summary": "Welcome to Memia #2026.43 … another weekly scan across everything I’ve been tracking out there at the frontier of AI, emerging tech and humanity’s accelerating future. As always, thanks for reading!🙏 This newsletter is now largely produced using Memia Sensorium , this week using AI agents to ingest ...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "📰 Introducing Sensorium Reader",
+      "url": "https://memia.substack.com/p/introducing-sensorium-reader",
+      "source": "Memia",
+      "time": "Thu, 22 Oct 2026 06:13:43 GMT",
+      "heat": "",
+      "summary": "Kia ora, I’m pleased to open up a Beta release of Sensorium Reader to paid Memia subscribers. Full details below… As always, a very sincere note of thanks for your ongoing support, Sensorium is intended to complement the weekly newsletter as a premium add-on research tool and I hope it continues to ...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Vibe Coding a Classic Game: Building Breakout Step by Step with an AI Assistant",
+      "url": "https://www.kdnuggets.com/vibe-coding-a-classic-game-building-breakout-step-by-step-with-an-ai-assistant",
+      "source": "KDnuggets",
+      "time": "Fri, 30 Oct 2026 14:00:00 +0000",
+      "heat": "",
+      "summary": "Vibe coding is a workflow where you describe what you want in natural language and let an AI agent handle code generation, execution, and iteration rather than typing every line yourself.",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Silent Data Errors That Survive Every Cleaning Pipeline",
+      "url": "https://www.kdnuggets.com/silent-data-errors-that-survive-every-cleaning-pipeline",
+      "source": "KDnuggets",
+      "time": "Fri, 30 Oct 2026 12:00:00 +0000",
+      "heat": "",
+      "summary": "4 bugs that pass every null check, duplicate check, and schema test.",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "The AI Skills That Actually Show Up in Job Postings Right Now",
+      "url": "https://www.kdnuggets.com/the-ai-skills-that-actually-show-up-in-job-postings-right-now",
+      "source": "KDnuggets",
+      "time": "Thu, 29 Oct 2026 14:00:00 +0000",
+      "heat": "",
+      "summary": "Which AI skills appear most often in job postings right now, and what do they mean for your career?",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "AI to ROI News & Analysis: October 30, 2026",
+      "url": "https://ai2roi.substack.com/p/ai-to-roi-news-and-analysis-october-b1d",
+      "source": "AI to ROI",
+      "time": "Fri, 30 Oct 2026 12:30:09 GMT",
+      "heat": "",
+      "summary": "Our Deep Dive into the Top AI News of the Week 🔬  Anthropic Releases Its Draft S-1 Targeting an IPO in Mid-November ☁️  Microsoft’s Latest Earnings Show That It’s Navigating the AI Pivot Really Well 🔗  Broadcom Arranges and Backs $63B Financing Package So That Anthropic Can Buy Custom AI Chips From ...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Using AI to Reduce Sales Cycle Time",
+      "url": "https://ai2roi.substack.com/p/using-ai-to-reduce-sales-cycle-time",
+      "source": "AI to ROI",
+      "time": "Wed, 28 Oct 2026 12:31:26 GMT",
+      "heat": "",
+      "summary": "Sales Cycle Time Is an Essential Metric When Combined with Win Rate, Annual Contract Value, Pipeline Value, and Funnel Conversion Rate Every Wednesday we discuss one of the 81 AI Metrics contained in the “ Big Book of AI Metrics ”. If you would like to see all of the metrics or sponsor one of the 12...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Anthropic’s S-1: Absolutely NOT a SaaS Company",
+      "url": "https://ai2roi.substack.com/p/anthropics-s-1-absolutely-not-a-saas",
+      "source": "AI to ROI",
+      "time": "Tue, 27 Oct 2026 12:31:54 GMT",
+      "heat": "",
+      "summary": "Another Indicator That SaaS metrics and benchmarks break when applied to AI companies I’ve spent 30+ years leading recurring-revenue software companies, including two CEO roles and 20+ years as COO or CRO, focused on efficient revenue growth and top-quartile unit economics. Over the last 5+ years, m...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "R^2Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop",
+      "url": "https://huggingface.co/papers/2610.22740",
+      "source": "HF Papers",
+      "time": "2026-11-02",
+      "heat": "+23",
+      "summary": "In recent years, agentic orchestration has been widely applied to solve complex human tasks. However, existing orchestration learning still faces key challenges, including hand-designed curricula, advantage collapse when a task's rollouts all reach the same outcome, and unreliable evaluation signals that judge each skill by one noisy score. To address these challenges, we propose R^2Orch, a new paradigm of Recursive Self-Play Orchestration: an inner loop of self-play that improves the orchestrator on self-chosen tasks, and an outer loop that improves how the inner loop improves. To support this paradigm, we introduce Recursive Learnability, a training objective that rewards a Proposer for choosing tasks whose rollouts keep reaching different outcomes as skills are withdrawn. Built on this objective, we further propose Skill Withdrawal, in which the outer loop withdraws each skill once a controlled evaluation within self-play shows that the orchestrator performs as well without it. Moreover, the two loops form one cycle: failures are distilled into skills, skills into parameters, and withdrawals lead the Proposer to new failures, so the orchestrator moves toward zero-skill deployment. Experimental results on twelve datasets show that R^2Orch consistently outperforms baselines across question answering, math, code, and interactive tasks. Our code is available at https://github.com/beita6969/R2Orch.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?",
+      "url": "https://huggingface.co/papers/2610.39497",
+      "source": "HF Papers",
+      "time": "2026-11-02",
+      "heat": "+25",
+      "summary": "Co-designing a resource-heavy reasoning system with a lightweight predictive evaluator can reduce execution costs by filtering interactions, with efficiency governed by the density of useful interactions.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "CEPO: A General Framework for Improving Prompt Optimization in Multi-Agent Systems",
+      "url": "https://huggingface.co/papers/2610.34722",
+      "source": "HF Papers",
+      "time": "2026-11-02",
+      "heat": "+7",
+      "summary": "Multi-agent systems (MAS) require both effective coordination and specialized task execution. Existing prompt optimization approaches typically couple these functions within agent-specific prompts. We introduce Coordinator-Executor Prompt Optimization (CEPO), a general framework for improving prompt optimization in MAS. CEPO separates system-level coordination from agent-level execution through a shared coordinator prompt and agent-specific executor prompts, and guides their updates according to their respective roles. This structure allows shared coordination rules to be refined consistently across agents while keeping execution instructions separately adjustable. CEPO provides the prompt structure and optimization guidance, while existing prompt optimizers perform the underlying search. Extensive experiments spanning 11 benchmarks across four domains demonstrate that applying CEPO to four existing prompt optimizers consistently improves their performance. Ablations and qualitative analyses support the proposed design, while controlled studies on a document-understanding MAS further demonstrate improved optimization budget efficiency and performance scaling with the number of agents.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "Wizard: Manipulate Any World in Real Time via Agentic Control",
+      "url": "https://huggingface.co/papers/2610.40339",
+      "source": "HF Papers",
+      "time": "2026-11-02",
+      "heat": "+5",
+      "summary": "Recent advances in video world models have enabled the generation of increasingly realistic and interactive virtual environments, opening new possibilities for player-customizable gameplay. Agentic frameworks further advance this direction by decoupling explicit game logic and controllable world representations from visual generation. However, existing approaches support only simple game settings and predefined motion patterns, generalize poorly to unseen environments and characters, and offer limited real-time interactivity. In this paper, we introduce Wizard, an agentic game world model that enables real-time, precise control over character motions while generalizing zero-shot across novel scenes, characters, and actions. To achieve this, we construct a diverse dataset spanning 750 scenes and 178 characters, incorporating skeleton and geometry information as structured representations. We leverage these representations as intermediate proxies to condition a video generation model, together with an adaptive masking mechanism that improves alignment between the conditioning signals and generated video rollouts. Furthermore, we introduce an agentic framework that explicitly maintains and updates game states, allowing players to freely configure their virtual worlds and exercise fine-grained control over character motions while preserving visual quality and gameplay consistency. By combining agentic control with structured proxy-based generation, our framework unlocks new possibilities for player-driven game creation with real-time, generalizable, and mechanically consistent world simulation.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "HiFOR: Hierarchical Foresight with Action-Guided World Grounding for Vision-Language-Action Model",
+      "url": "https://huggingface.co/papers/2610.40373",
+      "source": "HF Papers",
+      "time": "2026-11-02",
+      "heat": "+6",
+      "summary": "Vision-Language-Action (VLA) models have demonstrated promising capabilities in robotic manipulation by integrating visual perception, language understanding, and action generation. Recent advances have further incorporated future prediction to enhance the understanding of environmental dynamics and task progression. However, existing methods often model short-term dynamics and long-term task objectives separately, while directly incorporating predicted futures into action policies without sufficiently considering their relevance to current action requirements. To address these limitations, we propose HiFOR, a hierarchical foresight framework with action-guided world retrieval. Specifically, Hierarchical Foresight Prediction jointly predicts short-term state evolution, semantic milestones, and final goal states through a Hierarchical Dependency Mask (HDM), establishing dependencies across temporal horizons. Building upon these predictions, Structure-Aware Latent World Modeling organizes future latent representations along the horizon, view, and spatial dimensions to facilitate fine-grained retrieval. Furthermore, Action-Guided Factorized World Retrieval adaptively retrieves relevant future information from the structured latent world based on evolving action representations during denoising, providing targeted guidance for action generation. Extensive experiments on two simulation benchmarks and six real-world robotic manipulation tasks demonstrate the effectiveness of our approach.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation",
+      "url": "https://huggingface.co/papers/2610.36545",
+      "source": "HF Papers",
+      "time": "2026-11-02",
+      "heat": "+3",
+      "summary": "FrameForge enables adaptive conditional image generation by modeling variable condition-target relationships through dynamic temporal experts and intermediate reasoning pathways in pretrained video models.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents",
+      "url": "https://huggingface.co/papers/2610.40799",
+      "source": "HF Papers",
+      "time": "2026-11-02",
+      "heat": "+2",
+      "summary": "CaPtain trains small open vision-language models via supervised fine-tuning and multi-turn reinforcement learning with a physical critic to perform robot manipulation through code, achieving strong results without frontier models or vision-language-action backbones.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Tool Use",
+      "url": "https://huggingface.co/papers/2610.40738",
+      "source": "HF Papers",
+      "time": "2026-11-02",
+      "heat": "+2",
+      "summary": "Apriel Voice 27B Preview is an open speech-language model that integrates speech understanding, reasoning, and tool use within a shared backbone, achieving strong results on audio benchmarks through a two-stage training procedure with online distillation.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "WorldBridge: Bridging Video and Action for Task Generalization in World Action Models",
+      "url": "https://huggingface.co/papers/2610.40748",
+      "source": "HF Papers",
+      "time": "2026-11-02",
+      "heat": "Trending",
+      "summary": "WorldBridge improves robot task generalization by combining video prediction with sparse action supervision via separate video and action experts, achieving state-of-the-art results across manipulation benchmarks.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "Probing Spatial State Representations in Visual Foundation Models",
+      "url": "https://huggingface.co/papers/2610.40636",
+      "source": "HF Papers",
+      "time": "2026-11-02",
+      "heat": "Trending",
+      "summary": "Visual foundation models vary in supporting persistent spatial states across structure, persistence, prediction, and action, with readout accuracy not guaranteeing history-based updates or reliable goal-directed progress.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
+      "url": "https://huggingface.co/papers/2610.42141",
+      "source": "HF Papers",
+      "time": "2026-11-02",
+      "heat": "Trending",
+      "summary": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet today these harnesses are built by hand and redesigned for each new robot or benchmark. We show that harness design can be automated, offering a strong alternative to finetuning on a novel setup. In RoboArchitect, a coding model observes a robot's rollouts, diagnoses failures, and iteratively revises the harness around the frozen policy. The harness evolves on a set of episodes for its optimization and is evaluated on held-out scenes and tasks. Without updating any model weights, RoboArchitect raises average success from 9.7% to 43.3% on unseen scenes (4.5x) and from 12.7% to 40.2% on unseen tasks (3.2x), across multiple benchmarks and policies. The gains are largest where the benchmark is far from the policy's training data: wrapping a general-purpose policy, the evolved harness yields a specialist that often outperforms even the finetuned version. Intuitive control strategies are automatically designed, such as lifting a jammed arm clear or reaching in horizontally when an obstacle blocks the way from above. The harness also evolves its own persistent memory, carrying learned experience, such as effective grasp depths, into later decisions. These results suggest that substantial headroom in robotic manipulation lies in the agent harness, and its design can be effectively automated and optimized without weight updates.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "On the Origin and Evolution of Training-Inference Mismatch in LLM Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2610.40945",
+      "source": "HF Papers",
+      "time": "2026-11-02",
+      "heat": "Trending",
+      "summary": "On-policy reinforcement learning for large language models suffers from training-inference mismatch due to numerical discrepancies and policy lag, and a derived discrepancy-lag correction stabilizes training by centering errors, clipping importance ratios, and resynchronizing sampling.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "HALO: Human-Grounded Granular Evaluation of Proactive Agents",
+      "url": "https://huggingface.co/papers/2610.39086",
+      "source": "HF Papers",
+      "time": "2026-11-02",
+      "heat": "Trending",
+      "summary": "Proactive agents must decide whether, when, and how far to assist without an explicit request. Existing evaluations often rely on automated scores or binary verdicts, offering limited human diagnosis of evidence use and intervention quality. To address these gaps, we introduce HALO, Human-Grounded GrAnular EvaLuation of PrOactive Agents. HALO-Arena covers 4 proactive need types, Dependency, Blockage, Risk, and Opportunity, across 10 everyday domains and 50 personal environments. Scenarios require agents to retrieve evidence from structured databases or unstructured documents before judging whether assistance is warranted and choosing its scope. On HALO-Arena, we construct HALO-8K, a dataset of 8,000 responses from 10 models across 400 scenarios, annotated by 20 experts for action level, acceptability verdicts, and human diagnosis. For rejected responses, human diagnosis covers timing, intensity, and other issues. Recorded reasoning tokens and retrieval rounds measure the effort behind these responses. The best proprietary and open-source models achieve 72.88% and 56.63% acceptability, respectively. Our central finding is that over-proactivity is the dominant observed failure mode, with Premature timing or Excessive intensity accounting for 61.20% of rejected responses. Further analyses yield complementary findings on the balance between intervention and restraint, evidence acquisition, and the calibration of timing and intensity.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "CausalWAM: Learning the Causes of Actions in World Action Models",
+      "url": "https://huggingface.co/papers/2610.42096",
+      "source": "HF Papers",
+      "time": "2026-11-02",
+      "heat": "Trending",
+      "summary": "World action models (WAMs) learn latent variables from observations and use these to both predict the evolution of the scene and to generate actions. The prediction has to be of the whole scene, whereas only a portion of the scene causes actions. WAMs fitted to demonstrations do not, in general, guarantee that they will generate actions solely from the latent causes of the demonstrated actions (the action-relevant latent variables), as the model could just as well learn to imitate in this way whilst entangling the action-relevant latent variables with the nuisance variables. We therefore separate out what causes action from what prediction depends on. We prove that under a sparsity constraint the latent variables used to generate actions are an invertible function of the action-relevant latent variables alone and the true structure is identified up to a permutation of the latent variables. This requires neither sufficient temporal dependence nor any assumptions on how the unobserved regimes evolve and holds even when the action-relevant latent variables are statistically dependent on the rest. We therefore propose CWAM (Causal WAM), which incorporates the constraint into a pretrained WAM by adding a sparse routing path to its action head, with the world modeling objective remaining unchanged. Experiments on both synthetic data and real-world robots validate the theory as well as showcase the improved efficiency in closed-loop success.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "WeFair: Fidelity-Aware Alignment from Human Feedback for Personalized Query Rewriting in Short-Video Search",
+      "url": "https://huggingface.co/papers/2610.16927",
+      "source": "HF Papers",
+      "time": "2026-11-02",
+      "heat": "Trending",
+      "summary": "WeFair improves personalized query rewriting via fidelity-aware human feedback stages—demonstration, preference, and verification—to reduce intent drift and boost search effectiveness in short-video platforms.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "Show HN: AI System Design Primer",
+      "url": "https://github.com/daneb/ai-system-design-primer/",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Midgarth Quest. Browser-Playable Mmorpg Written by AI",
+      "url": "https://midgarth.quest/",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+      "url": "https://wikihack.netlify.app",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "3 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Asking my AI teacher how to spell seventeen",
+      "url": "https://twitter.com/huskirl/status/2116941001335947635",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "4 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "What happens when the AI money loop breaks?",
+      "url": "https://fvdge.com/AI_Circularity_Stress_Lab.html",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Show HN: Arken – cryptographic identity for AI agents calling MCP servers/APIs",
+      "url": "https://github.com/arkenforge/arken-core",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "2 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Show HN: AWKLog – a minimalist Datalog interpreter in Awk",
+      "url": "https://github.com/stass/awklog",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Big Tech returns smallest share of cash to shareholders in 15 years",
+      "url": "https://www.reuters.com/legal/transactional/big-tech-returns-smallest-share-cash-shareholders-15-years-given-ai-spending-2026-10-30/",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "The Economic Paradox of AI-Generated Software",
+      "url": "https://medium.com/@yassien/the-economic-paradox-of-ai-generated-software-93239b25bf1c",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Show HN: Paste your MCP config, see what each server does at startup",
+      "url": "https://mcp.brydge-ai.com",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "American military technology beyond your imagination",
+      "url": "https://news.ycombinator.com/item?id=50332805",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "HalachaBench",
+      "url": "https://github.com/halachabench/halacha-bench-results",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "AI is programming's next abstraction. What should we teach?",
+      "url": "https://lernerpython.com/2026/11/01/ai-programming-next-abstraction/",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "2 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Agentic AI Is Myth Set in Motion",
+      "url": "https://braddelong.substack.com/p/crosspost-henry-farrell-agentic-ai",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "2 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Hackers are running riot with AI. Its makers want to cash in",
+      "url": "https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    }
+  ]
 }

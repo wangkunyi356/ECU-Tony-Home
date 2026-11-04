@@ -1,14 +1,44 @@
 {
-  "date": "2026-11-02",
-  "updated_at": "2026-11-02 14:04:27",
+  "date": "2026-11-04",
+  "updated_at": "2026-11-04 12:15:02",
   "count": 51,
   "brief": "",
   "takeaways": [
-    "**今日最大新闻**：ServiceNow 开源 Apriel Voice 27B，把语音理解、推理与工具调用放进同一个骨干，并以 1.91 秒平均延迟给出可用指标——语音 Agent 第一次有了可自托管的中等规模开源选项。",
-    "**第二重要动态**：RoboArchitect 证明\"不改权重、只自动改写 Agent 外壳\"就能把未见场景成功率从 9.7% 提到 43.3%，叠加 WorldBridge 的\"视频多、标注少\"配方，机器人泛化的成本结构正在被重写。",
-    "**值得关注的趋势**：今日 HF 热榜被\"编排与自我改进\"占据（R²Orch、CEPO、HALO、DLC），研究焦点从\"更大模型\"转向\"如何组织、评估与稳定地训练 Agent 系统\"，可运维性正取代参数规模成为主线。"
+    "**今日最大新闻**：美国中期选举“蓝色浪潮”主导全球叙事——民主党拿下南卡、翻转北卡并守住佐治亚，市场随即担忧 AI 监管收紧，亚洲芯片股与纳指期货承压。",
+    "**第二重要动态**：AI 系统层优化密集突破——SpecPilot 把投机解码加速推到 10.87×，ParetoSaddler 让 harness 同时优化质量与成本，说明“部署特定优化”正成为新的工程焦点。",
+    "**值得关注的趋势**：机器人/世界模型与端侧智能体同步推进（PrimeSim、RoboColosseum、Mage-VL-Cowork），但跨本体泛化与实时推理延迟仍是硬约束。"
   ],
   "items": [
+    {
+      "title": "Finding my thing",
+      "url": "https://www.bensbites.com/p/if-you-feel-behind-right-now-dont",
+      "source": "Ben's Bites",
+      "time": "Tue, 03 Nov 2026 14:03:32 GMT",
+      "heat": "",
+      "summary": "How do I follow up my last post…I’ve never had such a response before, I’m still working my way through every reply. And I wasn’t actually going to post today. Since last week I’ve been having great conversations and spent a lot of time thinking, without my agent. I’m back to actually jotting stuff ...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "AI is overwhelming and I’m doing it wrong",
+      "url": "https://www.bensbites.com/p/ai-is-overwhelming-and-im-doing-it",
+      "source": "Ben's Bites",
+      "time": "Thu, 29 Oct 2026 14:03:54 GMT",
+      "heat": "",
+      "summary": "Let’s talk about this… Where do I even start? It seems like a lot of people are feeling this too. The constant barrage of new products, models, capabilities, threats, whatever is one thing. But seeing people with 20 personal agents for managing their social content or just life. What are we doing he...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Is Anthropic the best business in the world?",
+      "url": "https://www.bensbites.com/p/is-anthropic-the-best-business-in",
+      "source": "Ben's Bites",
+      "time": "Tue, 27 Oct 2026 14:19:32 GMT",
+      "heat": "",
+      "summary": "Hi folks, I’m still figuring things out, this newsletter, my videos, my style, everything is on the table. Today’s video is a bit of a behind the scenes of how I’m working through that and finding my style. It’s still a work in progress but lmk what you think. You can view the full session post here...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
     {
       "title": "Was I wrong about open models & cyber risks?",
       "url": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
@@ -36,66 +66,6 @@
       "time": "Sun, 25 Oct 2026 11:49:00 GMT",
       "heat": "",
       "summary": "We — Nathan and Florian — wanted to discuss all the messy trade-offs of a busy week in AI and ask all the pressing questions like: Why did Kimi K3.1 Pro have a mixed reaction with such incredible benchmarks? Will it be adopted? Were we wrong about the risks of open-weight models and cybersecurity? W...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "ChinAI #379: “Chinese AI only makes trash TV?”",
-      "url": "https://chinai.substack.com/p/chinai-379-chinese-ai-can-only-make",
-      "source": "ChinAI",
-      "time": "Mon, 26 Oct 2026 11:06:35 GMT",
-      "heat": "",
-      "summary": "Greetings from a world where… alas, it is no longer the Hawkeyes football team’s year …As always, the searchable archive of all past issues is here . Please please subscribe here to support ChinAI under a Guardian /Wikipedia-style tipping model (everyone gets the same content but those who can pay s...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "ChinAI #378: China’s Two-day Weekend Defenders",
-      "url": "https://chinai.substack.com/p/chinai-378-chinas-two-day-weekend",
-      "source": "ChinAI",
-      "time": "Mon, 19 Oct 2026 11:31:56 GMT",
-      "heat": "",
-      "summary": "Greetings from a world where… “Even if I have to be a workhorse, I still want to be a happy workhorse” [做牛马也要做快乐的牛马] …As always, the searchable archive of all past issues is here . Please please subscribe here to support ChinAI under a Guardian /Wikipedia-style tipping model (everyone gets the same ...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "ChinAI #377: American Data Center Hegemony - the Center-Satellite Structure",
-      "url": "https://chinai.substack.com/p/chinai-377-us-dominance-of-the-center",
-      "source": "ChinAI",
-      "time": "Mon, 12 Oct 2026 11:18:35 GMT",
-      "heat": "",
-      "summary": "Greetings from a world where… this could be the Iowa football’s year …As always, the searchable archive of all past issues is here . Please please subscribe here to support ChinAI under a Guardian /Wikipedia-style tipping model (everyone gets the same content but those who can pay support access for...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "AI is overwhelming and I’m doing it wrong",
-      "url": "https://www.bensbites.com/p/ai-is-overwhelming-and-im-doing-it",
-      "source": "Ben's Bites",
-      "time": "Thu, 29 Oct 2026 14:03:54 GMT",
-      "heat": "",
-      "summary": "Let’s talk about this… Where do I even start? It seems like a lot of people are feeling this too. The constant barrage of new products, models, capabilities, threats, whatever is one thing. But seeing people with 20 personal agents for managing their social content or just life. What are we doing he...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "Is Anthropic the best business in the world?",
-      "url": "https://www.bensbites.com/p/is-anthropic-the-best-business-in",
-      "source": "Ben's Bites",
-      "time": "Tue, 27 Oct 2026 14:19:32 GMT",
-      "heat": "",
-      "summary": "Hi folks, I’m still figuring things out, this newsletter, my videos, my style, everything is on the table. Today’s video is a bit of a behind the scenes of how I’m working through that and finding my style. It’s still a work in progress but lmk what you think. You can view the full session post here...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "Claude’s personal agent",
-      "url": "https://www.bensbites.com/p/claudes-personal-agent",
-      "source": "Ben's Bites",
-      "time": "Thu, 22 Oct 2026 13:01:21 GMT",
-      "heat": "",
-      "summary": "Hi folks, I’ve been working on a way to get my X bookmarks grouped in the right places for the newsletter. If you didn’t know, Keshav , who’s been working with me for many years, is leaving us at the end of the year to dive further into the exciting world of AI. He used to do a lot of the work behin...",
       "insight": "",
       "section": "newsletter_picks"
     },
@@ -130,6 +100,76 @@
       "section": "newsletter_picks"
     },
     {
+      "title": "ChinAI #380: It’s getting more and more difficult to make money",
+      "url": "https://chinai.substack.com/p/chinai-380-its-getting-more-and-more",
+      "source": "ChinAI",
+      "time": "Mon, 02 Nov 2026 12:18:38 GMT",
+      "heat": "",
+      "summary": "Greetings from a world where… perhaps it could still be the Hawkeyes football team’s year …As always, the searchable archive of all past issues is here . Please please subscribe here to support ChinAI under a Guardian /Wikipedia-style tipping model (everyone gets the same content but those who can p...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "ChinAI #379: “Chinese AI only makes trash TV?”",
+      "url": "https://chinai.substack.com/p/chinai-379-chinese-ai-can-only-make",
+      "source": "ChinAI",
+      "time": "Mon, 26 Oct 2026 11:06:35 GMT",
+      "heat": "",
+      "summary": "Greetings from a world where… alas, it is no longer the Hawkeyes football team’s year …As always, the searchable archive of all past issues is here . Please please subscribe here to support ChinAI under a Guardian /Wikipedia-style tipping model (everyone gets the same content but those who can pay s...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "ChinAI #378: China’s Two-day Weekend Defenders",
+      "url": "https://chinai.substack.com/p/chinai-378-chinas-two-day-weekend",
+      "source": "ChinAI",
+      "time": "Mon, 19 Oct 2026 11:31:56 GMT",
+      "heat": "",
+      "summary": "Greetings from a world where… “Even if I have to be a workhorse, I still want to be a happy workhorse” [做牛马也要做快乐的牛马] …As always, the searchable archive of all past issues is here . Please please subscribe here to support ChinAI under a Guardian /Wikipedia-style tipping model (everyone gets the same ...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Using LLM Summarization in Your Scikit-Learn Pipelines with Scikit-LLM",
+      "url": "https://www.kdnuggets.com/using-llm-summarization-in-your-scikit-learn-pipelines-with-scikit-llm",
+      "source": "KDnuggets",
+      "time": "Tue, 03 Nov 2026 15:00:00 +0000",
+      "heat": "",
+      "summary": "Learn how to build an architecture that blends Scikit-LLM estimators for text summarization with traditional scikit-learn methods into a single, unified pipeline for summarizing and classifying raw, messy text.",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "8 LLM Inference Frameworks You Should Try in 2026",
+      "url": "https://www.kdnuggets.com/8-llm-inference-frameworks-you-should-try-in-2026",
+      "source": "KDnuggets",
+      "time": "Tue, 03 Nov 2026 13:00:00 +0000",
+      "heat": "",
+      "summary": "Compare LLM inference frameworks for production serving, request batching, KV cache management, and efficient deployment.",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Running LLMs Locally Does Not Mean Your Data Is Safe: What Cohere’s Study Reveals",
+      "url": "https://www.kdnuggets.com/running-llms-locally-does-not-mean-your-data-is-safe-what-coheres-study-reveals",
+      "source": "KDnuggets",
+      "time": "Mon, 02 Nov 2026 17:00:00 +0000",
+      "heat": "",
+      "summary": "Cohere caught Alibaba’s Qwen model unexpectedly attempting to upload a test payload to Alibaba Cloud storage during a cybersecurity task, but the sandbox blocked the request, leaving questions about what triggered the behavior.",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Memia #2026.44: Oops we lost $6.3bn💸 living with AI overdrive🌀 epistemic warfare🕵️📚 the future of the firm🪜 llmjacking🔑 mischief 1🧠🎬 MOSS-image🖼️🆓 lifeval🏠📊 think weirder 2😵‍💫",
+      "url": "https://memia.substack.com/p/memia-202644-oops-we-lost-63bn-living",
+      "source": "Memia",
+      "time": "Tue, 03 Nov 2026 23:45:06 GMT",
+      "heat": "",
+      "summary": "#2026.44 Another week, another Memia megadrop… your regular scan across what’s happening at the frontier of AI, emerging tech and humanity’s accelerating future. As always, thanks for reading!🙏 This newsletter is now largely produced using Memia Sensorium , this week using AI agents to ingest 90+ te...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
       "title": "Paul Duignan: The Psychology Of AI Overdrive",
       "url": "https://memia.substack.com/p/paul-duignan-the-psychology-of-ai",
       "source": "Memia",
@@ -150,42 +190,12 @@
       "section": "newsletter_picks"
     },
     {
-      "title": "📰 Introducing Sensorium Reader",
-      "url": "https://memia.substack.com/p/introducing-sensorium-reader",
-      "source": "Memia",
-      "time": "Thu, 22 Oct 2026 06:13:43 GMT",
+      "title": "The Perilous State of the AI Trade",
+      "url": "https://ai2roi.substack.com/p/the-perilous-state-of-the-ai-trade",
+      "source": "AI to ROI",
+      "time": "Tue, 03 Nov 2026 13:31:30 GMT",
       "heat": "",
-      "summary": "Kia ora, I’m pleased to open up a Beta release of Sensorium Reader to paid Memia subscribers. Full details below… As always, a very sincere note of thanks for your ongoing support, Sensorium is intended to complement the weekly newsletter as a premium add-on research tool and I hope it continues to ...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "Vibe Coding a Classic Game: Building Breakout Step by Step with an AI Assistant",
-      "url": "https://www.kdnuggets.com/vibe-coding-a-classic-game-building-breakout-step-by-step-with-an-ai-assistant",
-      "source": "KDnuggets",
-      "time": "Fri, 30 Oct 2026 14:00:00 +0000",
-      "heat": "",
-      "summary": "Vibe coding is a workflow where you describe what you want in natural language and let an AI agent handle code generation, execution, and iteration rather than typing every line yourself.",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "Silent Data Errors That Survive Every Cleaning Pipeline",
-      "url": "https://www.kdnuggets.com/silent-data-errors-that-survive-every-cleaning-pipeline",
-      "source": "KDnuggets",
-      "time": "Fri, 30 Oct 2026 12:00:00 +0000",
-      "heat": "",
-      "summary": "4 bugs that pass every null check, duplicate check, and schema test.",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "The AI Skills That Actually Show Up in Job Postings Right Now",
-      "url": "https://www.kdnuggets.com/the-ai-skills-that-actually-show-up-in-job-postings-right-now",
-      "source": "KDnuggets",
-      "time": "Thu, 29 Oct 2026 14:00:00 +0000",
-      "heat": "",
-      "summary": "Which AI skills appear most often in job postings right now, and what do they mean for your career?",
+      "summary": "The Future of AI Is All About Finance Now Two companies sell access to the same NVIDIA chips to the same customers. One borrows at 7% interest to finance its data center; the other at 15%. On $1 billion in annual loan repayments, that’s an $80 million delta , according to Data Gravity ‘s Chris Zeoli...",
       "insight": "",
       "section": "newsletter_picks"
     },
@@ -210,168 +220,168 @@
       "section": "newsletter_picks"
     },
     {
-      "title": "Anthropic’s S-1: Absolutely NOT a SaaS Company",
-      "url": "https://ai2roi.substack.com/p/anthropics-s-1-absolutely-not-a-saas",
-      "source": "AI to ROI",
-      "time": "Tue, 27 Oct 2026 12:31:54 GMT",
-      "heat": "",
-      "summary": "Another Indicator That SaaS metrics and benchmarks break when applied to AI companies I’ve spent 30+ years leading recurring-revenue software companies, including two CEO roles and 20+ years as COO or CRO, focused on efficient revenue growth and top-quartile unit economics. Over the last 5+ years, m...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "R^2Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop",
-      "url": "https://huggingface.co/papers/2610.22740",
+      "title": "Behind Video Generation: Observations and Insights on Multimodal Understanding from Kling",
+      "url": "https://huggingface.co/papers/2611.04916",
       "source": "HF Papers",
-      "time": "2026-11-02",
-      "heat": "+23",
-      "summary": "In recent years, agentic orchestration has been widely applied to solve complex human tasks. However, existing orchestration learning still faces key challenges, including hand-designed curricula, advantage collapse when a task's rollouts all reach the same outcome, and unreliable evaluation signals that judge each skill by one noisy score. To address these challenges, we propose R^2Orch, a new paradigm of Recursive Self-Play Orchestration: an inner loop of self-play that improves the orchestrator on self-chosen tasks, and an outer loop that improves how the inner loop improves. To support this paradigm, we introduce Recursive Learnability, a training objective that rewards a Proposer for choosing tasks whose rollouts keep reaching different outcomes as skills are withdrawn. Built on this objective, we further propose Skill Withdrawal, in which the outer loop withdraws each skill once a controlled evaluation within self-play shows that the orchestrator performs as well without it. Moreover, the two loops form one cycle: failures are distilled into skills, skills into parameters, and withdrawals lead the Proposer to new failures, so the orchestrator moves toward zero-skill deployment. Experimental results on twelve datasets show that R^2Orch consistently outperforms baselines across question answering, math, code, and interactive tasks. Our code is available at https://github.com/beita6969/R2Orch.",
+      "time": "2026-11-04",
+      "heat": "+9",
+      "summary": "Video generation has progressed from isolated clips to coherent short-form audiovisual sequences, and the bottleneck is shifting from rendering to semantic control. This report summarizes the observations and insights on multimodal understanding gained from successive generations of Kling. We argue that generation quality is the projection of multimodal understanding through the entire data--conditioning--alignment--evaluation chain, and we examine this chain module by module. Kling-MLLM, a shared multimodal foundation model that unifies image, video, audio, synchronized audio--video, and interleaved inputs, is specialized for each downstream module. Because a DiT is trained on far fewer training samples than a language model, we treat captioning as a semantic contract that maximizes description density, and extend it to reference-grounded captioning that makes reference bindings explicit. Prompt enhancement translates user intent into this caption distribution: basic PE is derived from captions of compelling videos and refined with text-level and generator-in-the-loop reinforcement learning, while agentic PE refines the story and retrieves compelling examples. We show that a reliable text encoder comes from perceptual training rather than from stronger language ability, and that candidates can be screened from text alone before end-to-end training. Reward modeling pairs a general reward model for explainable, localized critiques with a decision reward model for fast multidimensional scoring, treating perceptual bandwidth as a first-class design parameter. Finally, we review task-specific automatic evaluation, focusing on protocols that expose scoring shortcuts and help trace failures to their upstream source. We hope these lessons offer practical guidance for building the understanding stack behind controllable video generation.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?",
-      "url": "https://huggingface.co/papers/2610.39497",
+      "title": "RoboColosseum: Evaluating Physical Intelligence at Scale In-The-Wild",
+      "url": "https://huggingface.co/papers/2611.02497",
       "source": "HF Papers",
-      "time": "2026-11-02",
-      "heat": "+25",
-      "summary": "Co-designing a resource-heavy reasoning system with a lightweight predictive evaluator can reduce execution costs by filtering interactions, with efficiency governed by the density of useful interactions.",
-      "insight": "",
-      "section": "huggingface_papers"
-    },
-    {
-      "title": "CEPO: A General Framework for Improving Prompt Optimization in Multi-Agent Systems",
-      "url": "https://huggingface.co/papers/2610.34722",
-      "source": "HF Papers",
-      "time": "2026-11-02",
+      "time": "2026-11-04",
       "heat": "+7",
-      "summary": "Multi-agent systems (MAS) require both effective coordination and specialized task execution. Existing prompt optimization approaches typically couple these functions within agent-specific prompts. We introduce Coordinator-Executor Prompt Optimization (CEPO), a general framework for improving prompt optimization in MAS. CEPO separates system-level coordination from agent-level execution through a shared coordinator prompt and agent-specific executor prompts, and guides their updates according to their respective roles. This structure allows shared coordination rules to be refined consistently across agents while keeping execution instructions separately adjustable. CEPO provides the prompt structure and optimization guidance, while existing prompt optimizers perform the underlying search. Extensive experiments spanning 11 benchmarks across four domains demonstrate that applying CEPO to four existing prompt optimizers consistently improves their performance. Ablations and qualitative analyses support the proposed design, while controlled studies on a document-understanding MAS further demonstrate improved optimization budget efficiency and performance scaling with the number of agents.",
+      "summary": "RoboColosseum evaluates general robot policies across diverse embodiments and environments, revealing weak cross-embodiment agreement, limited open-world reliability, and substantial differences between zero-shot and fine-tuned performance.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "Wizard: Manipulate Any World in Real Time via Agentic Control",
-      "url": "https://huggingface.co/papers/2610.40339",
+      "title": "MoviEdit: Long-form Multi-Shot Video Editing Made Easy",
+      "url": "https://huggingface.co/papers/2611.02737",
       "source": "HF Papers",
-      "time": "2026-11-02",
-      "heat": "+5",
-      "summary": "Recent advances in video world models have enabled the generation of increasingly realistic and interactive virtual environments, opening new possibilities for player-customizable gameplay. Agentic frameworks further advance this direction by decoupling explicit game logic and controllable world representations from visual generation. However, existing approaches support only simple game settings and predefined motion patterns, generalize poorly to unseen environments and characters, and offer limited real-time interactivity. In this paper, we introduce Wizard, an agentic game world model that enables real-time, precise control over character motions while generalizing zero-shot across novel scenes, characters, and actions. To achieve this, we construct a diverse dataset spanning 750 scenes and 178 characters, incorporating skeleton and geometry information as structured representations. We leverage these representations as intermediate proxies to condition a video generation model, together with an adaptive masking mechanism that improves alignment between the conditioning signals and generated video rollouts. Furthermore, we introduce an agentic framework that explicitly maintains and updates game states, allowing players to freely configure their virtual worlds and exercise fine-grained control over character motions while preserving visual quality and gameplay consistency. By combining agentic control with structured proxy-based generation, our framework unlocks new possibilities for player-driven game creation with real-time, generalizable, and mechanically consistent world simulation.",
-      "insight": "",
-      "section": "huggingface_papers"
-    },
-    {
-      "title": "HiFOR: Hierarchical Foresight with Action-Guided World Grounding for Vision-Language-Action Model",
-      "url": "https://huggingface.co/papers/2610.40373",
-      "source": "HF Papers",
-      "time": "2026-11-02",
-      "heat": "+6",
-      "summary": "Vision-Language-Action (VLA) models have demonstrated promising capabilities in robotic manipulation by integrating visual perception, language understanding, and action generation. Recent advances have further incorporated future prediction to enhance the understanding of environmental dynamics and task progression. However, existing methods often model short-term dynamics and long-term task objectives separately, while directly incorporating predicted futures into action policies without sufficiently considering their relevance to current action requirements. To address these limitations, we propose HiFOR, a hierarchical foresight framework with action-guided world retrieval. Specifically, Hierarchical Foresight Prediction jointly predicts short-term state evolution, semantic milestones, and final goal states through a Hierarchical Dependency Mask (HDM), establishing dependencies across temporal horizons. Building upon these predictions, Structure-Aware Latent World Modeling organizes future latent representations along the horizon, view, and spatial dimensions to facilitate fine-grained retrieval. Furthermore, Action-Guided Factorized World Retrieval adaptively retrieves relevant future information from the structured latent world based on evolving action representations during denoising, providing targeted guidance for action generation. Extensive experiments on two simulation benchmarks and six real-world robotic manipulation tasks demonstrate the effectiveness of our approach.",
-      "insight": "",
-      "section": "huggingface_papers"
-    },
-    {
-      "title": "FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation",
-      "url": "https://huggingface.co/papers/2610.36545",
-      "source": "HF Papers",
-      "time": "2026-11-02",
+      "time": "2026-11-04",
       "heat": "+3",
-      "summary": "FrameForge enables adaptive conditional image generation by modeling variable condition-target relationships through dynamic temporal experts and intermediate reasoning pathways in pretrained video models.",
+      "summary": "MoviEdit is an end-to-end framework for long-form multi-shot video editing that uses cascaded bidirectional-autoregressive modeling and a new benchmark to maintain coherence across scenes while reducing manual data annotation.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents",
-      "url": "https://huggingface.co/papers/2610.40799",
+      "title": "SpecPilot: Autonomous Algorithm Discovery and Systems Optimization for Speculative Decoding",
+      "url": "https://huggingface.co/papers/2611.02501",
       "source": "HF Papers",
-      "time": "2026-11-02",
+      "time": "2026-11-04",
       "heat": "+2",
-      "summary": "CaPtain trains small open vision-language models via supervised fine-tuning and multi-turn reinforcement learning with a physical critic to perform robot manipulation through code, achieving strong results without frontier models or vision-language-action backbones.",
+      "summary": "SpecPilot autonomously discovers deployment-specific algorithms and system optimizations to maximize speculative decoding speedups across diverse models, drafters, and serving regimes without quality loss.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Tool Use",
-      "url": "https://huggingface.co/papers/2610.40738",
+      "title": "ParetoSaddler: Pareto-Guided Optimization of Agent Harnesses for Quality and Cost",
+      "url": "https://huggingface.co/papers/2611.02079",
       "source": "HF Papers",
-      "time": "2026-11-02",
-      "heat": "+2",
-      "summary": "Apriel Voice 27B Preview is an open speech-language model that integrates speech understanding, reasoning, and tool use within a shared backbone, achieving strong results on audio benchmarks through a two-stage training procedure with online distillation.",
-      "insight": "",
-      "section": "huggingface_papers"
-    },
-    {
-      "title": "WorldBridge: Bridging Video and Action for Task Generalization in World Action Models",
-      "url": "https://huggingface.co/papers/2610.40748",
-      "source": "HF Papers",
-      "time": "2026-11-02",
+      "time": "2026-11-04",
       "heat": "Trending",
-      "summary": "WorldBridge improves robot task generalization by combining video prediction with sparse action supervision via separate video and action experts, achieving state-of-the-art results across manipulation benchmarks.",
+      "summary": "Harness optimization can substantially improve LLM agents without modifying model weights, but existing methods primarily optimize response quality. Extending them to joint quality--cost optimization introduces a challenge: applying the deployment preference during intermediate updates can prematurely reject candidates that are valuable for later improvements. We introduce ParetoSaddler, which addresses this mismatch by separating intermediate candidate promotion from final deployment selection. At each iteration, an optimizer updates a parent harness to produce a candidate, and then compares the two over repeated executions and uses Bayesian bootstrap Pareto support to promote candidates showing credible progress in either quality or cost. Promoted candidates receive broader development evaluation and remain available as parents for later optimization steps. We evaluate ParetoSaddler on ClawMark and GAIA2 using domain-disjoint splits. On ClawMark, ParetoSaddler improves quality from 70.86\\% to 81.35\\% while reducing cost from \\1.17 to 1.01 per task; on GAIA2, it improves quality from 56.22\\% to 62.89\\% while reducing cost from \\0.78 to 0.45 per task. The Pareto-selected harnesses also achieve higher quality at lower cost than quality-only harness optimization. Analysis shows that Pareto-aware optimization retains intermediate candidates that would be discarded by deployment preference but can support later improvements, while Bayesian bootstrap screening filters out candidates whose gains are weakly supported across runs.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "Probing Spatial State Representations in Visual Foundation Models",
-      "url": "https://huggingface.co/papers/2610.40636",
+      "title": "PrimeSim: A Generalist World Model Simulator from Large-Scale Cross-Embodiment Demonstrations",
+      "url": "https://huggingface.co/papers/2611.04870",
       "source": "HF Papers",
-      "time": "2026-11-02",
+      "time": "2026-11-04",
       "heat": "Trending",
-      "summary": "Visual foundation models vary in supporting persistent spatial states across structure, persistence, prediction, and action, with readout accuracy not guaranteeing history-based updates or reliable goal-directed progress.",
+      "summary": "PrimeSim is an action-conditioned multiview world model that uses progressive training, unified action representations, view-aware attention, and hierarchical memory to enable consistent, long-horizon robot simulation and policy optimization.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
-      "url": "https://huggingface.co/papers/2610.42141",
+      "title": "Recursa: Toward Recursively Self-Improving Foundation Model Systems",
+      "url": "https://huggingface.co/papers/2611.04035",
       "source": "HF Papers",
-      "time": "2026-11-02",
+      "time": "2026-11-04",
       "heat": "Trending",
-      "summary": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet today these harnesses are built by hand and redesigned for each new robot or benchmark. We show that harness design can be automated, offering a strong alternative to finetuning on a novel setup. In RoboArchitect, a coding model observes a robot's rollouts, diagnoses failures, and iteratively revises the harness around the frozen policy. The harness evolves on a set of episodes for its optimization and is evaluated on held-out scenes and tasks. Without updating any model weights, RoboArchitect raises average success from 9.7% to 43.3% on unseen scenes (4.5x) and from 12.7% to 40.2% on unseen tasks (3.2x), across multiple benchmarks and policies. The gains are largest where the benchmark is far from the policy's training data: wrapping a general-purpose policy, the evolved harness yields a specialist that often outperforms even the finetuned version. Intuitive control strategies are automatically designed, such as lifting a jammed arm clear or reaching in horizontally when an obstacle blocks the way from above. The harness also evolves its own persistent memory, carrying learned experience, such as effective grasp depths, into later decisions. These results suggest that substantial headroom in robotic manipulation lies in the agent harness, and its design can be effectively automated and optimized without weight updates.",
+      "summary": "Recursa is a self-improving foundation model system that adapts to new domains by recursively learning from its own experience, storing skills and reflections in a knowledge repository, and validating improvements without human supervision or stronger teachers.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "On the Origin and Evolution of Training-Inference Mismatch in LLM Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2610.40945",
+      "title": "Can AI Reviewers See Your Efforts to Improve Your Paper? A Large-Scale Study of Paper Revision Trajectories",
+      "url": "https://huggingface.co/papers/2611.02244",
       "source": "HF Papers",
-      "time": "2026-11-02",
+      "time": "2026-11-04",
       "heat": "Trending",
-      "summary": "On-policy reinforcement learning for large language models suffers from training-inference mismatch due to numerical discrepancies and policy lag, and a derived discrepancy-lag correction stabilizes training by centering errors, clipping importance ratios, and resynchronizing sampling.",
+      "summary": "AI reviewers are increasingly used to assess scientific manuscripts, yet it remains unclear whether their judgments reflect the improvements authors make through revision. We investigate this question using PaperTrajectory-2026, the 2026 release of PaperTrajectory, a dataset of 6,959 paper trajectories across five AI conferences, with automatic annotations of changes along 14 dimensions and separate judgments of overall quality. The annotations show that major improvements emphasize empirical evidence and framing, while later revisions tend toward incremental improvement. Using independent assessments of manuscript versions from eight AI reviewers, we examine whether annotated major improvements receive higher scores, which revision dimensions are associated with score changes, and whether user opinions can outweigh observed revision gains. Every reviewer leaves scores unchanged on most major improvements, and agreement on the direction of score changes is weak. Revision dimensions show some reviewer-specific associations with score increases, but provide limited predictive discrimination and no consistent guide across reviewers. Even when a revision earns a higher neutral score, a brief negative user opinion can erase or reverse that advantage, with substantial variation across reviewers. These findings show that substantive revisions are not consistently reflected in review scores and that observed scoring gains can be vulnerable to user framing, motivating assessments that connect manuscript evidence to overall judgments and remain stable when no scientific evidence changes.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "HALO: Human-Grounded Granular Evaluation of Proactive Agents",
-      "url": "https://huggingface.co/papers/2610.39086",
+      "title": "LOLPlay: Benchmarking Real-Time Visual Agents in League of Legends",
+      "url": "https://huggingface.co/papers/2611.03685",
       "source": "HF Papers",
-      "time": "2026-11-02",
+      "time": "2026-11-04",
       "heat": "Trending",
-      "summary": "Proactive agents must decide whether, when, and how far to assist without an explicit request. Existing evaluations often rely on automated scores or binary verdicts, offering limited human diagnosis of evidence use and intervention quality. To address these gaps, we introduce HALO, Human-Grounded GrAnular EvaLuation of PrOactive Agents. HALO-Arena covers 4 proactive need types, Dependency, Blockage, Risk, and Opportunity, across 10 everyday domains and 50 personal environments. Scenarios require agents to retrieve evidence from structured databases or unstructured documents before judging whether assistance is warranted and choosing its scope. On HALO-Arena, we construct HALO-8K, a dataset of 8,000 responses from 10 models across 400 scenarios, annotated by 20 experts for action level, acceptability verdicts, and human diagnosis. For rejected responses, human diagnosis covers timing, intensity, and other issues. Recorded reasoning tokens and retrieval rounds measure the effort behind these responses. The best proprietary and open-source models achieve 72.88% and 56.63% acceptability, respectively. Our central finding is that over-proactivity is the dominant observed failure mode, with Premature timing or Excessive intensity accounting for 61.20% of rejected responses. Further analyses yield complementary findings on the balance between intervention and restraint, evidence acquisition, and the calibration of timing and intensity.",
+      "summary": "Visual agents need to coordinate reasoning and action while their environment evolves during inference. We introduce LOLPlay, a benchmark in native League of Legends with 36 champion-specific tasks spanning resource management, combat, cooperation, and objectives. Agents interact through screenshots and mouse--keyboard actions; automated initialization and 82 executable subgoal checks distinguish partial progress from completion. Across 324 task evaluations of three models at three reasoning-effort settings, GPT-6 Astra achieves the highest task success rate of 25.0\\% at low and medium effort, and the highest subgoal success rate of 40.3\\% at medium effort. However, high effort improves neither metric over low effort for any model. For Astra, longer requests leave fewer interaction rounds, suggesting a cost to additional reasoning in real-time control. Trajectories reveal incomplete subgoal composition and actions executing after the observed scene changes, motivating agents that combine visual reasoning with timely action.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "CausalWAM: Learning the Causes of Actions in World Action Models",
-      "url": "https://huggingface.co/papers/2610.42096",
+      "title": "Mage-VL-Cowork: A Full Training Recipe to Learn Hybrid Computer Use From Evolved Harnesses",
+      "url": "https://huggingface.co/papers/2610.40747",
       "source": "HF Papers",
-      "time": "2026-11-02",
+      "time": "2026-11-04",
       "heat": "Trending",
-      "summary": "World action models (WAMs) learn latent variables from observations and use these to both predict the evolution of the scene and to generate actions. The prediction has to be of the whole scene, whereas only a portion of the scene causes actions. WAMs fitted to demonstrations do not, in general, guarantee that they will generate actions solely from the latent causes of the demonstrated actions (the action-relevant latent variables), as the model could just as well learn to imitate in this way whilst entangling the action-relevant latent variables with the nuisance variables. We therefore separate out what causes action from what prediction depends on. We prove that under a sparsity constraint the latent variables used to generate actions are an invertible function of the action-relevant latent variables alone and the true structure is identified up to a permutation of the latent variables. This requires neither sufficient temporal dependence nor any assumptions on how the unobserved regimes evolve and holds even when the action-relevant latent variables are statistically dependent on the rest. We therefore propose CWAM (Causal WAM), which incorporates the constraint into a pretrained WAM by adding a sparse routing path to its action head, with the world modeling objective remaining unchanged. Experiments on both synthetic data and real-world robots validate the theory as well as showcase the improved efficiency in closed-loop success.",
+      "summary": "Mage-VL-Cowork is a 4B hybrid computer-use agent trained via a progressive curriculum and scalable synthetic data generation, achieving state-of-the-art performance on OSWorld-Verified with efficient reasoning.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "WeFair: Fidelity-Aware Alignment from Human Feedback for Personalized Query Rewriting in Short-Video Search",
-      "url": "https://huggingface.co/papers/2610.16927",
+      "title": "Near-Zero Token Embeddings Silently Stall Training in Gated Sequence Models",
+      "url": "https://huggingface.co/papers/2611.04449",
       "source": "HF Papers",
-      "time": "2026-11-02",
+      "time": "2026-11-04",
       "heat": "Trending",
-      "summary": "WeFair improves personalized query rewriting via fidelity-aware human feedback stages—demonstration, preference, and verification—to reduce intent drift and boost search effectiveness in short-video platforms.",
+      "summary": "Among 291 surveyed open-weight language model repositories (280 distinct embedding tables), 52.6% of untied gated and hybrid checkpoints (20/38) contain reachable input embeddings with norms below 10^{-6}, compared with 0% of weight-tied models. Such near-zero rows can arise during pretraining when unseen rare or template tokens receive zero input gradients while AdamW weight decay shrinks untied embeddings. In tested Transformer configurations, non-initial positions or a BOS token prevent this failure mode. In gated sequence models (Mamba, Gated DeltaNet, xLSTM), a near-zero token can amplify input-embedding gradients by more than 30 orders of magnitude (up to 35). At zero input, current-token readout factors (SiLU gates or linear queries) vanish, suppressing historical-state readout. Residual RMS values can then fall below the square root of the RMSNorm floor across consecutive layers, causing Pre-RMSNorm to amplify backward gradients by up to 10^3 per layer. When a gradient entry exceeds 1.84 times 10^{19}, FP32 global-norm clipping in PyTorch, Hugging Face Trainer, and FSDP2 can overflow to infinity and zero the current batch's gradients. In Telugu continual pretraining of Nemotron-3-Nano-4B, this discards updates on approximately 20% of steps and leaves triggered rows frozen. We propose two remedies. For released checkpoints, GroupClip decouples input-embedding clipping using a 64-bit or rescaled norm; its rescaled implementation eliminates update loss and heals triggered rows in one step with negligible measured end-to-end overhead. For pretraining, GateFloor (SiLU(z) + δ, δin [0.01, 0.1]) keeps the gate positive at zero input, reducing near-zero gradients by 28 orders of magnitude in experiments up to 370M parameters, with perplexity comparable to the baseline.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "Show HN: AI System Design Primer",
-      "url": "https://github.com/daneb/ai-system-design-primer/",
+      "title": "Where to Learn and How Far to Roll Out: Efficient Adaptive Training for GUI Agents",
+      "url": "https://huggingface.co/papers/2610.39251",
+      "source": "HF Papers",
+      "time": "2026-11-04",
+      "heat": "Trending",
+      "summary": "Trajectory-level GRPO is a common approach for training multi-step GUI agents, but repeatedly rolling out complete trajectories from the task root can be inefficient: task-level rewards provide coarse supervision over which intermediate decisions require improvement, while already-mastered prefixes are repeatedly re-executed before reaching difficult states. We introduce a two-stage adaptive training framework that jointly addresses where to learn and how far to roll out. We first construct reusable intermediate checkpoints from successful expert trajectories and select informative pivots using action disagreement, which measures uncertainty directly from sampled GUI actions. Stage I performs one-step RL at these pivots to improve uncertain local decisions. Stage II then progressively expands policy responsibility through adaptive Local, Suffix, and Root training according to task progress. Recoverable checkpoints enable repeated training from intermediate states without replaying the preceding trajectory. Across MobileGym and CUA-Gym-Hub, our method reduces environment interaction by 56-61% relative to Vanilla GRPO while improving task performance, demonstrating that jointly allocating training across states and rollout ranges can substantially improve GUI-agent RL efficiency.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "",
+      "url": "https://huggingface.co/papers/2611.02568",
+      "source": "HF Papers",
+      "time": "2026-11-04",
+      "heat": "Trending",
+      "summary": "SeMo3D unifies 3D generation, editing, and completion through selective region modeling, using region-selective denoising and a multi-condition diffusion transformer to preserve unchanged content and enable training without paired data.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "",
+      "url": "https://huggingface.co/papers/2610.00854",
+      "source": "HF Papers",
+      "time": "2026-11-04",
+      "heat": "Trending",
+      "summary": "Frontier vision-language models vary widely in embodied task performance, with closed-weight systems leading in planning and manipulation while open-weight models lag, and failure patterns reveal distinct geometric, control, and reasoning errors rather than uniform deficits.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "",
+      "url": "https://huggingface.co/papers/2611.03747",
+      "source": "HF Papers",
+      "time": "2026-11-04",
+      "heat": "Trending",
+      "summary": "Natural Language Processing (NLP) has been widely applied in financial domains, enabling automated analysis and retrieval of stock market information. However, traditional NLP-based systems often struggle with maintaining contextual accuracy and generating relevant responses in dynamic financial environments. To address these challenges, Retrieval-Augmented Generation (RAG) models have emerged as a powerful solution, combining retrieval-based methods with generative capabilities to enhance response quality. In this study, we present a Retrieval-Augmented Generation (RAG) system designed to generate responses related to stock market information. The system integrates retrieval-based and generative approaches to enhance the accuracy and relevance of financial text generation. To evaluate its effectiveness, we employ the ROUGE metric, specifically ROUGE-1, ROUGE-2, and ROUGE-L, to measure lexical and structural similarity between generated and reference texts. Experimental results on a dataset of 100 stock market-related queries demonstrate high ROUGE scores, indicating strong alignment with reference documents. Additionally, we assess latency to evaluate the system responsiveness, achieving an average response time of 1.16 seconds. These findings confirm that our RAG model is capable of providing accurate and timely stock market insights, making it a promising approach for financial information retrieval.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "American military unit which collects lines of thought has this technology",
+      "url": "https://news.ycombinator.com/item?id=50361385",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "2 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "\"Start with a Monolith\" Was Good Advice. AI Is Changing That",
+      "url": "https://medium.com/scalar-engineering/architecture-in-the-ai-era-part-1-summary-start-with-a-monolith-was-good-advice-7df0597d0e37",
       "source": "Hacker News",
       "time": "Today",
       "heat": "1 points",
@@ -380,8 +390,8 @@
       "section": ""
     },
     {
-      "title": "Midgarth Quest. Browser-Playable Mmorpg Written by AI",
-      "url": "https://midgarth.quest/",
+      "title": "GIMP 3.2.8 with Many Refinements, Numerous Security Fixes Due to AI Reports",
+      "url": "https://www.phoronix.com/news/GIMP-3.2.8-Released",
       "source": "Hacker News",
       "time": "Today",
       "heat": "1 points",
@@ -390,8 +400,68 @@
       "section": ""
     },
     {
-      "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
-      "url": "https://wikihack.netlify.app",
+      "title": "A private AI box in one apply",
+      "url": "https://conn3x.org/blog/private-ai-box",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "2 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Show HN: TickerTown, a pixel-art stock market simulator",
+      "url": "https://tickertown.ai",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Ask HN: What do you call Holy Grail mania risk?",
+      "url": "https://news.ycombinator.com/item?id=50361108",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "2 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Is hosting an open-source inference engine profitable?",
+      "url": "https://userecurrence.ai/research/is-hosting-open-source-inference-profitable",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "2 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "I Built an AI That Works Through the Apocalypse – Will Prowse [video]",
+      "url": "https://www.youtube.com/watch?v=E2N7IsZ_Xio",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Old, Polluting Jet Engines Are Being Scavenged to Power Data Centers",
+      "url": "https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html",
       "source": "Hacker News",
       "time": "Today",
       "heat": "3 points",
@@ -400,8 +470,38 @@
       "section": ""
     },
     {
-      "title": "Asking my AI teacher how to spell seventeen",
-      "url": "https://twitter.com/huskirl/status/2116941001335947635",
+      "title": "Ask HN: AI Side/personal projects to improve hireability?",
+      "url": "https://news.ycombinator.com/item?id=50360823",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "3 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "OpenAI is quietly renaming data centers 'compute campuses'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "5 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Show HN: Pauseless – Free silence/filler-word remover from videos, on-browser",
+      "url": "https://tahaygun.github.io/pauseless/",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "5 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Graduates are managing AI – but are they learning much else?",
+      "url": "https://www.bbc.com/news/articles/c820vz6wyp65o",
       "source": "Hacker News",
       "time": "Today",
       "heat": "4 points",
@@ -410,108 +510,8 @@
       "section": ""
     },
     {
-      "title": "What happens when the AI money loop breaks?",
-      "url": "https://fvdge.com/AI_Circularity_Stress_Lab.html",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "1 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "Show HN: Arken – cryptographic identity for AI agents calling MCP servers/APIs",
-      "url": "https://github.com/arkenforge/arken-core",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "2 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "Show HN: AWKLog – a minimalist Datalog interpreter in Awk",
-      "url": "https://github.com/stass/awklog",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "1 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "Big Tech returns smallest share of cash to shareholders in 15 years",
-      "url": "https://www.reuters.com/legal/transactional/big-tech-returns-smallest-share-cash-shareholders-15-years-given-ai-spending-2026-10-30/",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "1 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "The Economic Paradox of AI-Generated Software",
-      "url": "https://medium.com/@yassien/the-economic-paradox-of-ai-generated-software-93239b25bf1c",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "1 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "Show HN: Paste your MCP config, see what each server does at startup",
-      "url": "https://mcp.brydge-ai.com",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "1 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "American military technology beyond your imagination",
-      "url": "https://news.ycombinator.com/item?id=50332805",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "1 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "HalachaBench",
-      "url": "https://github.com/halachabench/halacha-bench-results",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "1 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "AI is programming's next abstraction. What should we teach?",
-      "url": "https://lernerpython.com/2026/11/01/ai-programming-next-abstraction/",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "2 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "Agentic AI Is Myth Set in Motion",
-      "url": "https://braddelong.substack.com/p/crosspost-henry-farrell-agentic-ai",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "2 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "Hackers are running riot with AI. Its makers want to cash in",
-      "url": "https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
+      "title": "Local AI app that runs an 80B model on an 8GB Mac",
+      "url": "https://yanahchat.com",
       "source": "Hacker News",
       "time": "Today",
       "heat": "1 points",

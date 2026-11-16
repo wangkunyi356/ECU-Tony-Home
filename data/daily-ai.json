@@ -1,14 +1,44 @@
 {
-  "date": "2026-11-14",
-  "updated_at": "2026-11-14 21:10:35",
-  "count": 55,
+  "date": "2026-11-16",
+  "updated_at": "2026-11-16 10:09:03",
+  "count": 56,
   "brief": "",
   "takeaways": [
-    "**今日最大新闻**：黄仁勋辞任英伟达CEO，CFO临时接棒、董事会全球寻人；事件叠加\"中国间谍网络\"报道，成为AI芯片行业迄今最大的治理与地缘政治冲击。",
-    "**第二重要动态**：Anthropic IPO以约1.4万亿美元估值获超额认购，同时OpenAI单季营收达100亿美元但亏损巨大——头部模型公司正同时接受资本追捧与盈利拷问。",
-    "**值得关注的趋势**：Agent基础设施快速分层——Meta做\"管理Agent的模型\"，亚马逊抢夺商品数据，HN社区做权限与预算治理；模型能力之外，调度、数据与可控性正成为新的竞争前线。"
+    "**今日最大新闻**：黄仁勋辞职后的英伟达进入\"人、股、政\"三重不确定期——FT 报道其正讨论回归，Megaspeed 就涉谍指控启动内部调查，美财长公开施压要求外部 CEO；英伟达的治理风险已成为整个 AI 交易的定价变量。",
+    "**第二重要动态**：资本侧同时出现两个极端信号——Anthropic IPO 以约 1.4 万亿美元估值超额认购，而 OpenAI 虽季度营收破百亿美元仍巨亏；前沿模型公司的\"高增长高亏损\"模型即将接受公开市场检验。",
+    "**值得关注的趋势**：研究重心明显从\"更大模型\"转向\"更可靠的决策与更便宜的数据\"：SO-Arena 与 DeepStress 直指 Agent 可靠性，Agent-R^2 用 4B 模型击败 235B，WorldDraft 给\"程序化世界 + 视频渲染\"划出能力边界。"
   ],
   "items": [
+    {
+      "title": "To the man with AI, everything looks like a task",
+      "url": "https://www.bensbites.com/p/to-the-man-with-ai-everything-looks",
+      "source": "Ben's Bites",
+      "time": "Thu, 12 Nov 2026 14:03:11 GMT",
+      "heat": "",
+      "summary": "Now I’m having fun! My Ramp post was really well received with one or two ‘I’m not sure what I just looked at’ comments (which is totally fair). The best I can describe what I’m doing now is exploring people and companies who are having fun with AI, doing things differently, being authentic and succ...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "How I got seduced",
+      "url": "https://www.bensbites.com/p/how-i-got-seduced",
+      "source": "Ben's Bites",
+      "time": "Tue, 10 Nov 2026 15:35:49 GMT",
+      "heat": "",
+      "summary": "Is it just me or does everyone else see Ramp sponsoring everything under the sun? Over the past few years it’s like I’ve been brainwashed to think more and more about Ramp. They sponsor my dreams. Rumour has it if you say ‘Ramp’ three times in a mirror, an accountant appears. To be honest, I don’t e...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
+    {
+      "title": "Craft and taste",
+      "url": "https://www.bensbites.com/p/craft-and-taste",
+      "source": "Ben's Bites",
+      "time": "Thu, 05 Nov 2026 14:02:12 GMT",
+      "heat": "",
+      "summary": "As I’m exploring what truly interests me, there’s something that’s getting clearer as the days go by. Some thing that I keep peeking at through the trees. I value taste. And I know that’s an overused term these days, plus it’s different for everyone else but I can just feel what I like and don’t lik...",
+      "insight": "",
+      "section": "newsletter_picks"
+    },
     {
       "title": "Open-source AI without Jensen",
       "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
@@ -96,36 +126,6 @@
       "time": "Sun, 01 Nov 2026 19:40:41 GMT",
       "heat": "",
       "summary": "Kia ora and welcome to another irregular Memia podcast. This episode I talk with Dr Paul Duignan , a Te Whanganui-a-Tara Wellington-based clinical and strategy psychologist, outcomes theorist and author of Surfing AI: 30 New Concepts for Getting Your Head Around AI Shock . Paul splits his week betwe...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "To the man with AI, everything looks like a task",
-      "url": "https://www.bensbites.com/p/to-the-man-with-ai-everything-looks",
-      "source": "Ben's Bites",
-      "time": "Thu, 12 Nov 2026 14:03:11 GMT",
-      "heat": "",
-      "summary": "Now I’m having fun! My Ramp post was really well received with one or two ‘I’m not sure what I just looked at’ comments (which is totally fair). The best I can describe what I’m doing now is exploring people and companies who are having fun with AI, doing things differently, being authentic and succ...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "How I got seduced",
-      "url": "https://www.bensbites.com/p/how-i-got-seduced",
-      "source": "Ben's Bites",
-      "time": "Tue, 10 Nov 2026 15:35:49 GMT",
-      "heat": "",
-      "summary": "Is it just me or does everyone else see Ramp sponsoring everything under the sun? Over the past few years it’s like I’ve been brainwashed to think more and more about Ramp. They sponsor my dreams. Rumour has it if you say ‘Ramp’ three times in a mirror, an accountant appears. To be honest, I don’t e...",
-      "insight": "",
-      "section": "newsletter_picks"
-    },
-    {
-      "title": "Craft and taste",
-      "url": "https://www.bensbites.com/p/craft-and-taste",
-      "source": "Ben's Bites",
-      "time": "Thu, 05 Nov 2026 14:02:12 GMT",
-      "heat": "",
-      "summary": "As I’m exploring what truly interests me, there’s something that’s getting clearer as the days go by. Some thing that I keep peeking at through the trees. I value taste. And I know that’s an overused term these days, plus it’s different for everyone else but I can just feel what I like and don’t lik...",
       "insight": "",
       "section": "newsletter_picks"
     },
@@ -223,8 +223,8 @@
       "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
       "url": "https://huggingface.co/papers/2611.15777",
       "source": "HF Papers",
-      "time": "2026-11-14",
-      "heat": "+76",
+      "time": "2026-11-16",
+      "heat": "+129",
       "summary": "System One models promise fast, general-purpose decision-making without lengthy token generation. However, understanding their capability spectrum and decision reliability requires more than aggregate performance on current benchmarks. Existing evaluations often provide limited insight into the breadth of model capabilities and the reliability of their decisions. We introduce SO-Arena, a benchmark characterizing the capability spectrum and decision reliability of System One models across 11 domains and five capability families. For the capability spectrum, SO-Arena offers evidence-grounded evaluation through reliable sources and manual verification of reference labels against model-visible inputs; fine-grained capability assessment through domain-specific difficulty criteria; and realistic interactive evaluation, where models iteratively execute actions in sandboxes. Reasoning-intensive tasks further enable system one-two comparison. Beyond accuracy, SO-Arena assesses decision reliability through two complementary measures: decision stability under controlled option-set changes and missing-answer recognition when no valid option is available. Evaluations across 21 models reveal that the benefits of scaling and additional reasoning vary substantially across domains. More importantly, strong overall performance does not necessarily imply reliable decision-making: the best-performing System One model ranks only seventh in reliability. Together, these findings highlight the need to characterize capability spectrum and decision reliability as complementary dimensions, providing a systematic view of the strengths and limitations of System One models.",
       "insight": "",
       "section": "huggingface_papers"
@@ -233,8 +233,8 @@
       "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
       "url": "https://huggingface.co/papers/2611.14815",
       "source": "HF Papers",
-      "time": "2026-11-14",
-      "heat": "+41",
+      "time": "2026-11-16",
+      "heat": "+43",
       "summary": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded. Prior work therefore conditions video generation on layouts that specify vehicle motion, providing control over surrounding vehicles but requiring their future trajectories as inputs. We introduce BirdDreams, an autoregressive driving world model that jointly generates perspective video and a schematic bird's-eye-view (BEV) video, making scene layout part of the predicted future. The BEV, rendered from scene annotations for training, depicts roads and vehicles as simple shapes at a fixed metric scale, providing a top-down view of their positions and motion with reduced occlusion between vehicles. Perspective video, by contrast, retains scene details that the BEV omits, such as traffic signals and object appearance. Joint attention between two video diffusion transformers, one per stream, lets each stream inform the other during generation. The predicted BEV also provides a geometric interface for ego control: we translate and rotate its latest frame along an input ego trajectory and use the resulting frames as a soft condition that shows how the scene would appear to move if only the ego vehicle moved. At inference, BirdDreams generates both videos from a single camera image without requiring an HD map or vehicle-state inputs. On PhysicalAI-AV and nuScenes, BirdDreams follows input ego trajectories more faithfully than prior driving world models and generates more plausible ego motion without ego-action conditioning. Human evaluation shows that BirdDreams outperforms a perspective-only baseline in generating realistic surrounding-vehicle behavior.",
       "insight": "",
       "section": "huggingface_papers"
@@ -243,8 +243,8 @@
       "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
       "url": "https://huggingface.co/papers/2611.16748",
       "source": "HF Papers",
-      "time": "2026-11-14",
-      "heat": "+36",
+      "time": "2026-11-16",
+      "heat": "+38",
       "summary": "Video generation models produce visually realistic videos but still struggle with physical dynamics and causal consistency. Learning from generated videos requires fine-grained physical supervision, yet reliable quality judgments, correction pairs, and controlled variations are difficult to obtain. Large language models (LLMs) possess physical knowledge, but struggle to reliably guide video generation models in producing their training videos. We present PhysLoop, a unified harness designed to support physically grounded self-improvement in video generation models. The harness guides and constrains LLMs throughout video generation, selection, and correction, distilling their physical knowledge into physically consistent videos. The framework supports controllable training-data construction and inference-time video repair. By identifying and correcting failures, PhysLoop marks a key milestone toward recursive self-improvement (RSI) in video generation models with limited human intervention. We release 100K videos spanning diverse, realistic indoor and outdoor scenes, along with generation tools and two evaluation datasets: PhysLoop-Gen and PhysLoop-Repair. We evaluate controllable generation and localized repair on these datasets, respectively, and assess physical behavior on the external Physics-IQ Verified benchmark.",
       "insight": "",
       "section": "huggingface_papers"
@@ -253,8 +253,8 @@
       "title": "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation",
       "url": "https://huggingface.co/papers/2611.13004",
       "source": "HF Papers",
-      "time": "2026-11-14",
-      "heat": "+35",
+      "time": "2026-11-16",
+      "heat": "+37",
       "summary": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, while aggressive spatial compression reduces representation capacity. Based on product quantization, we show that, under a fixed nominal information budget, group size should scale quadratically with the per-axis spatial compression factor. Building on this principle, we propose GSTAR, a spatial--group co-scaling framework that enables \\(32\\times\\) and even effective \\(64\\times\\) compression while preserving strong reconstruction, understanding, and generation performance. Since larger groups introduce intra-group dependencies that must be modeled efficiently, we analyze their impact on inference latency and generation quality and introduce a semi-autoregressive decoder that combines parallel feature computation with lightweight causal modeling. With these designs, our highly compressed models perform competitively with leading models across five representative text-to-image benchmarks (GenEval, DPG-Bench, PRISM, LongText-Bench, and Qwen-Image-Bench). At \\(1024\\times1024\\) resolution, our model delivers a \\(20\\times\\) speedup over prior discrete autoregressive models, generating each image in 2.5 seconds on a single NVIDIA H200. Together, these results show that highly compressed discrete representations can enable high-quality autoregressive generation at low latency.",
       "insight": "",
       "section": "huggingface_papers"
@@ -263,8 +263,8 @@
       "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
       "url": "https://huggingface.co/papers/2611.15131",
       "source": "HF Papers",
-      "time": "2026-11-14",
-      "heat": "+31",
+      "time": "2026-11-16",
+      "heat": "+35",
       "summary": "A reciprocal world model enables real-time full-duplex audiovisual interaction by jointly modeling intent and realization using autoregressive reasoning, synchronized attention, and dual rollout distillation.",
       "insight": "",
       "section": "huggingface_papers"
@@ -273,8 +273,8 @@
       "title": "Open Vision Banana: A Fully Open Recipe for Generative Visual Perception",
       "url": "https://huggingface.co/papers/2611.15844",
       "source": "HF Papers",
-      "time": "2026-11-14",
-      "heat": "+24",
+      "time": "2026-11-16",
+      "heat": "+28",
       "summary": "Recent work suggests that pretrained image generators encode real-world understanding beyond image synthesis. Vision Banana exploits this by framing vision tasks as conditional image editing. However, its data, weights, code, and implementation details are not public. We present Open Vision Banana (OVB), a fully open and reproducible recipe for converting pretrained generators into unified multi-task perception systems. Our analyses identify the design choices that matter most for generalization, including color encoding, prompt design, parameter adaptation, and task balancing. These choices interact, so individually helpful choices can hurt when combined with others. Starting from 4B and 9B parameter open-weight base models and using 2.1M-3.8M training pairs from public datasets, OVB surpasses Vision Banana's reported Cityscapes zero-shot performance (73.9 vs. 69.9 mIoU) and rivals state-of-the-art affine-invariant depth estimators. Its non-zero-shot variants come within five points of Vision Banana on referring and reasoning segmentation but remain further behind on instance segmentation. All models largely retain the base model's image-editing abilities. With legend ensembling, we introduce a test-time scaling method for generator-based perception. It segments an image under several class-color legends and fuses the results by majority vote, correcting unstable color-class bindings and improving mIoU by up to 8.7 points on Cityscapes and 15.0 points on COCO-Object without retraining. We release the dataset construction and processing pipeline, the training and evaluation code, as well as the final, intermediate, and ablation checkpoints. Project website: https://openvisionbanana.github.io",
       "insight": "",
       "section": "huggingface_papers"
@@ -283,19 +283,9 @@
       "title": "Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents",
       "url": "https://huggingface.co/papers/2611.17167",
       "source": "HF Papers",
-      "time": "2026-11-14",
-      "heat": "+23",
+      "time": "2026-11-16",
+      "heat": "+26",
       "summary": "Decision models answer a question with a typed output, such as a choice among options with a probability for each, so one model can choose an agent's actions, evaluate actions already taken, or score every action to teach a policy with reinforcement learning. Prior work has studied them mainly as actors, judging their usefulness by how well they act. We ask whether a decision model that acts poorly can still teach well. We compare three decision models and three general LLMs as actors and judges on ALFWorld, and use JEV as a teacher on ALFWorld and WebShop. As actors, all six models are pulled away from a subgoal that must come first by an easier one. As judges that see the whole trajectory, the same models credit the steps toward that subgoal, and asking whether each action helped, rather than whether the task will succeed, separates useful from useless actions. As a teacher, JEV raises a Qwen2.5-1.5B policy over GRPO from 72.8% to 82.9% success on ALFWorld and from 56.8% to 71.4% on WebShop. These results suggest that a poor actor can still teach well, because judging an action after the episode ends reveals the consequences that acting must anticipate. Code is available at https://github.com/ZJU-REAL/decision-agents.",
-      "insight": "",
-      "section": "huggingface_papers"
-    },
-    {
-      "title": "On the Design of Hyper-Connections: Simplification, Stability, and Scalability",
-      "url": "https://huggingface.co/papers/2611.05984",
-      "source": "HF Papers",
-      "time": "2026-11-14",
-      "heat": "+19",
-      "summary": "A systematic study of Hyper-Connections architectures identifies the simpler efficient design SimpleHC, which removes residual mixing and uses shared memory access to match mHC performance while adding minimal training overhead and improving stability.",
       "insight": "",
       "section": "huggingface_papers"
     },
@@ -303,9 +293,19 @@
       "title": "Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors",
       "url": "https://huggingface.co/papers/2611.17060",
       "source": "HF Papers",
-      "time": "2026-11-14",
-      "heat": "+18",
+      "time": "2026-11-16",
+      "heat": "+22",
       "summary": "Large foundation models such as GPT-6 Astra and Claude Fable 5.1 have recently been shown to control robots directly from visual observations. They nevertheless remain brittle on long-horizon, contact-rich tasks in real-world environments. Further progress depends on two complementary resources: demonstrations of human behavior that supervise how tasks are performed, and interactive environments in which policies can be rolled out, evaluated, and improved in closed loop. Language models have advanced along well-characterized scaling laws; the corresponding question for physical AI is how capability scales with environments and behaviors, which first requires identifying which data to scale and how to produce and reuse such data continuously. To address this question, we introduce Ropedia Xperience 2, comprising 1,589 released metric-scale 3D scans and a collection of 4,230 egocentric recordings of 74 tasks (131 hours). We further show that each capture can be repurposed for robot learning: scenes are converted into physically interactive simulation environments, human motion is retargeted to whole-body robot trajectories, and additional robot behaviors are obtained through virtual teleoperation and automated long-horizon trajectory generation. We propose this joint capture of environments and behaviors as a gold standard for physical AI data collection, laying a data foundation for establishing scaling laws over environments and behaviors.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "On the Design of Hyper-Connections: Simplification, Stability, and Scalability",
+      "url": "https://huggingface.co/papers/2611.05984",
+      "source": "HF Papers",
+      "time": "2026-11-16",
+      "heat": "+21",
+      "summary": "A systematic study of Hyper-Connections architectures identifies the simpler efficient design SimpleHC, which removes residual mixing and uses shared memory access to match mHC performance while adding minimal training overhead and improving stability.",
       "insight": "",
       "section": "huggingface_papers"
     },
@@ -313,8 +313,8 @@
       "title": "TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models",
       "url": "https://huggingface.co/papers/2611.17331",
       "source": "HF Papers",
-      "time": "2026-11-14",
-      "heat": "+14",
+      "time": "2026-11-16",
+      "heat": "+17",
       "summary": "By baking global scene information from cross-view attention into a lightweight MLP, Test-Time Baking (TTB) enhances the fidelity of novel-view decoding in Large View Synthesis Models while maintaining the efficiency of Test-Time Training.",
       "insight": "",
       "section": "huggingface_papers"
@@ -323,19 +323,9 @@
       "title": "Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement",
       "url": "https://huggingface.co/papers/2611.08318",
       "source": "HF Papers",
-      "time": "2026-11-14",
-      "heat": "+8",
+      "time": "2026-11-16",
+      "heat": "+13",
       "summary": "Exposing benchmark success criteria to self-improving embodied coding agents can raise measured success under those criteria without improving instructed-task completion, and the advantage weakens under slight criteria changes and transfers poorly across tasks, while instruction-faithful criteria better reflect instructed-task performance.",
-      "insight": "",
-      "section": "huggingface_papers"
-    },
-    {
-      "title": "WorldDraft: If Code Builds the World, Can Video Models Just Render It?",
-      "url": "https://huggingface.co/papers/2611.16217",
-      "source": "HF Papers",
-      "time": "2026-11-14",
-      "heat": "+7",
-      "summary": "Multimodal coding agents decouple 4D world construction from visual generation, repurposing video models from world generators toward generative renderers. This division of labor raises a fundamental question: if code builds the world, can video models just render it? A reliable generative renderer hinges on two complementary criteria: (i) world preservation, retaining prescribed 4D kinematics and camera paths; and (ii) visual realization, persistently binding text-specified target attributes over time. To evaluate this capability, we introduce WorldDraft, a benchmark of 432 strictly paired test cases across 48 executable 4D world families spanning six dynamic challenge categories. Under a 3 times 3 factorial design, WorldDraft orthogonally crosses draft granularity (abstract proxy to previs) and appearance alignment (neutral to conflicting) under identical dynamics. Extensive evaluations across 12 representative models reveal that: (I) world preservation and visual realization remain in stark operational tension; (II) richer draft scaffolding anchors structure but paradoxically impairs appearance fidelity; and (III) conflicting source cues trigger severe source leakage (up to 64%), exposing fragile cross-modal disentanglement. To mitigate these bottlenecks, we propose WorldDraft-Primer, a plug-and-play visual prompting strategy that consistently improves both objectives across frozen video renderers. Together, WorldDraft and WorldDraft-Primer lay a foundation for bridging programmatic 4D simulation with video generation, advancing physically grounded generative rendering.",
       "insight": "",
       "section": "huggingface_papers"
     },
@@ -343,85 +333,95 @@
       "title": "Unbundling Multimodal Vision Encoding",
       "url": "https://huggingface.co/papers/2611.17334",
       "source": "HF Papers",
-      "time": "2026-11-14",
-      "heat": "+6",
+      "time": "2026-11-16",
+      "heat": "+9",
       "summary": "Controlled experiments show that multimodal language models do not need a pretrained vision encoder, but benefit from dedicated vision capacity trained jointly with the backbone and integrated early rather than before fusion.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "Factored One-sided Adam-Moment for Practical and Scalable SOAP",
+      "title": "",
+      "url": "https://huggingface.co/papers/2611.16217",
+      "source": "HF Papers",
+      "time": "2026-11-16",
+      "heat": "+8",
+      "summary": "Multimodal coding agents decouple 4D world construction from visual generation, repurposing video models from world generators toward generative renderers. This division of labor raises a fundamental question: if code builds the world, can video models just render it? A reliable generative renderer hinges on two complementary criteria: (i) world preservation, retaining prescribed 4D kinematics and camera paths; and (ii) visual realization, persistently binding text-specified target attributes over time. To evaluate this capability, we introduce WorldDraft, a benchmark of 432 strictly paired test cases across 48 executable 4D world families spanning six dynamic challenge categories. Under a 3 times 3 factorial design, WorldDraft orthogonally crosses draft granularity (abstract proxy to previs) and appearance alignment (neutral to conflicting) under identical dynamics. Extensive evaluations across 12 representative models reveal that: (I) world preservation and visual realization remain in stark operational tension; (II) richer draft scaffolding anchors structure but paradoxically impairs appearance fidelity; and (III) conflicting source cues trigger severe source leakage (up to 64%), exposing fragile cross-modal disentanglement. To mitigate these bottlenecks, we propose WorldDraft-Primer, a plug-and-play visual prompting strategy that consistently improves both objectives across frozen video renderers. Together, WorldDraft and WorldDraft-Primer lay a foundation for bridging programmatic 4D simulation with video generation, advancing physically grounded generative rendering.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "",
       "url": "https://huggingface.co/papers/2611.16905",
       "source": "HF Papers",
-      "time": "2026-11-14",
-      "heat": "+4",
+      "time": "2026-11-16",
+      "heat": "+6",
       "summary": "FOAM is a lightweight SOAP variant that uses input-only preconditioning and a factored Adam-moment estimator to match strong second-order and Muon baselines in LLM pre-training while using half the optimizer state and running at Muon-class speed.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "UniSpark: Exploring Hybrid Attention for Multimodal Understanding and Generation",
-      "url": "https://huggingface.co/papers/2611.16517",
-      "source": "HF Papers",
-      "time": "2026-11-14",
-      "heat": "+4",
-      "summary": "We present UniSpark-9B, a unified multimodal model that investigates hybrid attention for visual understanding and generation. Built on a Mixture-of-Transformer-Experts backbone with approximately 9B parameters in each branch, UniSpark combines full attention for explicit token interactions with GatedDeltaNet linear attention for compact context propagation. Autoregressive text prediction and visual flow matching jointly support visual question answering, text-to-image generation, instruction-guided editing, and interleaved text-image prediction. In interleaved generation, noisy visual targets are isolated from subsequent predictions, while clean visual representations provide context for later outputs. A blockwise protocol enforces this distinction through attention masks in full-attention layers and recurrent-state retention rules in linear-attention layers. The selected training sources contain 159.7M generation samples, 213.4M understanding samples, and 624.8K interleaved sequences. A four-stage curriculum jointly trains multimodal understanding and visual generation, refining answer accuracy and instruction following while extending image synthesis to 2K. UniSpark scores 2470.3 on MME-S and 0.83 on GenEval. Qualitative examples further illustrate its capabilities in interleaved image generation, video synthesis, and video editing. Together, these results demonstrate that hybrid attention provides an effective backbone for unified multimodal understanding and generation.",
-      "insight": "",
-      "section": "huggingface_papers"
-    },
-    {
-      "title": "Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction",
+      "title": "",
       "url": "https://huggingface.co/papers/2611.10439",
       "source": "HF Papers",
-      "time": "2026-11-14",
-      "heat": "Trending",
+      "time": "2026-11-16",
+      "heat": "+5",
       "summary": "Self-evolving agents improve their own skills, memory, and harness code from experience without retraining the base LLM, and group-evolving agents go further by sharing these lessons across agents. Yet most such systems overlook that sharing across users and heterogeneous agents requires deciding who can benefit from each lesson and what information must remain private. We present MixUA, a memory system that distills independent user-agent trajectories into lessons and assigns each lesson to a user-agent pair, user, agent, or global scope according to whom it benefits and what it may disclose. For evaluation, we introduce CrossLearnBench, a mixed-user-agent benchmark that pairs established agent tasks with user preferences and privacy probes that test whether private facts leak into memory other users can read. With five users and seven agents, MixUA raises pass rates by up to 16 points over no memory and 5 over a single global memory, even on tasks previously tried only by other users on other agents. It retains up to 90% of previously stated preferences, and at most 0.02% of privacy probes find a planted private fact in a forbidden scope. We hope MixUA offers a scalable path toward a global system where users and agents co-evolve.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "TurtLES: A Large-Scale Benchmark for Turbulent 3D Neural PDE Surrogates",
-      "url": "https://huggingface.co/papers/2611.09567",
+      "title": "",
+      "url": "https://huggingface.co/papers/2611.16517",
       "source": "HF Papers",
-      "time": "2026-11-14",
-      "heat": "Trending",
-      "summary": "Machine-learning surrogates are increasingly used to accelerate computational fluid dynamics, yet progress is limited by the lack of benchmarks capturing realistic, time-dependent turbulent flows. We introduce TurtLES, a 14 TB dataset of 3D turbulent cylinder wakes in the shear-layer transition regime, computed via high-fidelity implicit large-eddy simulations. The dataset contains 400 trajectories of 400 time steps each, with 3-11 million points per frame, spanning variations in geometry, Reynolds number, and angle of attack. Unlike existing datasets, TurtLES combines (i) physically realistic turbulence with an active energy cascade driven by vortex stretching, (ii) dense irregular meshes, and (iii) long-horizon temporal dynamics. We benchmark state-of-the-art neural operators on autoregressive rollouts and identify key failure modes, including temporal instability, loss of small-scale energy, and challenges in learning on large irregular domains. TurtLES provides a new benchmark for evaluating surrogate models on 3D turbulent wakes at industrially relevant mesh resolution.",
+      "time": "2026-11-16",
+      "heat": "+5",
+      "summary": "We present UniSpark-9B, a unified multimodal model that investigates hybrid attention for visual understanding and generation. Built on a Mixture-of-Transformer-Experts backbone with approximately 9B parameters in each branch, UniSpark combines full attention for explicit token interactions with GatedDeltaNet linear attention for compact context propagation. Autoregressive text prediction and visual flow matching jointly support visual question answering, text-to-image generation, instruction-guided editing, and interleaved text-image prediction. In interleaved generation, noisy visual targets are isolated from subsequent predictions, while clean visual representations provide context for later outputs. A blockwise protocol enforces this distinction through attention masks in full-attention layers and recurrent-state retention rules in linear-attention layers. The selected training sources contain 159.7M generation samples, 213.4M understanding samples, and 624.8K interleaved sequences. A four-stage curriculum jointly trains multimodal understanding and visual generation, refining answer accuracy and instruction following while extending image synthesis to 2K. UniSpark scores 2470.3 on MME-S and 0.83 on GenEval. Qualitative examples further illustrate its capabilities in interleaved image generation, video synthesis, and video editing. Together, these results demonstrate that hybrid attention provides an effective backbone for unified multimodal understanding and generation.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "JustRUA: A Controlled Study of GPT-6 Robot-Use Agents",
-      "url": "https://huggingface.co/papers/2611.16009",
+      "title": "",
+      "url": "https://huggingface.co/papers/2611.16961",
       "source": "HF Papers",
-      "time": "2026-11-14",
+      "time": "2026-11-16",
       "heat": "Trending",
-      "summary": "A simplified evaluation harness that keeps full episode history and stops motions early substantially improves robot-use agent scores on RoboDojo, with scene geometry providing the largest additional benefit.",
+      "summary": "A hybrid decision model routes between implicit single-forward-pass answering and full autoregressive reasoning via a self-routing block trained with calibrated decision policy optimization, reducing token and latency costs while preserving accuracy.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "DeepStress: Stress-Testing Deep Search Agents",
-      "url": "https://huggingface.co/papers/2607.13920",
-      "source": "HF Papers",
-      "time": "2026-11-14",
-      "heat": "Trending",
-      "summary": "While search agents demonstrate impressive capabilities in multi-step question answering, their robustness to poor-quality evidence remains under-explored. Such evidence is rare in benchmark corpora, and resulting failures are hard to reproduce. We propose DeepStress, a dynamic stress-testing framework that subjects agents to degraded evidence at controlled rates. It replaces the retrieval module with a synthetic environment where documents are generated dynamically for each query, under independent control of their trustworthiness, relevance, and factuality. To characterize behavior under stress, we go beyond binary accuracy with a five-way classification of final-answer outcomes and two new reliability-aware metrics, RAS and CoPRAS, which credit cautious behavior and account for computational cost. Evaluating 12 systems on questions from HotpotQA and BrowseComp-Plus, we find that several open-weight agents answer confidently when sources contain obvious credibility red flags, and that many HotpotQA questions are answered from parametric knowledge even when all returned documents are factually wrong.",
-      "insight": "",
-      "section": "huggingface_papers"
-    },
-    {
-      "title": "Agent-R^2: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis",
+      "title": "",
       "url": "https://huggingface.co/papers/2611.08219",
       "source": "HF Papers",
-      "time": "2026-11-14",
+      "time": "2026-11-16",
       "heat": "Trending",
       "summary": "A real-source data synthesis framework trains a 4B agent on 4k task instances with supervised fine-tuning and rubric-based reinforcement learning, improving realistic productivity work and file-grounded reasoning over larger models.",
       "insight": "",
       "section": "huggingface_papers"
     },
     {
-      "title": "Show HN: Shotoku – Local-first action governance and budget caps for AI agents",
-      "url": "https://www.shotoku.dev/",
+      "title": "",
+      "url": "https://huggingface.co/papers/2611.16409",
+      "source": "HF Papers",
+      "time": "2026-11-16",
+      "heat": "Trending",
+      "summary": "Language-model agents trained with reinforcement learning can improve by learning to create and curate experience artifacts that help future rollouts, not just by optimizing actions from scalar rewards.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "",
+      "url": "https://huggingface.co/papers/2607.13920",
+      "source": "HF Papers",
+      "time": "2026-11-16",
+      "heat": "Trending",
+      "summary": "While search agents demonstrate impressive capabilities in multi-step question answering, their robustness to poor-quality evidence remains under-explored. Such evidence is rare in benchmark corpora, and resulting failures are hard to reproduce. We propose DeepStress, a dynamic stress-testing framework that subjects agents to degraded evidence at controlled rates. It replaces the retrieval module with a synthetic environment where documents are generated dynamically for each query, under independent control of their trustworthiness, relevance, and factuality. To characterize behavior under stress, we go beyond binary accuracy with a five-way classification of final-answer outcomes and two new reliability-aware metrics, RAS and CoPRAS, which credit cautious behavior and account for computational cost. Evaluating 12 systems on questions from HotpotQA and BrowseComp-Plus, we find that several open-weight agents answer confidently when sources contain obvious credibility red flags, and that many HotpotQA questions are answered from parametric knowledge even when all returned documents are factually wrong.",
+      "insight": "",
+      "section": "huggingface_papers"
+    },
+    {
+      "title": "Show HN: AquarIum – pick your favorite (AI-generated) fish tank",
+      "url": "https://galleries.artfish.ai/aquarium/",
       "source": "Hacker News",
       "time": "Today",
       "heat": "1 points",
@@ -430,48 +430,8 @@
       "section": ""
     },
     {
-      "title": "Show HN: Timon, an open-source AI workstation for coordinating agents",
-      "url": "https://github.com/ai-timon/timon",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "2 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "Air-Traffic Resilience Portfolio",
-      "url": "https://tilt.now/tilt/MTwqny",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "2 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "Transitive Policies for Agents: Agent Permissions Don't Automatically Compose",
-      "url": "https://glthr.com/transitive-policies-for-ai-agents",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "2 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "Why platform teams fail (and AI makes it worse)",
-      "url": "https://willdady.com/why-platform-teams-fail",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "3 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "Advanced paper aircraft construction (1991)",
-      "url": "https://archive.org/details/advancedpaperair0000morr",
+      "title": "Will the AI boom continue? Forecasting the trajectory of the AI industry",
+      "url": "https://forecastingresearch.substack.com/p/will-the-ai-boom-continue-forecasting",
       "source": "Hacker News",
       "time": "Today",
       "heat": "1 points",
@@ -480,8 +440,8 @@
       "section": ""
     },
     {
-      "title": "Build Your Own AI Coding Agent Harness",
-      "url": "https://vercel.com/academy/build-ai-agent-harness",
+      "title": "A.I. Stories in the Age of AI Hype: A Conversation with Ted Chiang",
+      "url": "https://buttondown.com/charliejane/archive/ai-stories-in-the-age-of-ai-hype-a-conversation/",
       "source": "Hacker News",
       "time": "Today",
       "heat": "1 points",
@@ -490,8 +450,8 @@
       "section": ""
     },
     {
-      "title": "Amazon's plan to own the product data and fight AI shopping agents",
-      "url": "https://www.reuters.com/business/media-telecom/amazons-plan-own-worlds-product-data-fight-ai-shopping-agents-2026-11-13/",
+      "title": "Apple launches research study to explore the use of AI for health",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
       "source": "Hacker News",
       "time": "Today",
       "heat": "2 points",
@@ -500,18 +460,8 @@
       "section": ""
     },
     {
-      "title": "App like GitHub for your conversations with AI",
-      "url": "http://ainiconva.com",
-      "source": "Hacker News",
-      "time": "Today",
-      "heat": "3 points",
-      "summary": "",
-      "insight": "",
-      "section": ""
-    },
-    {
-      "title": "Do what must be done",
-      "url": "https://news.ycombinator.com/item?id=50496383",
+      "title": "How NewsNinja syncs all its data in less than 1 MB of iCloud",
+      "url": "https://ainews.ninja/blog/icloud-key-value-store-sync/",
       "source": "Hacker News",
       "time": "Today",
       "heat": "1 points",
@@ -520,8 +470,28 @@
       "section": ""
     },
     {
-      "title": "So Far, AI Pessimism Is Observationally Equivalent to AI Optimism",
-      "url": "https://www.betonit.ai/p/so-far-ai-pessimism-is-observationally",
+      "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+      "url": "https://www.hntrends.com/2026/november.html",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "24 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Agentic AI Designs an Analog Synthesizer",
+      "url": "https://cpldcpu.github.io/2026/11/14/touchsynth/",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "1 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Everything Made by an AI Is in the Public Domain",
+      "url": "https://pluralistic.net/2023/08/20/everything-made-by-an-ai-is-in-the-public-domain/",
       "source": "Hacker News",
       "time": "Today",
       "heat": "2 points",
@@ -530,8 +500,8 @@
       "section": ""
     },
     {
-      "title": "Real: Reported Engagement with AI Level Framework",
-      "url": "https://www.realgoodai.org/real-rating",
+      "title": "I Sustained 500K Words of Human–AI Dialogue Through Continuous Correction",
+      "url": "https://uka-135-map.pplx.app",
       "source": "Hacker News",
       "time": "Today",
       "heat": "1 points",
@@ -540,8 +510,8 @@
       "section": ""
     },
     {
-      "title": "Ask HN: My product makes money, AI does the coding, and I feel useless",
-      "url": "https://news.ycombinator.com/item?id=50495982",
+      "title": "'It's like the Wild West': how AI has rocked the literary world",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
       "source": "Hacker News",
       "time": "Today",
       "heat": "5 points",
@@ -550,11 +520,51 @@
       "section": ""
     },
     {
-      "title": "Anti-Turing for AI: Presumption as a Form of Thought",
-      "url": "https://medium.com/@smoking2man/anti-turing-for-ai-presumption-as-a-form-of-thought-9eb8ae8edc9f",
+      "title": "Amazon MadPot: Honeypot for AI Agents",
+      "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/",
       "source": "Hacker News",
       "time": "Today",
-      "heat": "1 points",
+      "heat": "4 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "10-tonne-class electric aircraft completed first manned flight",
+      "url": "https://twitter.com/XHNews/status/2121596133936091612",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "2 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "20 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "Perplexity partners with Nvidia to launch Portable Computer",
+      "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "2 points",
+      "summary": "",
+      "insight": "",
+      "section": ""
+    },
+    {
+      "title": "CrowdGPT – AI Owned by Everyone",
+      "url": "https://www.crowdgpt.net/#home",
+      "source": "Hacker News",
+      "time": "Today",
+      "heat": "2 points",
       "summary": "",
       "insight": "",
       "section": ""
